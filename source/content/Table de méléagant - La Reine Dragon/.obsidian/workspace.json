@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "La compagnie/Sagrimm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Sagrimm"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -171,9 +171,14 @@
   },
   "active": "c924157ebc0a3696",
   "lastOpenFiles": [
-    "Lieux remarquable.md",
+    "La compagnie/Robert Yohan.md",
+    "La compagnie/Naprelan Toradol.md",
+    "La compagnie/Elros Rauthiniel.md",
+    "Transcription des séances.md",
+    "La compagnie/Sagrimm.md",
     "Résumé de campagne.md",
+    "La compagnie/La compagnie.md",
     "index.md",
-    "Transcription des séances.md"
+    "Lieux remarquable.md"
   ]
 }

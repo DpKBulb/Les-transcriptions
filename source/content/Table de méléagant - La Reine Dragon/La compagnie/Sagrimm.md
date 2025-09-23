@@ -7,4 +7,8 @@ protéger du mieux qu’il le peut les forêts anciennes et toutes les créature
 
 ##### Caractère connu et apparence
 
-1m75, on ne voit que ses vetement, pas un brin de peau ne depasse. Ses apparat rappelle le monde du spectacle et des arlequin. Il est de nature farceur et nonchalante. Son masque est rose et est orné d'un sourire. Le masque de guerre il deviens Sagronde et quand il enfile sa grand capuche avec des trou pour ses yeux il deviens Sagredin. Il a l'air intéresser par les discussions sur les dieux
+1m75, on ne voit que ses vêtement, pas un brin de peau ne dépasse. Ses apparat rappelle le monde du spectacle et des arlequin. Il est de nature farceur et nonchalante. Son masque est rose et est orné d'un sourire. Le masque de guerre il deviens Sagronde et quand il enfile sa grand capuche avec des trou pour ses yeux il deviens Sagredin. Il a l'air intéresser par les discussions sur les dieux
+
+#### Fun fact
+
+Il est plutôt secret sur ses habitudes.

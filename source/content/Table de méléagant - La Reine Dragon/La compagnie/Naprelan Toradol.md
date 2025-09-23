@@ -7,3 +7,7 @@ Ce fût tout naturellement qu’il se porta volontaire. Il avait hâte d’enfin
 ##### Caractère connu et apparence
 Elfe, age moyen, cheveux blanc et long, un longue robe blanche immaculé. Un chaudron sur l'epaule, un regard perçant.
 Il s'est lancé dans la creation de potion il y a peu, mais il est plutot talentueux, il a rejoint l'E.V.I.A.N. Sa specialité sont les potions de la destiné(il ne sait pas ce qu'elle font mais il a trouvé un bon marketing). Il n'est pas tres au courant de l'etat du monde du a l'ostracisation de son village, mais c'est le sujet de sa mission pour ramener les nouvelles a son village. 
+
+#### Fun fact
+
+En parallèle de son apprentissage de sorcier, comme il devait participer a la vie du village, il passait beaucoup de temps auprès des charpentier du village. Il appris à travailler le bois et s'est énormément renforcer physiquement. Il aime sculpter des petites figurines sur son temps libre. 

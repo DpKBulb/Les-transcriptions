@@ -7,8 +7,12 @@ Une fois libéré, il s’engage dans les rangs de l’Église de Pelor en tant 
 Cependant, sa conscience finit par le rattraper. Réalisant l’erreur de ses actes, il tente de quitter l’Inquisition pour retrouver son amie, mais elle meurt avant qu'il n'y parvienne. Décidé à réparer ses torts, Robbert choisit alors de renaître en tant que paladin de Pelor, jurant de protéger les plus démunis et de soigner ceux dans le besoin, afin de racheter son passé marqué par la violence
 
 ##### Caractère connu et apparence
-Pas tres agreable
-Pas si croyant que ca
-Crois en sa cause et prie plus pour qqun que pour sa religion
-Il est grand et massif plus de 2m, il a un chapeau qui cache a moitié son visage. Il est plutot renfermé, il a le visage marqué par la vie ca se sent qu'il a vecu des choses violente et fait des choses violentes par le passé, il est mefiant et alerte. 
+Pas très agréable
+Pas si croyant que ca pour un paladin
+Crois en sa cause et prie plus pour les gens qu'il croise que pour sa religion
+Il est grand et massif plus de 2m, il a un chapeau qui cache a moitié son visage. Il est plutôt renfermé, il a le visage marqué par la vie ca se sent qu'il a vécu des choses violente et fait des choses violentes par le passé, il est méfiant et alerte. 
 On ne sait quel dieu il sert malgré les indices sur ses armoiries son arme ou son médaillon qui représente un gantelet métallique. 
+
+#### Fun fact
+
+Il est extrêmement propre, il déteste les trucs sales et désagréables se rase et s'épile soigneusement, il prend très à cœur ses petits soins du quotidien. Il aime se faire une toilette de princesse, les bains moussants ainsi que les soins du visage. Il adore passer du temps dans les spas dans chaque ville dans lesquelles il passe pendant ses voyages
