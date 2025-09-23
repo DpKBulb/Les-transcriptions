@@ -1,10 +1,11 @@
-
 [[La compagnie]] est composé de :
-Robert Yohan - Edmand (Mathis IRL) en L2 histoire avant en archeo
-Naprelan Toradol - Hugo comedien metteur en scene dans le theatre
-Sagrimm - Sagredin fraude graphiste
-Elros Rauthiniel - Moi meme
-Meleagant - Yuleeza le mj prof de svt
+Robert Yohan - Edmand
+Naprelan Toradol - Hugo
+Sagrimm - Sagredin
+Elros Rauthiniel - DpK
+Meleagant - Yuleeza
+
+[[Résumé des séances]]
 
 Règles Dungeon world PBTA homemade
 **Jets de dés**

@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/lfbkbwlw#Q67LZk46GF0WzB/mbylciQZX++DM4sX3bHNYy7S6I2M
-share_updated: 2025-09-17T09:37:12+02:00
----
 ##### 0.5 Introduction - La catastrophe de Greenest
 
 Naprelan et Elros se sont croisé au sud de la porte de Baldur, Elros a sorti Naprolan d'une mauvaise passe face a des bandit. Il essaye de faire connaitre ses potions de par le monde. Elros n'ayant pas d'objectif précis l'accompagnera jusqu'au abords de Berdusk. Sagrimm voyageais vers l'ouest en partant de Berdusk, il a croisé la route de Robbert qui le pris pour quelqu'un de louche avec ses masque. Elros et Naprelan sont arrivé à se moment. Ils ont très vite désamorcé la situation qui s'avèrent n'être qu'un malentendu dû aux préjugé du paladin. 
