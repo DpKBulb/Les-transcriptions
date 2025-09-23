@@ -5,7 +5,7 @@ Sagrimm - Sagredin
 Elros Rauthiniel - DpK
 Meleagant - Yuleeza
 
-[[Résumé des séances]]
+[[Résumé de campagne]]
 
 Règles Dungeon world PBTA homemade
 **Jets de dés**
