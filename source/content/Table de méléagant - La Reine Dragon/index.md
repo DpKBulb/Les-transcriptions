@@ -5,7 +5,6 @@ Sagrimm - Sagredin
 Elros Rauthiniel - DpK
 Meleagant - Yuleeza
 
-[[Résumé de campagne]]
 
 Règles Dungeon world PBTA homemade
 **Jets de dés**
@@ -20,3 +19,11 @@ Pas de violences sexuelles
 
 ##### Montée de niveau
 7+niveau pour le level up
+
+##### Sommaire
+
+1. [[La compagnie]]
+2. [[Lieux remarquable]]
+3. [[PNJ remarquable]]
+4. [[Transcription des séances]]
+5. [[Résumé de campagne]]
