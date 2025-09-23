@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles et autres indications.md",
+                "file": "La compagnie/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Règles et autres indications"
+              "title": "Index"
             }
           }
         ]
@@ -171,10 +171,10 @@
   },
   "active": "c924157ebc0a3696",
   "lastOpenFiles": [
-    "index.md",
-    "Règles et autres indications.md",
     "La compagnie/La compagnie.md",
     "La compagnie/Index.md",
+    "Règles et autres indications.md",
+    "index.md",
     "PNJ remarquable.md",
     "Lieux remarquable.md",
     "Transcription des séances.md",
