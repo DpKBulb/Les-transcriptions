@@ -16,3 +16,5 @@ On ne sait quel dieu il sert malgré les indices sur ses armoiries son arme ou s
 #### Fun fact
 
 Il est extrêmement propre, il déteste les trucs sales et désagréables se rase et s'épile soigneusement, il prend très à cœur ses petits soins du quotidien. Il aime se faire une toilette de princesse, les bains moussants ainsi que les soins du visage. Il adore passer du temps dans les spas dans chaque ville dans lesquelles il passe pendant ses voyages
+
+A peur des rats

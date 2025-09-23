@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La compagnie/Sagrimm.md",
+                "file": "PNJ remarquable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sagrimm"
+              "title": "PNJ remarquable"
             }
           }
         ]
@@ -171,14 +171,15 @@
   },
   "active": "c924157ebc0a3696",
   "lastOpenFiles": [
-    "La compagnie/Robert Yohan.md",
-    "La compagnie/Naprelan Toradol.md",
-    "La compagnie/Elros Rauthiniel.md",
     "Transcription des séances.md",
+    "La compagnie/Robbert Yohan.md",
+    "La compagnie/Naprelan Toradol.md",
+    "PNJ remarquable.md",
+    "Lieux remarquable.md",
+    "index.md",
+    "La compagnie/Elros Rauthiniel.md",
     "La compagnie/Sagrimm.md",
     "Résumé de campagne.md",
-    "La compagnie/La compagnie.md",
-    "index.md",
-    "Lieux remarquable.md"
+    "La compagnie/La compagnie.md"
   ]
 }

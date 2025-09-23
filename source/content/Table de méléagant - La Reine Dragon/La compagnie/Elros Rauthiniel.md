@@ -17,3 +17,5 @@ A quitté Waterdeep parce qu'il commencais a devenir trop celebre pour un roubla
 #### Fun fact
 
 Il est accro aux chats, il est obnubiler par eux. les poursuit et les papouilles des qu'il peut. Ca lui arrive d'oublier ce qu'il faisait et se mettre a suivre un chat errant pour aller le caresser.
+
+A deja forcer le cadenas d'une ceinture de chasteté
