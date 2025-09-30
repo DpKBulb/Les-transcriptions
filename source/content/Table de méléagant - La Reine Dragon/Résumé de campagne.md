@@ -36,3 +36,5 @@
  Durant ce temps, le sorcier combattait de toutes ses forces. Lui et son chaudron s'imposaient comme une véritable muraille face à l'ennemi, protégeant ses compagnons. Le paladin, galvanisé par les efforts de son frère d'armes, se releva et massacra ses ennemis, n'en laissant qu'un seul. Le sorcier proposa à ce dernier de se rendre, mais il négocia : soit le groupe le laissait fuir, soit le combat continuait. La seconde option fut choisie et, sèchement, le paladin le trancha en quatre parts égales.
 
  Grâce à une flasque de liqueur de groseille, le roublard sortit enfin de sa torpeur. Ensemble, le groupe rebroussa chemin pour se reposer un instant et récupérer ses forces.
+ 
+ ## Episode II
