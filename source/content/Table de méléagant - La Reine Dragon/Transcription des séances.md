@@ -14,7 +14,7 @@ Elros et Sagrimm se détache du groupe pour aller glaner des informations discre
 La villageoise s'avere être effrayer du combat qui viens de se passer.  
 
 
-##### 1. Premiere séance
+##### 1. Première séance - Ouille Aille Aille Ouille !
 
 Les ennemis maintenant vaincu la femme remercie le groupe et leur demande qui ils sont. Elle pointe la colline et dit il faut aller la bas c'est le dernier rempart, et s'y rend aussi vite qu'il peuvent mais les enfant et l'homme blesser sont plus lent. Naprelan voyant que l'homme et que les enfant sont tetanisé de peur il en transporta un dans son chaudron et la femme pris le plus jeune dans ses bras.
 Pendant ce temps, Robbert fait une imposition des main sur le mari blessé, une lumiere jaune terne et un son grave et etouffé se fait entendre, le mari fut converti a Torm suite a cela. Il attrape le troisieme enfant dans ses bras. Sagrim remet son masque rose. Le groupe s'elance vers la forteresse sur la colline pointé plus tot.
