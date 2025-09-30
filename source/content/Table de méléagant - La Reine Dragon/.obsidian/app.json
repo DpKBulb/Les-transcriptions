@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showLineNumber": true
 }

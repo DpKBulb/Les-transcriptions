@@ -10,6 +10,8 @@ Il s'est lancé dans la creation de potion il y a peu, mais il est plutot talent
 
 #### Fun fact
 
-En parallèle de son apprentissage de sorcier, comme il devait participer a la vie du village, il passait beaucoup de temps auprès des charpentier du village. Il appris à travailler le bois et s'est énormément renforcer physiquement. Il aime sculpter des petites figurines sur son temps libre. 
+ En parallèle de son apprentissage de sorcier, comme il devait participer a la vie du village, il passait beaucoup de temps auprès des charpentier du village. Il appris à travailler le bois et s'est énormément renforcer physiquement. Il aime sculpter des petites figurines sur son temps libre. 
 
-Sait communiqué avec les rats
+ Sait communiqué avec les rats
+
+ A peur des araignée aux nombres de pattes impairs

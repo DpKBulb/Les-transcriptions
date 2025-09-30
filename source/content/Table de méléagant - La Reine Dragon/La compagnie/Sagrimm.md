@@ -11,4 +11,6 @@ protéger du mieux qu’il le peut les forêts anciennes et toutes les créature
 
 #### Fun fact
 
-Il est plutôt secret sur ses habitudes.
+ Il est plutôt secret sur ses habitudes.
+
+ En dessous de ses habits il a un juste au corps noir pour être sur de ne pas devoiler sa peau

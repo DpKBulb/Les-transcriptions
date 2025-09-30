@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Résumé de campagne.md",
+                "file": "Transcription des séances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Résumé de campagne"
+              "title": "Transcription des séances"
             }
           }
         ]
@@ -171,17 +171,17 @@
   },
   "active": "c924157ebc0a3696",
   "lastOpenFiles": [
-    "Transcription des séances.md",
-    "Résumé de campagne.md",
-    "La compagnie/Index.md",
     "La compagnie/La compagnie.md",
-    "Règles et autres indications.md",
-    "index.md",
-    "PNJ remarquable.md",
-    "Lieux remarquable.md",
     "La compagnie/Robbert Yohan.md",
     "La compagnie/Naprelan Toradol.md",
     "La compagnie/Elros Rauthiniel.md",
-    "La compagnie/Sagrimm.md"
+    "La compagnie/Sagrimm.md",
+    "index.md",
+    "Résumé de campagne.md",
+    "Transcription des séances.md",
+    "La compagnie/Index.md",
+    "Règles et autres indications.md",
+    "PNJ remarquable.md",
+    "Lieux remarquable.md"
   ]
 }
