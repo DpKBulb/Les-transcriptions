@@ -20,4 +20,6 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
 
  A déjà forcer le cadenas d'une ceinture de chasteté
 
- Ne fais pas de méditation, préfère dormir parce que la flemme un peu
+ Ne fais pas de méditation, préfère dormir parce que la flemme un peu.
+ 
+ Il y a un décalage entre les histoires épique à son sujet et la réalité

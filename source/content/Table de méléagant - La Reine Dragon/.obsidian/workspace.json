@@ -11,10 +11,14 @@
             "id": "c924157ebc0a3696",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Transcription des séances.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transcription des séances"
             }
           }
         ]
@@ -168,16 +172,20 @@
   "active": "c924157ebc0a3696",
   "lastOpenFiles": [
     "Résumé de campagne.md",
+    "PNJ remarquable/Amlin.md",
     "Transcription des séances.md",
-    "La compagnie/La compagnie.md",
-    "La compagnie/Robbert Yohan.md",
-    "La compagnie/Naprelan Toradol.md",
     "La compagnie/Elros Rauthiniel.md",
-    "La compagnie/Sagrimm.md",
-    "index.md",
-    "La compagnie/Index.md",
-    "Règles et autres indications.md",
+    "La compagnie/Naprelan Toradol.md",
     "PNJ remarquable.md",
+    "PNJ remarquable/Tarbaw Coteaunoir.md",
+    "La compagnie/Robbert Yohan.md",
+    "La compagnie/Sagrimm.md",
+    "PNJ remarquable/index.md",
+    "La compagnie/index.md",
+    "PNJ remarquable",
+    "La compagnie/La compagnie.md",
+    "index.md",
+    "Règles et autres indications.md",
     "Lieux remarquable.md"
   ]
 }

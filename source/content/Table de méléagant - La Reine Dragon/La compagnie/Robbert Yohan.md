@@ -20,3 +20,5 @@
  A peur des rats
 
  Palet de doberman pourrais manger du bois
+
+ Il sait jouer de la guitare, seulement une musique.

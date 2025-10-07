@@ -14,3 +14,5 @@ protéger du mieux qu’il le peut les forêts anciennes et toutes les créature
  Il est plutôt secret sur ses habitudes.
 
  En dessous de ses habits il a un juste au corps noir pour être sur de ne pas devoiler sa peau
+
+  A part si sa vie ou celle d'un compagnon est en danger il evite de faire du mal aux animaux et empeche les autres de leur faire du mal. 

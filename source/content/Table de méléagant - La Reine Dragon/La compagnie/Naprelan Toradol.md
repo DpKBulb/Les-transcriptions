@@ -15,3 +15,4 @@ Il s'est lancé dans la creation de potion il y a peu, mais il est plutot talent
  Sait communiqué avec les rats
 
  A peur des araignée aux nombres de pattes impairs
+ Dans le cercle druidique de la foret il a tester une potion qui lui changer sa peau en une couleur bleuatre et toute la communauté se moque de lui depuis cet episode. Depuis on l'appelle Naprelan le bleu

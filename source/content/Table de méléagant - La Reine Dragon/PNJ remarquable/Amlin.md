@@ -1,6 +1,1 @@
-##### Tarbaw Côteaunoir
-Le gouverneur de Verdure. 
-Elros le trouve suspect depuis qu'il a dit qu'il "a pris le pouvoir a Verdure".
-
-##### Almin
 Jeune garde plein d'espoir, il s'était engagé, comme son père, pour défendre son village. Alors qu'il s'était blessé à un entraînement, il rencontra la douce Guen, dont il tomba follement amoureux. Il l'emmena en balade près des pics nuageux où il la demanda en mariage. Quelques semaines plus tard, sa fiancée tomba enceinte et, d'ici la fin du mois, il aurait dû se marier. Mais le devoir le rappela. Se dressant comme un rempart pour secourir un inconnu muni d'un gros chaudron, il faillit subir l'assaut terrible d'un carreau d'arbalète. Sur sa tombe sera gravé : « Repose en paix Amlin, mari et père aimant. »
