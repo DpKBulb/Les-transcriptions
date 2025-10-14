@@ -37,7 +37,7 @@
 
  Grâce à une flasque de liqueur de groseille, le roublard sortit enfin de sa torpeur. Ensemble, le groupe rebroussa chemin pour se reposer un instant et récupérer ses forces.
  
-## Episode II : KESKONFÉ ?
+## ÉPISODE II : KESKONFÉ ?
 
  Le repos fut bref, mais nécessaire. Les aventuriers, toujours mal en point, prirent la direction du temple de Chauntéa. Cette fois-ci, le groupe opta pour une approche furtive. Profitant de la nuit et du chaos ambiant pour se fondre sous les ombres des bois, ils parvinrent à éviter les combats. Le Paladin et le Sorcier, bien trop bruyants du fait de leur armure et chaudron, restèrent en arrière, laissant le Roublard et le Maître des Masques partir en éclaireurs. Escaladant avec finesse un petit mur de briques, ils distinguèrent, à travers l'épaisse fumée des incendies, les silhouettes de kobolds et de mercenaires qui tentaient de forcer l'entrée du temple. Le Maître, tentant de percevoir plus clairement la scène, s'appuya sur une brique fragile qui se fendit, menant à la chute de l'aventurier masqué. Avec lui, s'effondra une partie du mur, qui ne manqua pas d'attirer quelques attentions malveillantes. Très vite, le Roublard saisit son compagnon, s'échappant avec lui vers le Paladin et le Sorcier.
    
@@ -52,3 +52,33 @@
  Un quart d'heure plus tard apparurent les renforts envoyés par Côteaunoir. Les aventuriers furent félicités pour avoir « contenu » la situation. À l'aide des gardes, ils purent nettoyer le moulin, non sans le sacrifice d'un jeune garde qui s'interposa entre un carreau et le sorcier : [[Amlin]].
 
  De retour à la forteresse, rien de bon n'attendait les aventuriers. À l'extérieur des murs retentit un cri rauque, celui d'un humanoïde couvert d'écailles azures, à la tête de dragon. Tenant fièrement sa lance, il regardait le sommet des murs avec un sourire carnassier.
+
+## ÉPISODE III : ÉCAILLES CONTRE ÉCAILLES
+	
+ Se dressait, au pied de la muraille, une véritable armée de kobolds. Pourtant, un calme lourd régnait au sommet de la colline. On n’entendait que quelques murmures inquiets dans la forteresse et, près de l’homme-dragon, les gémissements étouffés des prisonniers bâillonnés. Une petite famille était suspendue à des poteaux, comme des morceaux de viande sèche.
+	
+ Le dracéide prit une longue inspiration avant de crier d’une voix profonde et gutturale :
+« Voyez ces prisonniers de votre espèce ! Je peux les libérer ! En échange, vous enverrez votre meilleur guerrier. Je l’affronterai seul à seul. Et s’il gagne, je libérerai vos gens… Autrement, ils mourront. Tentez de ruser, ils mourront ! Tentez de négocier, ils mourront ! Vous avez un quart d’heure. »
+	
+ L’atmosphère se raidit davantage. Les murmures devinrent des discussions et, alors qu’un jeune garde s’apprêtait à défier le dragon, poussé par ses confrères et par la volonté de sauver sa sœur, le paladin l’arrêta.
+Malgré les doutes sur la transparence de cette grosse vipère bleue, les aventuriers estimèrent que le paladin ferait un champion idéal. Néanmoins, le groupe se tenait prêt en cas d’embuscade. Vu l’allure du dragon, peu croyaient vraiment à la victoire du paladin, qu’on pensait surtout servir de chair à canon pour gagner du temps et sauver les otages.
+	
+ Le sorcier prépara une potion suspecte pour le paladin, qu’il mélangea à son fond de liqueur de groseille. Le guerrier avala le tout, poussa la porte du fort et se dressa face au dracéide, tonnelet en main. La créature se montra plus grande et plus épaisse que son adversaire, et dégaina une longue lame, elle aussi plus massive que celle du paladin. Les kobolds restèrent en arrière et commencèrent à scander le nom de leur maître. Au sommet de la muraille, à de rares instants, un aventurier encourageait fugitivement le paladin.
+	
+ S’engagea alors un violent duel. Fonçant bouclier en avant, le paladin porta le premier coup, brutal, contre les écailles épaisses du dracéide. L’impact fut si fort qu’un sifflement acouphénique envahit le crâne de la créature. Mais au lieu de la rendre vulnérable, l’assaut l’enragea. Sa large lame perça la défense du paladin, entaillant les plaques de son armure et lui tranchant la chair en profondeur. Le choc le repoussa ; la douleur le fit tituber, offrant une ouverture à son adversaire. L’attaque s’abattit lourdement sur le bouclier du guerrier de Torm, qui se fendit sous la pression.
+	
+ Les lames s’entrechoquaient et vint un instant où les deux combattants durent reprendre leur souffle. Tous deux blessés, l’issue du combat reposait sur un seul coup. Le paladin et le dracéide s’élancèrent l’un vers l’autre, leurs épées se rencontrant dans un éclat fracassant, leurs armures s’entrechoquant, écailles contre écailles. Bien que le draconide détenait l’avantage de l’allonge, le paladin bénéficiait d’une meilleure efficacité au contact. Il investit toute sa force pour déstabiliser le lézard, se décala sur son flanc faible et, n’ayant pas la place pour frapper à la lame, usa de la garde de son épée, qu’il logea dans la gueule de la bête. La main de Torm, glorieuse, vint fracasser les fines écailles entre l’œil et le museau, propulsant le dragon au sol, inconscient.
+	
+ Les kobolds s’agitèrent, bondissant devant le paladin avec leurs lances. Mais aucun n’attaqua : ils rapatrièrent leur chef et libérèrent les prisonniers. Le paladin fit barrage et soigna les blessés ; tous purent regagner l’enceinte du fort.
+	
+ Cette victoire ne marqua pas un jour de fête, mais un jour de deuil. Le paladin s’effondra dans une botte de foin pour se reposer tandis que tout le village s’affairait à enterrer ses morts et à récupérer tant bien que mal. Enfin, les aventuriers purent goûter un repos convenable, leurs actions les ayant propulsés au rang de héros.
+	
+ Le lendemain, après un repos mérité, Côteaunoir sollicita à nouveau leur aide. Il voulait comprendre et surtout éliminer définitivement la menace. Il demanda aux aventuriers de suivre les traces de l’armée draconique et de trouver leur camp afin d’éclaircir toute cette histoire. Côteaunoir leur promit une récompense.
+	
+ Sans plus attendre, le groupe se lança dans une nouvelle besogne. En premier lieu, grâce aux nouveaux pouvoirs du paladin, ils interrogèrent les cadavres de cultistes pour obtenir plus d’informations. Ce culte étrange agissait au nom d’une « Reine Dragon ». Vint alors un plan plus simple et efficace : se déguiser en cultistes et suivre les larges traces laissées par le passage de l’armée draconide.
+	
+ Ils atteignirent un paysage plus rocailleux où ils croisèrent un groupe de retardataires. Le Maître des Masques se dissimula dans les ombres au cas où la rencontre tournerait mal. Le roublard brilla par ses talents de manipulateur, se faisant rapidement accepter par les cultistes ; le sorcier s’intégra plus discrètement, bien qu’une légère suspicion pesât sur lui. Quant au paladin… personne, absolument personne ne crut à son déguisement. Son air bourru et une capuche trop petite le desservaient, et il fut relégué à l’écart.
+	
+ Le groupe parvint malgré tout, surtout grâce au roublard, à se fondre parmi les cultistes et à les suivre jusqu’au véritable camp plus loin. Cependant, sur la route, toujours suivi de près par le maître des ombres, ils traversèrent un passage étroit, cerné par des roches, lorsque l’un des cultistes siffla.
+	
+ Un éboulement se déclencha, séparant le Maître des Masques du reste du groupe. Surgirent alors des lanciers : le discret poursuivant semblait être tombé dans une embuscade.
