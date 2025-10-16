@@ -16,10 +16,12 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
 
 #### Fun fact
 
- Il est accro aux chats, il est obnubiler par eux. les poursuit et les papouilles des qu'il peut. Ca lui arrive d'oublier ce qu'il faisait et se mettre a suivre un chat errant pour aller le caresser.
+ - Il est accro aux chats, il est obnubiler par eux. les poursuit et les papouilles des qu'il peut. Ca lui arrive d'oublier ce qu'il faisait et se mettre a suivre un chat errant pour aller le caresser.
 
- A déjà forcer le cadenas d'une ceinture de chasteté
+ - A déjà forcer le cadenas d'une ceinture de chasteté
 
- Ne fais pas de méditation, préfère dormir parce que la flemme un peu.
+ - Ne fais pas de méditation, préfère dormir parce que la flemme un peu.
  
- Il y a un décalage entre les histoires épique à son sujet et la réalité
+ - Il y a un décalage entre les histoires épique à son sujet et la réalité
+
+ - A deja a gagner un concours de boisson et maintenant veut gagner tous les concours de boisson des tavernes qu'il croise

@@ -61,7 +61,8 @@
 « Voyez ces prisonniers de votre espèce ! Je peux les libérer ! En échange, vous enverrez votre meilleur guerrier. Je l’affronterai seul à seul. Et s’il gagne, je libérerai vos gens… Autrement, ils mourront. Tentez de ruser, ils mourront ! Tentez de négocier, ils mourront ! Vous avez un quart d’heure. »
 
  L’atmosphère se raidit davantage. Les murmures devinrent des discussions et, alors qu’un jeune garde s’apprêtait à défier le dragon, poussé par ses confrères et par la volonté de sauver sa sœur, le paladin l’arrêta.
-Malgré les doutes sur la transparence de cette grosse vipère bleue, les aventuriers estimèrent que le paladin ferait un champion idéal. Néanmoins, le groupe se tenait prêt en cas d’embuscade. Vu l’allure du dragon, peu croyaient vraiment à la victoire du paladin, qu’on pensait surtout servir de chair à canon pour gagner du temps et sauver les otages.
+ 
+ Malgré les doutes sur la transparence de cette grosse vipère bleue, les aventuriers estimèrent que le paladin ferait un champion idéal. Néanmoins, le groupe se tenait prêt en cas d’embuscade. Vu l’allure du dragon, peu croyaient vraiment à la victoire du paladin, qu’on pensait surtout servir de chair à canon pour gagner du temps et sauver les otages.
 
  Le sorcier prépara une potion suspecte pour le paladin, qu’il mélangea à son fond de liqueur de groseille. Le guerrier avala le tout, poussa la porte du fort et se dressa face au dracéide, tonnelet en main. La créature se montra plus grande et plus épaisse que son adversaire, et dégaina une longue lame, elle aussi plus massive que celle du paladin. Les kobolds restèrent en arrière et commencèrent à scander le nom de leur maître. Au sommet de la muraille, à de rares instants, un aventurier encourageait fugitivement le paladin.
 	

@@ -15,10 +15,12 @@
 
 #### Fun fact
 
- Il est extrêmement propre, il déteste les trucs sales et désagréables se rase et s'épile soigneusement, il prend très à cœur ses petits soins du quotidien. Il aime se faire une toilette de princesse, les bains moussants ainsi que les soins du visage. Il adore passer du temps dans les spas dans chaque ville dans lesquelles il passe pendant ses voyages
+ - Il est extrêmement propre, il déteste les trucs sales et désagréables se rase et s'épile soigneusement, il prend très à cœur ses petits soins du quotidien. Il aime se faire une toilette de princesse, les bains moussants ainsi que les soins du visage. Il adore passer du temps dans les spas dans chaque ville dans lesquelles il passe pendant ses voyages
 
- A peur des rats
+ - A peur des rats
 
- Palet de doberman pourrais manger du bois
+ - Palet de doberman pourrais manger du bois
 
- Il sait jouer de la guitare, seulement une musique.
+ - Il sait jouer de la guitare, seulement une musique.
+ - Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.
+ - Quand il etait petit il a pris un coup de lance sur le flanc et du coup la blessure le lance de temps a autres.
