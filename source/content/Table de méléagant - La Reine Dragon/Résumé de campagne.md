@@ -106,6 +106,6 @@
 
  Le Sorcier avait déjà planté les graines du chaos : une malédiction de dégoût jetait sur un cultiste, attisant la rumeur d'une maladie au sein du camp. De plus, en consommant sa potion de destin, il se vit sa chair se couvrir de plume. Les deux compagnons virent là l'idée parfaite : Les Kobolds seraient à l'origine de la maladie et deviendrait de plus en plus agressif... Le Paladin provoquerait les Kobolds qui s'énerveraient alors sur les cultistes, avec la suspicion de maladie, le reste du camp voudront s'en débarrasser, promettant alors un bain de sang ! 
 
-    Le silence pesa. Quelques murmures, regards en biais et épaules haussées : tels étaient la réaction de tous. Tout reposait désormais sur le Roublard et son compagnon de cellule.
+ Le silence pesa. Quelques murmures, regards en biais et épaules haussées : tels étaient la réaction de tous. Tout reposait désormais sur le Roublard et son compagnon de cellule.
 
  Mais alors que la situation semblait se figer, une ombre se détacha des hauteurs rocheuses. Se faufilant, invisible dans l'obscurité, elle avait tout observé : chaque geste, chaque mot. Il était temps pour elle d'entrer en scène.
