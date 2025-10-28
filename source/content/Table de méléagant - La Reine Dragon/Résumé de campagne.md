@@ -83,3 +83,29 @@
  Le groupe parvint malgré tout, surtout grâce au roublard, à se fondre parmi les cultistes et à les suivre jusqu’au véritable camp plus loin. Cependant, sur la route, toujours suivi de près par le maître des ombres, ils traversèrent un passage étroit, cerné par des roches, lorsque l’un des cultistes siffla.
 
  Un éboulement se déclencha, séparant le Maître des Masques du reste du groupe. Surgirent alors des lanciers : le discret poursuivant semblait être tombé dans une embuscade.
+
+## ÉPISODE IV : DOUBLE FACE
+
+ Une pluie de flèches s'abattit sur le Maître des Masques. Par chance, il parvint à se mettre à couvert derrière une large roche, la même qui avait bien failli l’écraser plus tôt. Néanmoins, au lieu de détaler à toute berzingue ou de riposter, le Maître des Masques eut une idée. 
+
+ Il changea de masque et arbora le fier faciès du héros. D’un pas assuré, il surgit de sa cachette, les bras grand ouvert, tel un maître de cérémonie. Il y eut une seconde. Une seconde de confusion qui s'étira dans l’esprit des archers. Une seconde d’hésitation qui s’éclipsa dès que la première flèche fut décochée, puis se planta dans le corps immobile du Maître des Masques. Cet intru ne revêtait pas le même masque… Était ce un autre ? Qu'importe, les archers s’épuisèrent en salves épineuses, poussant alors le Maître des Masques à la retraite. 
+
+ Pendant ce temps, les aventuriers feignaient l’indifférence, bien que l’inquiétude au sujet de leur compagnon ne cessât de croître. Leur entrevue avec les archers cultistes - qui paraissaient bien plus disciplinés que leur troupe actuelle - n’améliora pas ce sentiment. Ces derniers les sermonnèrent sur l’importance d’être prudents, ventant avec zèle que la menace avait été gérée : le fuyard, disaient-ils, finirait sans doute vidé de son sang, seul dans le froid sauvage de la montagne. Un portrait donc peu rassurant. Mais la mission primait. 
+
+ Le campement des cultistes reposait au creux d'une cuve naturelle, cernée par des pics rocheux. Huttes et tentes s'entassaient au milieu d'un bric-à-brac de matériel sans doute pillé ici et là. L'organisation du camp trahissait une hiérarchisation de l'espace : kobolds avec kobolds, cultistes avec cultistes et chefs avec chefs. S'attendant à une fête victorieuse, la désillusion frappa les aventuriers face à l'humeur morne des troupes qui rangeaient et suivaient les ordres. 
+
+ Se réunissant à l’écart, le groupe réfléchit à un plan : empoisonner la soupe du soir avec une potion de destin ? Trop risqué. Saouler tout le monde avec de la bière naine ? Banco ! Le Sorcier et le Paladin se fonderaient dans la masse afin de quérir quelques informations tandis que le Roublard, lui, userait de son verbe - et son alcoolisme - pour provoquer une fête. 
+
+ La fête ne débuta jamais. Un supérieur, visiblement aigri, attrapa le Roublard le traînant face au chef des cultistes. Ce dernier dévoila un de ses pouvoirs, réduisant au silence le Roublard qui tentait de protester. Finalement, il termina en geôle, dans une tente dédiée aux prisonniers. 
+
+ Le Paladin, qui avait guetté toute la scène, se tenait prêt à agir en cas d'abus de violence. Tentant d’épier ce qui se déroulait dans la tente, il se ravisa. Les insultes et provocations du Roublard lui suffirent à comprendre : tout cela faisait du plan de son compagnon. Il connaissait trop bien ses talents d’évasion et de ruse. Effectivement, trouver le camp n'était pas leur seul objectif, il leur fallait ramener en vie un certain Leocin Erlantar, fait prisonnier ici. Le Paladin avait presque oublié ce détail ; heureusement que le Roublard, lui, gardait la tête froide. 
+
+ Le Sorcier, de son côté, multipliait les tâches, se liant presque d’amitié avec les cultistes et obtenant des informations précises : noms, adresses, pointures et goûts musicaux. Bientôt, le camp n’aurait plus de secret pour lui. Ne voyant aucune initiative prise par ses compagnons, il se décida à accomplir sa besogne avec minutie jusqu’à la tombée de la nuit. 
+
+ Il se retrouva avec le Paladin sous un ciel nocturne. Ils échangèrent leurs informations et se mirent à penser à une diversion pour aider le Roublard dans l'exécution de son plan ingénieux. Comme un éclair de génie, les deux compagnons furent frappée d'une révélation. Accuser une minorité vulnérable de tous les maux - surtout utilisée comme chair à canon dans la plupart des besognes et recluse au sein du camp dans des habitations délabrées - les Kobolds !
+
+ Le Sorcier avait déjà planté les graines du chaos : une malédiction de dégoût jetait sur un cultiste, attisant la rumeur d'une maladie au sein du camp. De plus, en consommant sa potion de destin, il se vit sa chair se couvrir de plume. Les deux compagnons virent là l'idée parfaite : Les Kobolds seraient à l'origine de la maladie et deviendrait de plus en plus agressif... Le Paladin provoquerait les Kobolds qui s'énerveraient alors sur les cultistes, avec la suspicion de maladie, le reste du camp voudront s'en débarrasser, promettant alors un bain de sang ! 
+
+    Le silence pesa. Quelques murmures, regards en biais et épaules haussées : tels étaient la réaction de tous. Tout reposait désormais sur le Roublard et son compagnon de cellule.
+
+ Mais alors que la situation semblait se figer, une ombre se détacha des hauteurs rocheuses. Se faufilant, invisible dans l'obscurité, elle avait tout observé : chaque geste, chaque mot. Il était temps pour elle d'entrer en scène.
