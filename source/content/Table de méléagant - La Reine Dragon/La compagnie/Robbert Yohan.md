@@ -24,3 +24,4 @@
  - Il sait jouer de la guitare, seulement une musique.
  - Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.
  - Quand il etait petit il a pris un coup de lance sur le flanc et du coup la blessure le lance de temps a autres.
+ - Calvitie naissante

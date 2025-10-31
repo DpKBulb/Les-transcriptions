@@ -17,3 +17,4 @@ protéger du mieux qu’il le peut les forêts anciennes et toutes les créature
 
   - A part si sa vie ou celle d'un compagnon est en danger il evite de faire du mal aux animaux et empeche les autres de leur faire du mal. 
   - Ancien alcoolique est maintenant sobre depuis depuis deux jours
+  - Soit Sagrimm reflechit souvent soit il a des absence

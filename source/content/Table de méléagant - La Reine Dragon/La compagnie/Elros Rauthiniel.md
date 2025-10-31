@@ -25,3 +25,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
  - Il y a un décalage entre les histoires épique à son sujet et la réalité
 
  - A deja a gagner un concours de boisson et maintenant veut gagner tous les concours de boisson des tavernes qu'il croise
+ - Il y a des pieds horrible qu'il cache

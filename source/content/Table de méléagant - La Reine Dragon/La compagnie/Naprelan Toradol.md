@@ -19,3 +19,4 @@
  - Dans le cercle druidique de la foret il a tester une potion qui lui changer sa peau en une couleur bleuatre et toute la communauté se moque de lui depuis cet episode. Depuis on l'appelle Naprelan le bleu
  
  - Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.
+ - Naprelan ne tiens pas l'alcool et a l'alcool mauvais
