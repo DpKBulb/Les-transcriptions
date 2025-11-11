@@ -69,6 +69,8 @@ Naprelan informe les rats d'a quoi ressemble les ennemis et leur demande de le m
  Robert se met a porter des caisses pour rester discret et apprend que le culte a fait deja plusieurs raid dans le coin mais Verdure etait leur plus gros coup. Et apparement c'etait la plus rentable et cela a la gloire de Tiamat.
  Sagredin en arrivant au camp discretement il apercoit Elros se trainer vers une hutte depuis les hauteur en attendant la tombé de la nuit. 
 
+## 5. Episode cinquième
+
  La nuit tombé, Naprelan s'éclipse et lance une malédiction discrete qui lui donne du degout sur absolument tout ce qui mange. Il rejoins Robert, tente de monter un plan d'action. Naprelan donne une potion a Robert qui ne semble pas donné le resultat prevu? Robert panique un peu. Il adapte leur histoire et veulent faire croire a une malediction des kobolds pour tenter de monter les deux groupe les uns contre les autres. 
  Sagredin s'infiltre jusque dans la tente par l'arriere et passe une tete pour reperer les lieux y voit Elros Leocin et les gardes mais semble impossible de s'infiltrer pour le moment donc s'en va. 
  Leocin profite de ce moment pour donner un couteau precedemment caché dans sa botte a Elros.
