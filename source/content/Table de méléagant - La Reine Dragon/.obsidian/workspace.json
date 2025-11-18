@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcription des séances.md",
+                "file": "La compagnie/Bur Ghir et Nugget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transcription des séances"
+              "title": "Bur Ghir et Nugget"
             }
           }
         ]
@@ -171,21 +171,22 @@
   },
   "active": "c924157ebc0a3696",
   "lastOpenFiles": [
-    "La compagnie/Elros Rauthiniel.md",
+    "La compagnie/Naprelan Toradol.md",
     "La compagnie/Sagrimm.md",
     "La compagnie/Robbert Yohan.md",
-    "La compagnie/Naprelan Toradol.md",
+    "La compagnie/Bur Ghir et Nugget.md",
+    "La compagnie/La compagnie.md",
+    "La compagnie/Elros Rauthiniel.md",
+    "Lieux remarquable.md",
+    "PNJ remarquable.md",
+    "Résumé de campagne.md",
+    "Règles et autres indications.md",
     "Transcription des séances.md",
     "PNJ remarquable/Amlin.md",
     "PNJ remarquable/Tarbaw Coteaunoir.md",
-    "Résumé de campagne.md",
-    "La compagnie/La compagnie.md",
-    "PNJ remarquable.md",
     "PNJ remarquable/index.md",
     "La compagnie/index.md",
     "PNJ remarquable",
-    "index.md",
-    "Règles et autres indications.md",
-    "Lieux remarquable.md"
+    "index.md"
   ]
 }
