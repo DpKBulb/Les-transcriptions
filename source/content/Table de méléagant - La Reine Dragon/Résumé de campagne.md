@@ -109,3 +109,31 @@
  Le silence pesa. Quelques murmures, regards en biais et épaules haussées : tels étaient la réaction de tous. Tout reposait désormais sur le Roublard et son compagnon de cellule.
 
  Mais alors que la situation semblait se figer, une ombre se détacha des hauteurs rocheuses. Se faufilant, invisible dans l'obscurité, elle avait tout observé : chaque geste, chaque mot. Il était temps pour elle d'entrer en scène.
+
+##ÉPISODE V - Les masques tombent.##
+
+ Au beau milieu de l’agitation qui secouait le camp, entre incendies mystérieux et rumeurs de kobolds malades, il y eut cet instant. Un long moment durant lequel trois silhouettes, dissimulées dans les ombres, restèrent immobiles, la main sur le menton, hantées par une seule question : « Comment on fait ? ». 
+
+ Le plan savamment élaboré par le roublard semblait avoir mené ses compagnons droit dans une impasse. Étaient-ils simplement trop obtus pour saisir le génie de leur camarade ? Ou bien le Roublard s’était-il bâti, au fil du temps, l’image factice d’un élégant elfe talentueux ? Impossible. Il devait exister une solution autre que le fatal « On les tue tous », soufflé par un paladin désespéré.
+     
+ L’arrivée du maître des masques redonna un semblant d’espoir. Sous l’un de ses nombreux visages, il pouvait devenir presque invisible. Il suffirait de distraire les gardes pour lui ouvrir la voie et permettre à son ombre fugace de libérer la cible. Le paladin parvint subtilement à entailler la toile de la tente, offrant au sorcier l’angle nécessaire pour invoquer l’une de ses malédictions. Aussitôt, les frelons et guêpes quittèrent la dépouille boursouflée du kobold maudit il y a de cela des jours, pour fondre sur l’un des quatre gardes. Pris de panique, celui-ci s’enfuit hors de la tente, se débattant inutilement.
+
+ Hélas, deux gardes demeuraient à l’intérieur, en alerte. La dernière phase du plan se mit alors en marche et tout s’enchaîna. Le Paladin frappa la toile, la rabattant sur les deux hommes, mais deux patrouilleurs l’aperçurent. Il fut assommé et traîné vers la potence. Pendant ce court laps de temps, le Maître des Masques, suivi de près par le Sorcier, s’était glissé dans la tente pour libérer le Roublard, le bon Leocin, ainsi qu’un type bruyant qui alerta la garde en remerciant le maître pour sa libération. Le groupe n’eut pas le temps de fuir : un combat éclata.
+     
+ Le Roublard se jeta sur le garde le plus proche et lui trancha la carotide. Le maître, quant à lui, se retrouva cerné par deux geôliers. Il se défendit du mieux qu’il put, mais ses anciennes blessures et les assauts répétés eurent raison de lui. 
+     
+ Voyant son compagnon vaciller, le sorcier, jusqu’alors en retrait, entra dans la mêlée et fracassa le crâne d’un des deux gardes. Le dernier fut épargné, le groupe se concentrant sur le corps du maître des masques. Il ne réagissait plus. Sans doute inconscient, peut-être simplement épuisé. Le Sorcier le souleva, et accompagné du Roublard et de Leocin, se lança dans une fuite précipitée.
+
+ Le paladin, de son côté, reprenait à peine connaissance. Les deux guerriers chargés de le mener au chef peinaient à le traîner, ce qui lui permit de les surprendre. Il en étourdit un, se libéra et s’échappa dans le chaos du camp avant de retrouver ses compagnons.
+
+ Leocin refusait de partir maintenant, mais le paladin le souleva sans lui demander son avis et prit la tête de la retraite. Il soignerait le maître des masques une fois en sécurité.
+
+ Mais on les repéra, et ils durent accélérer. Le sorcier se retrouva en queue de groupe, épuisé par son combat et par le poids de son compagnon inanimé. Celui-ci ne bougeait plus du tout. Le sang ruisselait de ses plaies et aucun souffle ne venait troubler son immobilité. Le sorcier comprit. Une part de lui l’accepta, une autre s’y refusa. Et derrière lui, les lances se rapprochaient. 
+
+ Le choix fut atroce. Il abandonna la dépouille du maître des masques.
+
+ Ainsi le groupe s’échappa vers Verdure, guidé par le fameux type bruyant. Ils laissèrent derrière eux le corps du maître des masques, et avec lui, son secret.
+
+ À Verdure, ils purent se reposer et récupérer quelques pièces. L’idée de tout abandonner pour retaper une vieille grange et en faire un bar-tabac traversa brièvement leurs esprits, avant qu’ils ne se ressaisissent : la menace du culte draconique planait toujours.
+
+ Leocin leur demanda alors de l’aide. Tandis qu’il irait transmettre ses informations à un paladin de Torm, Ontar Kruml, le groupe devrait retourner au camp ennemi pour en apprendre davantage. Il leur promit à chacun cent cinquante pièces d’or pour cette mission. Le groupe se prépara alors à reprendre la route, avec deux nouveaux compagnons. 
