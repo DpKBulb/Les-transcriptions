@@ -20,3 +20,4 @@
  
  - Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.
  - Naprelan ne tiens pas l'alcool et a l'alcool mauvais
+ - Le chaudron est le dernier souvenir de sa famille et ne veut absolument pas s'en séparé

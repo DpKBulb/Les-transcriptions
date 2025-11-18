@@ -1,3 +1,5 @@
+Décédé...
+
 **Maître des masques**  
   
 Depuis sa jeunesse, il avait toujours eu l’âme d’un vagabond. Tour à tour troubadour chantant dans les tavernes enfumées, mercenaire louant son épée aux plus offrants, ou simple voyageur suivant les  routes poussiéreuses, il menait une existence humble mais libre. Cette vie d’aventures lui avait permis  de goûter aux plaisirs simples du monde, même si son esprit aventureux lui avait parfois valu quelques  mésaventures.  
