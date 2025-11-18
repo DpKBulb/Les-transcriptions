@@ -110,7 +110,7 @@
 
  Mais alors que la situation semblait se figer, une ombre se détacha des hauteurs rocheuses. Se faufilant, invisible dans l'obscurité, elle avait tout observé : chaque geste, chaque mot. Il était temps pour elle d'entrer en scène.
 
-##ÉPISODE V - LES MASQUES TOMBENT
+## ÉPISODE V - LES MASQUES TOMBENT
 
  Au beau milieu de l’agitation qui secouait le camp, entre incendies mystérieux et rumeurs de kobolds malades, il y eut cet instant. Un long moment durant lequel trois silhouettes, dissimulées dans les ombres, restèrent immobiles, la main sur le menton, hantées par une seule question : « Comment on fait ? ». 
 
