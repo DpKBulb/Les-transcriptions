@@ -26,3 +26,4 @@
  - Quand il etait petit il a pris un coup de lance sur le flanc et du coup la blessure le lance de temps a autres.
  - Calvitie naissante
  - Il aime la douleur, il se sent vivant quand il a mal
+ - Robbert est allergique au cyprés

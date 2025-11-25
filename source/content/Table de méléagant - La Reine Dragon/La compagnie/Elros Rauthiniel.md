@@ -27,3 +27,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
  - A deja a gagner un concours de boisson et maintenant veut gagner tous les concours de boisson des tavernes qu'il croise
  - Il y a des pieds horrible qu'il cache
  - Il sait faire des claquette mais ne veut pas raconter comment il a appris
+ - Allergique aux batracien
