@@ -137,3 +137,31 @@
  À Verdure, ils purent se reposer et récupérer quelques pièces. L’idée de tout abandonner pour retaper une vieille grange et en faire un bar-tabac traversa brièvement leurs esprits, avant qu’ils ne se ressaisissent : la menace du culte draconique planait toujours.
 
  Leocin leur demanda alors de l’aide. Tandis qu’il irait transmettre ses informations à un paladin de Torm, Ontar Kruml, le groupe devrait retourner au camp ennemi pour en apprendre davantage. Il leur promit à chacun cent cinquante pièces d’or pour cette mission. Le groupe se prépara alors à reprendre la route, avec deux nouveaux compagnons. 
+
+## ÉPISODE VI - AIGLE, CHAMPIGNONS ET CHAUVE-SOURIS
+
+ Un nain Éclaireur et son aigle rejoignirent alors la troupe, remplaçant le regretté Maître des Masques. Il se décida à accompagner le groupe dans sa besogne par reconnaissance, mais aussi pour venger sa ville et sa personne. Cette fois, avec son arc et son oiseau, il en ferait voir de toutes les couleurs au culte draconique.
+
+ L’Éclaireur prit les devants sur la route vers le campement. Le groupe imaginait déjà devoir à nouveau infiltrer les lieux. Mais à leur grande surprise, les aventuriers ne tombèrent que sur un lieu désert. Quelques tentes tenaient encore debout, beaucoup, celles des kobolds, avaient été brûlées et dégageaient d’ailleurs une odeur infecte.
+
+ Inspectant minutieusement les environs, le Paladin tomba tout d’abord sur des inconnus, des rôdeurs dans l’une des tentes encore utilisables. Une idée morbide et graphique lui traversa l’esprit avant qu’il ne se décide finalement à interroger les étrangers.
+
+ Ceux-ci n’avaient rien vu, rien entendu et affichaient ce même air maussade qui agaçait le Paladin. Il les laissa à leur sort et s’en alla rejoindre ses alliés. Ceux-ci n’eurent rien trouvé de plus, il était temps pour le groupe de se rendre dans la mystérieuse caverne.
+
+ Progressant à petits pas, ils subirent néanmoins une embuscade. Malheureusement, les responsables finirent dans un piteux état, les yeux crevés par le volatile de l’Éclaireur et la gorge ouverte par les dagues aiguisées du Roublard.
+
+ La caverne s’avéra plus grande que prévu, avec des obstacles surprenants. Un élevage massif de champignons, dont certains aux reflets violacés, inquiétait les aventuriers. Le Sorcier et l’Éclaireur, guidés par une grande lucidité, empruntèrent un chemin sans danger. Le Paladin, lui, se retrouva interrompu dans son avancée par le Roublard qui indiqua l’un des gros champignons violets.
+
+ « Ils sont dangereux ! Il doit y avoir un trésor ! » insista-t-il avec ardeur, sans jamais se lasser. Alors, le Paladin, agacé, s’élança dans les escaliers vers les mycètes violets. Le sol se brisa sous ses pieds et il se retrouva dans la mêlée, subissant les assauts répétés de ces curieux champignons : des coups de fouet lacérants, bardés d’épines à la puissante toxine.
+
+ Sans hésiter, le reste du groupe s’élança à la rescousse du guerrier de Torm, sauf le Roublard qui resta à l’arrière. Le Sorcier fut lui aussi atteint par une affliction champignonneuse, mais ensemble, ils parvinrent à pourfendre leurs vils ennemis.
+
+ Malheureusement, ils étaient souffrants : fièvre, douleurs et crampes rendraient leur progression difficile. Le Paladin, alors dans un bon jour, imposa ses mains sur le corps musclé du Sorcier, lui dérobant son mal. Seul lui supporterait désormais l’infection, mais cela ne l’arrêta pas et, avec ses compagnons, il s’enfonça dans la caverne.
+
+ Un nouvel obstacle se dévoila alors : des centaines de chauves-souris se reposaient au plafond de la grotte. Le groupe se devait d’être discret… mais il n’y parvint pas. Une tempête noire se déchaîna alors et certains subirent d'étranges piqûres.
+
+ L’œil vif de l’Éclaireur lui permit de repérer quelques nuisibles, qu’il élimina aussitôt avec son arc. Par la suite, le groupe se retira au mieux des chauves-souris. Aveuglés par ces petites créatures très mignonnes, les aventuriers se retrouvèrent dans une impasse.
+
+ Fatigués et blessés, l’idée d’un repos germa dans l’esprit de chacun. Malheureusement, ils durent repasser par le nuage aveuglant de chauves-souris. Cette fois-ci, malmenés par les petites bébêtes trop choupis, ils se perdirent dans les boyaux de la caverne.
+
+ Ainsi, le groupe fut séparé. Le Sorcier se retrouva isolé, tandis que les autres se confrontèrent à un organe plus large, mais au fond duquel résonnait un grognement sourd.
