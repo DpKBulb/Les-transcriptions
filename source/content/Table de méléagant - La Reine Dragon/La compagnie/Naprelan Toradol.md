@@ -22,3 +22,4 @@
  - Naprelan ne tiens pas l'alcool et a l'alcool mauvais
  - Le chaudron est le dernier souvenir de sa famille et ne veut absolument pas s'en séparé
  - il adore les instruments a vent
+ - Quand il se balade il est tres curieux culinairement et donc essaye toujours les plats les plus particuliers dans les taverne

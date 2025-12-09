@@ -24,6 +24,7 @@
  - Il sait jouer de la guitare, seulement une musique.
  - Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.
  - Quand il etait petit il a pris un coup de lance sur le flanc et du coup la blessure le lance de temps a autres.
- - Calvitie naissante
+ - Calvitie du moines naissante
  - Il aime la douleur, il se sent vivant quand il a mal
- - Robbert est allergique au cyprés
+ - Robbert est allergique au cyprès
+ - Il deteste autour du cou des bras ou autre

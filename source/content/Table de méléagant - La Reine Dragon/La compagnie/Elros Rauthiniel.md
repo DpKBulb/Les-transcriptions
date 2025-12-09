@@ -28,3 +28,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
  - Il y a des pieds horrible qu'il cache
  - Il sait faire des claquette mais ne veut pas raconter comment il a appris
  - Allergique aux batracien
+ - Très coquet avec ses cheveux en prend tres soin.
