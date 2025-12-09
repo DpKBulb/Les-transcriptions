@@ -169,25 +169,25 @@
 ## ÉPISODE VII - LE SENS DU DANGER
 
  Affaibli et séparé, le groupe se retrouvait vulnérable. Au grand jamais il ne s’enfoncerait vers les grognements rauques des profondeurs obscures et moins encore il n’abandonnerait le Sorcier à son sort. Se regrouper restait la priorité mais l’idée de s’extraire de la caverne émergea aussi dans un certain esprit fiévreux.
-   
+
  Effectivement, le Paladin, affligé de nombreux maux, invoqua par la prière la parole de son dieu. Dans un éclat lumineux perçant les ombres, le poing sacré de Torm lui apparut avec un parchemin sur lequel il put lire : « Wallah, ça pue ici ». 
- 
+
  Dans un certain élan de panique, il proposa alors de récupérer le Sorcier et de sortir à toute berzingue de ces boyaux maudits pour se ressourcer et revenir plus fort le lendemain… En accord sur l’idée du repos et du regroupement, le point de dissonance résida dans l’endroit.
-   
+
  Le Roublard, au sens aiguisé, à la capacité de ressentir le danger et les menaces, affirmait avec zèle que dormir dans ce donjon infecté de kobolds restait possible et sans risque. Était-ce la fièvre qui altérait la vision du Paladin ? Peu importait. Dans sa volonté de survie, il décida de s’en aller camper loin d’ici, en sécurité.
-   
+   
  Le reste du groupe se retrouva autour du Sorcier qui était tombé, lui, devant un voile curieux garni de pics. Sans savoir ce qui se cachait derrière, le Sorcier, l’Éclaireur et le Roublard s’installèrent avec l’idée ferme de se reposer malgré le risque.
-   
+   
  QUI DONC !? Je le demande, QUI DONC aurait pu croire qu’au cours de ces longues heures, des kobolds finiraient par surgir et assaillir le petit groupe alors endormi dans un coin humide de la caverne ?
-   
+   
  La lucidité du Sorcier, appuyée par la fourberie du Roublard, permit de berner ces stupides créatures. Ils firent croire qu’ils étaient des membres du culte, usant des informations dérobées lors de leur intrusion quelques jours auparavant. Bien heureusement, cela suffit aux créatures pour les distraire, le temps de s’échapper de la caverne. Le Roublard, dans un éclair ingénieux, fit en sorte de bloquer l’accès aux draconides.
-    
+	
  Finalement, les trois compagnons rejoignirent le Paladin qui, boudeur, s’était caché dans les falaises. Ils purent se retrouver et se reposer convenablement pour repartir à l’assaut de cette caverne.
-  
+  
  L’accueil fut désagréable car, à l’entrée de la grotte, les attendaient alors des kobolds et des drakes. Sans grande difficulté, le groupe se débarrassa des bêtes infâmes, se lançant à la poursuite des lâches kobolds, les traquant grâce à la malédiction de pestilence du Sorcier.
-   
+   
  Ils furent alors guidés vers la grande pièce d’où provenait le grognement la veille. Cette fois revigoré et au complet, le groupe s’élança à l’intérieur avec courage. Le Sorcier se confronta à un piège de coquin : quelques pics dans le sol couverts de maladie et de vilenie. L’un d’eux le poussa à la folie, le faisant frapper avec force son allié le Roublard dans un coup de sang. 
 
  Une horde de kobolds déferla sur le groupe. Plein de force, l’Éclaireur lâcha une salve létale de plusieurs flèches, suivie d’une danse brutale enchaînant estocade et empalement de la part du Roublard. Enfin, alors que le Sorcier se roulait dans les pics sans réussir à s’en extraire, le Paladin fonça dans la mêlée, prenant quelques coups pour le Roublard et envoyant de violentes frappes dans la masse.
-   
+   
  Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.
