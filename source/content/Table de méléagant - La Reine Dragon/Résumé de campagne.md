@@ -112,82 +112,82 @@
 
 ## ÉPISODE V - LES MASQUES TOMBENT
 
- Au beau milieu de l’agitation qui secouait le camp, entre incendies mystérieux et rumeurs de kobolds malades, il y eut cet instant. Un long moment durant lequel trois silhouettes, dissimulées dans les ombres, restèrent immobiles, la main sur le menton, hantées par une seule question : « Comment on fait ? ». 
+ Au beau milieu de l’agitation qui secouait le camp, entre incendies mystérieux et rumeurs de kobolds malades, il y eut cet instant. Un long moment durant lequel trois silhouettes, dissimulées dans les ombres, restèrent immobiles, la main sur le menton, hantées par une seule question : « Comment on fait ? ». 
 
- Le plan savamment élaboré par le roublard semblait avoir mené ses compagnons droit dans une impasse. Étaient-ils simplement trop obtus pour saisir le génie de leur camarade ? Ou bien le Roublard s’était-il bâti, au fil du temps, l’image factice d’un élégant elfe talentueux ? Impossible. Il devait exister une solution autre que le fatal « On les tue tous », soufflé par un paladin désespéré.
+ Le plan savamment élaboré par le roublard semblait avoir mené ses compagnons droit dans une impasse. Étaient-ils simplement trop obtus pour saisir le génie de leur camarade ? Ou bien le Roublard s’était-il bâti, au fil du temps, l’image factice d’un élégant elfe talentueux ? Impossible. Il devait exister une solution autre que le fatal « On les tue tous », soufflé par un paladin désespéré.
      
- L’arrivée du maître des masques redonna un semblant d’espoir. Sous l’un de ses nombreux visages, il pouvait devenir presque invisible. Il suffirait de distraire les gardes pour lui ouvrir la voie et permettre à son ombre fugace de libérer la cible. Le paladin parvint subtilement à entailler la toile de la tente, offrant au sorcier l’angle nécessaire pour invoquer l’une de ses malédictions. Aussitôt, les frelons et guêpes quittèrent la dépouille boursouflée du kobold maudit il y a de cela des jours, pour fondre sur l’un des quatre gardes. Pris de panique, celui-ci s’enfuit hors de la tente, se débattant inutilement.
+ L’arrivée du maître des masques redonna un semblant d’espoir. Sous l’un de ses nombreux visages, il pouvait devenir presque invisible. Il suffirait de distraire les gardes pour lui ouvrir la voie et permettre à son ombre fugace de libérer la cible. Le paladin parvint subtilement à entailler la toile de la tente, offrant au sorcier l’angle nécessaire pour invoquer l’une de ses malédictions. Aussitôt, les frelons et guêpes quittèrent la dépouille boursouflée du kobold maudit il y a de cela des jours, pour fondre sur l’un des quatre gardes. Pris de panique, celui-ci s’enfuit hors de la tente, se débattant inutilement.
 
- Hélas, deux gardes demeuraient à l’intérieur, en alerte. La dernière phase du plan se mit alors en marche et tout s’enchaîna. Le Paladin frappa la toile, la rabattant sur les deux hommes, mais deux patrouilleurs l’aperçurent. Il fut assommé et traîné vers la potence. Pendant ce court laps de temps, le Maître des Masques, suivi de près par le Sorcier, s’était glissé dans la tente pour libérer le Roublard, le bon Leocin, ainsi qu’un type bruyant qui alerta la garde en remerciant le maître pour sa libération. Le groupe n’eut pas le temps de fuir : un combat éclata.
+ Hélas, deux gardes demeuraient à l’intérieur, en alerte. La dernière phase du plan se mit alors en marche et tout s’enchaîna. Le Paladin frappa la toile, la rabattant sur les deux hommes, mais deux patrouilleurs l’aperçurent. Il fut assommé et traîné vers la potence. Pendant ce court laps de temps, le Maître des Masques, suivi de près par le Sorcier, s’était glissé dans la tente pour libérer le Roublard, le bon Leocin, ainsi qu’un type bruyant qui alerta la garde en remerciant le maître pour sa libération. Le groupe n’eut pas le temps de fuir : un combat éclata.
      
- Le Roublard se jeta sur le garde le plus proche et lui trancha la carotide. Le maître, quant à lui, se retrouva cerné par deux geôliers. Il se défendit du mieux qu’il put, mais ses anciennes blessures et les assauts répétés eurent raison de lui. 
+ Le Roublard se jeta sur le garde le plus proche et lui trancha la carotide. Le maître, quant à lui, se retrouva cerné par deux geôliers. Il se défendit du mieux qu’il put, mais ses anciennes blessures et les assauts répétés eurent raison de lui. 
      
- Voyant son compagnon vaciller, le sorcier, jusqu’alors en retrait, entra dans la mêlée et fracassa le crâne d’un des deux gardes. Le dernier fut épargné, le groupe se concentrant sur le corps du maître des masques. Il ne réagissait plus. Sans doute inconscient, peut-être simplement épuisé. Le Sorcier le souleva, et accompagné du Roublard et de Leocin, se lança dans une fuite précipitée.
+ Voyant son compagnon vaciller, le sorcier, jusqu’alors en retrait, entra dans la mêlée et fracassa le crâne d’un des deux gardes. Le dernier fut épargné, le groupe se concentrant sur le corps du maître des masques. Il ne réagissait plus. Sans doute inconscient, peut-être simplement épuisé. Le Sorcier le souleva, et accompagné du Roublard et de Leocin, se lança dans une fuite précipitée.
 
- Le paladin, de son côté, reprenait à peine connaissance. Les deux guerriers chargés de le mener au chef peinaient à le traîner, ce qui lui permit de les surprendre. Il en étourdit un, se libéra et s’échappa dans le chaos du camp avant de retrouver ses compagnons.
+ Le paladin, de son côté, reprenait à peine connaissance. Les deux guerriers chargés de le mener au chef peinaient à le traîner, ce qui lui permit de les surprendre. Il en étourdit un, se libéra et s’échappa dans le chaos du camp avant de retrouver ses compagnons.
 
- Leocin refusait de partir maintenant, mais le paladin le souleva sans lui demander son avis et prit la tête de la retraite. Il soignerait le maître des masques une fois en sécurité.
+ Leocin refusait de partir maintenant, mais le paladin le souleva sans lui demander son avis et prit la tête de la retraite. Il soignerait le maître des masques une fois en sécurité.
 
- Mais on les repéra, et ils durent accélérer. Le sorcier se retrouva en queue de groupe, épuisé par son combat et par le poids de son compagnon inanimé. Celui-ci ne bougeait plus du tout. Le sang ruisselait de ses plaies et aucun souffle ne venait troubler son immobilité. Le sorcier comprit. Une part de lui l’accepta, une autre s’y refusa. Et derrière lui, les lances se rapprochaient. 
+ Mais on les repéra, et ils durent accélérer. Le sorcier se retrouva en queue de groupe, épuisé par son combat et par le poids de son compagnon inanimé. Celui-ci ne bougeait plus du tout. Le sang ruisselait de ses plaies et aucun souffle ne venait troubler son immobilité. Le sorcier comprit. Une part de lui l’accepta, une autre s’y refusa. Et derrière lui, les lances se rapprochaient. 
 
- Le choix fut atroce. Il abandonna la dépouille du maître des masques.
+ Le choix fut atroce. Il abandonna la dépouille du maître des masques.
 
- Ainsi le groupe s’échappa vers Verdure, guidé par le fameux type bruyant. Ils laissèrent derrière eux le corps du maître des masques, et avec lui, son secret.
+ Ainsi le groupe s’échappa vers Verdure, guidé par le fameux type bruyant. Ils laissèrent derrière eux le corps du maître des masques, et avec lui, son secret.
 
- À Verdure, ils purent se reposer et récupérer quelques pièces. L’idée de tout abandonner pour retaper une vieille grange et en faire un bar-tabac traversa brièvement leurs esprits, avant qu’ils ne se ressaisissent : la menace du culte draconique planait toujours.
+ À Verdure, ils purent se reposer et récupérer quelques pièces. L’idée de tout abandonner pour retaper une vieille grange et en faire un bar-tabac traversa brièvement leurs esprits, avant qu’ils ne se ressaisissent : la menace du culte draconique planait toujours.
 
- Leocin leur demanda alors de l’aide. Tandis qu’il irait transmettre ses informations à un paladin de Torm, Ontar Kruml, le groupe devrait retourner au camp ennemi pour en apprendre davantage. Il leur promit à chacun cent cinquante pièces d’or pour cette mission. Le groupe se prépara alors à reprendre la route, avec deux nouveaux compagnons. 
+ Leocin leur demanda alors de l’aide. Tandis qu’il irait transmettre ses informations à un paladin de Torm, Ontar Kruml, le groupe devrait retourner au camp ennemi pour en apprendre davantage. Il leur promit à chacun cent cinquante pièces d’or pour cette mission. Le groupe se prépara alors à reprendre la route, avec deux nouveaux compagnons. 
 
 ## ÉPISODE VI - AIGLE, CHAMPIGNONS ET CHAUVE-SOURIS
 
- Un nain Éclaireur et son aigle rejoignirent alors la troupe, remplaçant le regretté Maître des Masques. Il se décida à accompagner le groupe dans sa besogne par reconnaissance, mais aussi pour venger sa ville et sa personne. Cette fois, avec son arc et son oiseau, il en ferait voir de toutes les couleurs au culte draconique.
+ Un nain Éclaireur et son aigle rejoignirent alors la troupe, remplaçant le regretté Maître des Masques. Il se décida à accompagner le groupe dans sa besogne par reconnaissance, mais aussi pour venger sa ville et sa personne. Cette fois, avec son arc et son oiseau, il en ferait voir de toutes les couleurs au culte draconique.
 
- L’Éclaireur prit les devants sur la route vers le campement. Le groupe imaginait déjà devoir à nouveau infiltrer les lieux. Mais à leur grande surprise, les aventuriers ne tombèrent que sur un lieu désert. Quelques tentes tenaient encore debout, beaucoup, celles des kobolds, avaient été brûlées et dégageaient d’ailleurs une odeur infecte.
+ L’Éclaireur prit les devants sur la route vers le campement. Le groupe imaginait déjà devoir à nouveau infiltrer les lieux. Mais à leur grande surprise, les aventuriers ne tombèrent que sur un lieu désert. Quelques tentes tenaient encore debout, beaucoup, celles des kobolds, avaient été brûlées et dégageaient d’ailleurs une odeur infecte.
 
- Inspectant minutieusement les environs, le Paladin tomba tout d’abord sur des inconnus, des rôdeurs dans l’une des tentes encore utilisables. Une idée morbide et graphique lui traversa l’esprit avant qu’il ne se décide finalement à interroger les étrangers.
+ Inspectant minutieusement les environs, le Paladin tomba tout d’abord sur des inconnus, des rôdeurs dans l’une des tentes encore utilisables. Une idée morbide et graphique lui traversa l’esprit avant qu’il ne se décide finalement à interroger les étrangers.
 
- Ceux-ci n’avaient rien vu, rien entendu et affichaient ce même air maussade qui agaçait le Paladin. Il les laissa à leur sort et s’en alla rejoindre ses alliés. Ceux-ci n’eurent rien trouvé de plus, il était temps pour le groupe de se rendre dans la mystérieuse caverne.
+ Ceux-ci n’avaient rien vu, rien entendu et affichaient ce même air maussade qui agaçait le Paladin. Il les laissa à leur sort et s’en alla rejoindre ses alliés. Ceux-ci n’eurent rien trouvé de plus, il était temps pour le groupe de se rendre dans la mystérieuse caverne.
 
- Progressant à petits pas, ils subirent néanmoins une embuscade. Malheureusement, les responsables finirent dans un piteux état, les yeux crevés par le volatile de l’Éclaireur et la gorge ouverte par les dagues aiguisées du Roublard.
+ Progressant à petits pas, ils subirent néanmoins une embuscade. Malheureusement, les responsables finirent dans un piteux état, les yeux crevés par le volatile de l’Éclaireur et la gorge ouverte par les dagues aiguisées du Roublard.
 
- La caverne s’avéra plus grande que prévu, avec des obstacles surprenants. Un élevage massif de champignons, dont certains aux reflets violacés, inquiétait les aventuriers. Le Sorcier et l’Éclaireur, guidés par une grande lucidité, empruntèrent un chemin sans danger. Le Paladin, lui, se retrouva interrompu dans son avancée par le Roublard qui indiqua l’un des gros champignons violets.
+ La caverne s’avéra plus grande que prévu, avec des obstacles surprenants. Un élevage massif de champignons, dont certains aux reflets violacés, inquiétait les aventuriers. Le Sorcier et l’Éclaireur, guidés par une grande lucidité, empruntèrent un chemin sans danger. Le Paladin, lui, se retrouva interrompu dans son avancée par le Roublard qui indiqua l’un des gros champignons violets.
 
- « Ils sont dangereux ! Il doit y avoir un trésor ! » insista-t-il avec ardeur, sans jamais se lasser. Alors, le Paladin, agacé, s’élança dans les escaliers vers les mycètes violets. Le sol se brisa sous ses pieds et il se retrouva dans la mêlée, subissant les assauts répétés de ces curieux champignons : des coups de fouet lacérants, bardés d’épines à la puissante toxine.
+ « Ils sont dangereux ! Il doit y avoir un trésor ! » insista-t-il avec ardeur, sans jamais se lasser. Alors, le Paladin, agacé, s’élança dans les escaliers vers les mycètes violets. Le sol se brisa sous ses pieds et il se retrouva dans la mêlée, subissant les assauts répétés de ces curieux champignons : des coups de fouet lacérants, bardés d’épines à la puissante toxine.
 
- Sans hésiter, le reste du groupe s’élança à la rescousse du guerrier de Torm, sauf le Roublard qui resta à l’arrière. Le Sorcier fut lui aussi atteint par une affliction champignonneuse, mais ensemble, ils parvinrent à pourfendre leurs vils ennemis.
+ Sans hésiter, le reste du groupe s’élança à la rescousse du guerrier de Torm, sauf le Roublard qui resta à l’arrière. Le Sorcier fut lui aussi atteint par une affliction champignonneuse, mais ensemble, ils parvinrent à pourfendre leurs vils ennemis.
 
- Malheureusement, ils étaient souffrants : fièvre, douleurs et crampes rendraient leur progression difficile. Le Paladin, alors dans un bon jour, imposa ses mains sur le corps musclé du Sorcier, lui dérobant son mal. Seul lui supporterait désormais l’infection, mais cela ne l’arrêta pas et, avec ses compagnons, il s’enfonça dans la caverne.
+ Malheureusement, ils étaient souffrants : fièvre, douleurs et crampes rendraient leur progression difficile. Le Paladin, alors dans un bon jour, imposa ses mains sur le corps musclé du Sorcier, lui dérobant son mal. Seul lui supporterait désormais l’infection, mais cela ne l’arrêta pas et, avec ses compagnons, il s’enfonça dans la caverne.
 
- Un nouvel obstacle se dévoila alors : des centaines de chauves-souris se reposaient au plafond de la grotte. Le groupe se devait d’être discret… mais il n’y parvint pas. Une tempête noire se déchaîna alors et certains subirent d'étranges piqûres.
+ Un nouvel obstacle se dévoila alors : des centaines de chauves-souris se reposaient au plafond de la grotte. Le groupe se devait d’être discret… mais il n’y parvint pas. Une tempête noire se déchaîna alors et certains subirent d'étranges piqûres.
 
- L’œil vif de l’Éclaireur lui permit de repérer quelques nuisibles, qu’il élimina aussitôt avec son arc. Par la suite, le groupe se retira au mieux des chauves-souris. Aveuglés par ces petites créatures très mignonnes, les aventuriers se retrouvèrent dans une impasse.
+ L’œil vif de l’Éclaireur lui permit de repérer quelques nuisibles, qu’il élimina aussitôt avec son arc. Par la suite, le groupe se retira au mieux des chauves-souris. Aveuglés par ces petites créatures très mignonnes, les aventuriers se retrouvèrent dans une impasse.
 
  Fatigués et blessés, l’idée d’un repos germa dans l’esprit de chacun. Malheureusement, ils durent repasser par le nuage aveuglant de chauves-souris. Cette fois-ci, malmenés par les petites bébêtes trop choupis, ils se perdirent dans les boyaux de la caverne.
 
- Ainsi, le groupe fut séparé. Le Sorcier se retrouva isolé, tandis que les autres se confrontèrent à un organe plus large, mais au fond duquel résonnait un grognement sourd.
+ Ainsi, le groupe fut séparé. Le Sorcier se retrouva isolé, tandis que les autres se confrontèrent à un organe plus large, mais au fond duquel résonnait un grognement sourd.
 
 ## ÉPISODE VII - LE SENS DU DANGER
 
- Affaibli et séparé, le groupe se retrouvait vulnérable. Au grand jamais il ne s’enfoncerait vers les grognements rauques des profondeurs obscures et moins encore il n’abandonnerait le Sorcier à son sort. Se regrouper restait la priorité mais l’idée de s’extraire de la caverne émergea aussi dans un certain esprit fiévreux.
+ Affaibli et séparé, le groupe se retrouvait vulnérable. Au grand jamais il ne s’enfoncerait vers les grognements rauques des profondeurs obscures et moins encore il n’abandonnerait le Sorcier à son sort. Se regrouper restait la priorité mais l’idée de s’extraire de la caverne émergea aussi dans un certain esprit fiévreux.
    
- Effectivement, le Paladin, affligé de nombreux maux, invoqua par la prière la parole de son dieu. Dans un éclat lumineux perçant les ombres, le poing sacré de Torm lui apparut avec un parchemin sur lequel il put lire : « Wallah, ça pue ici ». 
+ Effectivement, le Paladin, affligé de nombreux maux, invoqua par la prière la parole de son dieu. Dans un éclat lumineux perçant les ombres, le poing sacré de Torm lui apparut avec un parchemin sur lequel il put lire : « Wallah, ça pue ici ». 
  
- Dans un certain élan de panique, il proposa alors de récupérer le Sorcier et de sortir à toute berzingue de ces boyaux maudits pour se ressourcer et revenir plus fort le lendemain… En accord sur l’idée du repos et du regroupement, le point de dissonance résida dans l’endroit.
+ Dans un certain élan de panique, il proposa alors de récupérer le Sorcier et de sortir à toute berzingue de ces boyaux maudits pour se ressourcer et revenir plus fort le lendemain… En accord sur l’idée du repos et du regroupement, le point de dissonance résida dans l’endroit.
    
- Le Roublard, au sens aiguisé, à la capacité de ressentir le danger et les menaces, affirmait avec zèle que dormir dans ce donjon infecté de kobolds restait possible et sans risque. Était-ce la fièvre qui altérait la vision du Paladin ? Peu importait. Dans sa volonté de survie, il décida de s’en aller camper loin d’ici, en sécurité.
+ Le Roublard, au sens aiguisé, à la capacité de ressentir le danger et les menaces, affirmait avec zèle que dormir dans ce donjon infecté de kobolds restait possible et sans risque. Était-ce la fièvre qui altérait la vision du Paladin ? Peu importait. Dans sa volonté de survie, il décida de s’en aller camper loin d’ici, en sécurité.
    
- Le reste du groupe se retrouva autour du Sorcier qui était tombé, lui, devant un voile curieux garni de pics. Sans savoir ce qui se cachait derrière, le Sorcier, l’Éclaireur et le Roublard s’installèrent avec l’idée ferme de se reposer malgré le risque.
+ Le reste du groupe se retrouva autour du Sorcier qui était tombé, lui, devant un voile curieux garni de pics. Sans savoir ce qui se cachait derrière, le Sorcier, l’Éclaireur et le Roublard s’installèrent avec l’idée ferme de se reposer malgré le risque.
    
- QUI DONC !? Je le demande, QUI DONC aurait pu croire qu’au cours de ces longues heures, des kobolds finiraient par surgir et assaillir le petit groupe alors endormi dans un coin humide de la caverne ?
+ QUI DONC !? Je le demande, QUI DONC aurait pu croire qu’au cours de ces longues heures, des kobolds finiraient par surgir et assaillir le petit groupe alors endormi dans un coin humide de la caverne ?
    
- La lucidité du Sorcier, appuyée par la fourberie du Roublard, permit de berner ces stupides créatures. Ils firent croire qu’ils étaient des membres du culte, usant des informations dérobées lors de leur intrusion quelques jours auparavant. Bien heureusement, cela suffit aux créatures pour les distraire, le temps de s’échapper de la caverne. Le Roublard, dans un éclair ingénieux, fit en sorte de bloquer l’accès aux draconides.
+ La lucidité du Sorcier, appuyée par la fourberie du Roublard, permit de berner ces stupides créatures. Ils firent croire qu’ils étaient des membres du culte, usant des informations dérobées lors de leur intrusion quelques jours auparavant. Bien heureusement, cela suffit aux créatures pour les distraire, le temps de s’échapper de la caverne. Le Roublard, dans un éclair ingénieux, fit en sorte de bloquer l’accès aux draconides.
     
- Finalement, les trois compagnons rejoignirent le Paladin qui, boudeur, s’était caché dans les falaises. Ils purent se retrouver et se reposer convenablement pour repartir à l’assaut de cette caverne.
+ Finalement, les trois compagnons rejoignirent le Paladin qui, boudeur, s’était caché dans les falaises. Ils purent se retrouver et se reposer convenablement pour repartir à l’assaut de cette caverne.
   
- L’accueil fut désagréable car, à l’entrée de la grotte, les attendaient alors des kobolds et des drakes. Sans grande difficulté, le groupe se débarrassa des bêtes infâmes, se lançant à la poursuite des lâches kobolds, les traquant grâce à la malédiction de pestilence du Sorcier.
+ L’accueil fut désagréable car, à l’entrée de la grotte, les attendaient alors des kobolds et des drakes. Sans grande difficulté, le groupe se débarrassa des bêtes infâmes, se lançant à la poursuite des lâches kobolds, les traquant grâce à la malédiction de pestilence du Sorcier.
    
- Ils furent alors guidés vers la grande pièce d’où provenait le grognement la veille. Cette fois revigoré et au complet, le groupe s’élança à l’intérieur avec courage. Le Sorcier se confronta à un piège de coquin : quelques pics dans le sol couverts de maladie et de vilenie. L’un d’eux le poussa à la folie, le faisant frapper avec force son allié le Roublard dans un coup de sang. 
+ Ils furent alors guidés vers la grande pièce d’où provenait le grognement la veille. Cette fois revigoré et au complet, le groupe s’élança à l’intérieur avec courage. Le Sorcier se confronta à un piège de coquin : quelques pics dans le sol couverts de maladie et de vilenie. L’un d’eux le poussa à la folie, le faisant frapper avec force son allié le Roublard dans un coup de sang. 
 
- Une horde de kobolds déferla sur le groupe. Plein de force, l’Éclaireur lâcha une salve létale de plusieurs flèches, suivie d’une danse brutale enchaînant estocade et empalement de la part du Roublard. Enfin, alors que le Sorcier se roulait dans les pics sans réussir à s’en extraire, le Paladin fonça dans la mêlée, prenant quelques coups pour le Roublard et envoyant de violentes frappes dans la masse.
+ Une horde de kobolds déferla sur le groupe. Plein de force, l’Éclaireur lâcha une salve létale de plusieurs flèches, suivie d’une danse brutale enchaînant estocade et empalement de la part du Roublard. Enfin, alors que le Sorcier se roulait dans les pics sans réussir à s’en extraire, le Paladin fonça dans la mêlée, prenant quelques coups pour le Roublard et envoyant de violentes frappes dans la masse.
    
- Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.
+ Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.
