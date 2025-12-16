@@ -191,3 +191,41 @@
  Une horde de kobolds déferla sur le groupe. Plein de force, l’Éclaireur lâcha une salve létale de plusieurs flèches, suivie d’une danse brutale enchaînant estocade et empalement de la part du Roublard. Enfin, alors que le Sorcier se roulait dans les pics sans réussir à s’en extraire, le Paladin fonça dans la mêlée, prenant quelques coups pour le Roublard et envoyant de violentes frappes dans la masse.
    
  Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.
+
+## ÉPISODE VIII - IL EST DE RETOUR !! 
+
+ La situation sembla maîtrisée. Le Paladin profita de cette accalmie pour administrer quelques soins. Toujours fiévreux, il tituba dans sa démarche, laissant choir alors une potion de destin.
+
+ Alors qu'il déposa délicatement ses mains sur les blessures du Sorcier, ce dernier crut voir un fantôme. La silhouette qui le soignait n'avait rien à voir avec celle du Paladin. Elle apparut plus fine et élancée et elle arborait un accoutrement familier : celui du Maître des Masques.
+
+ Une étrange confusion s'empara du groupe. L'Éclaireur reconnut son sauveur tandis que le Sorcier et le Roublard voyaient là un ami disparu. Mais en réalité, ce n'était que le Paladin, métamorphosé par la potion de destin. Quand celui-ci prit conscience de sa mutation, sans dire un mot, il retira son masque, ses vêtements, son justaucorps noir moulant et ses collants.
+
+ Se révéla alors aux yeux de tous la vérité sur le Maître des Masques. Il s'agissait d'un bel humain aux cheveux blonds, svelte et sur l'instant : nu. La révélation se teinta d'un court malaise avant que le Paladin ne daignât se rhabiller. Ce visage semblait familier, mais personne ne pouvait mettre un nom dessus… Pour le moment, le groupe ignorait l'étendue de cette métamorphose. Le Paladin avait conservé ses pouvoirs, sa force et son ambiguïté ; mais son armure semblait avoir disparu.
+
+ Mais peu importe, il fallait continuer d'explorer et de nettoyer cette caverne. S'aventurant dans la fosse d'où provenaient les grognements, le groupe conserva ses habitudes. Le Paladin devant, suivi de près par le Sorcier tandis qu'à l'arrière restèrent l'Éclaireur et le Roublard comme sentinelles.
+
+ S'enfonçant dans des escaliers métalliques, un drake se révéla en furie, bondissant sur les deux compagnons. Il croqua le Paladin mais reçut une riposte vive de la part du Roublard. Le Drake recula tout en s'agitant, enragé. Soudain, le Sorcier se dressa entre la créature et ses compagnons. Il tendit les mains face au drake et commença à parler avec lui. « Psss, ksss kss, psss psss », dit-il avec assurance. Le drake siffla à son tour en remuant la queue. Cette créature ne souhaitait que manger. Le groupe ne s'éternisa pas, échangea un gros morceau de viande avant de poursuivre son expédition.
+
+ Montant dans les strates de la grotte, poursuivant les traces pestilentielles laissées par le Kobold maudit du dernier épisode, ils parvinrent à une petite pièce. Les tas de paille et peaux de bêtes trahirent un dortoir… mais le chemin continuait vers un boyau plus étroit. Passant au-dessus du nid des chauves-souris toutes pipoux, ils se confrontèrent à une tête familière.
+
+ Une vilaine vipère bleue dont le Paladin avait déjà tâté les écailles : Languederossa. Deux goliaths humains l'accompagnaient de près. La tension se leva et le draconide menaça clairement le petit groupe. Malgré une tentative du Sorcier de calmer les ardeurs de la foule, le combat éclata.
+
+ Le Paladin se lança sur son rival bien que celui-ci ne le reconnût pas du fait de son apparence curieuse. Pendant qu'ils s'échangeaient des coups, les berserkers s'élancèrent en hurlant et bavant sur le reste du groupe.
+
+ Surgit avec élégance et vivacité un bel aigle, lacérant le visage d'un barbare. Le Sorcier, lui, se jeta sur l'un d'eux, mais son manque d'expérience dans le combat le plongea dans une position défavorable. Durant l'échange, l'épaisse hache du berserker sectionna nettement un doigt du Sorcier.
+
+ Le Roublard, lui, profita de la diversion du Sorcier et de l'Aigle pour fendre les airs comme la foudre. Tel un souffle mortel, il caressa la gorge vulnérable de Languederossa, tranchant son artère dans un flot de sang macabre.
+
+ Alors que s'éteignait dans la douleur le draconide, l'un des berserkers chargea l'Éclaireur après avoir brutalement blessé l'aigle. Le Sorcier, lui, dans la panique, éclata une potion sur la tête de son assaillant, laissant apparaître une illusion qui tétanisa une seconde le berserker déchaîné.
+
+ De son côté, saisissant l'opportunité, l'Éclaireur avait décoché une flèche. Celle-ci fendit l'air, passant juste au-dessus du Paladin qui plaquait le berserker qui fondait sur le Nain. Elle siffla dans l'oreille du Sorcier, passant au travers de ses longs cheveux argentés pour se loger entre les deux yeux du berserker qui reprenait à peine ses esprits.
+
+ La dernière menace fut aisément neutralisée dans l'objectif de lui poser quelques questions plus tard. Le groupe découvrit alors une pièce étrange. Sur les murs se dessinaient des formes serpentines couvertes d'écailles sculptées. Des gueules innombrables, terrifiantes ornaient un corps massif.
+
+ Devant le groupe se révéla une fresque rupestre qui représentait Tiamat. À ses pieds, un coffre doré magnifique. Sans défense, scintillant. Sans attendre, l'Éclaireur et le Roublard se jetèrent dessus, tandis que le Sorcier tomba inconscient, relevant l’imparité de son nombre de doigts.
+
+ Alors que les deux avares tentaient d'ouvrir le coffre, un cliquetis curieux résonna et de l'acide se déversa dans la salle. Le Paladin qui venait d'attacher le berserker endormi grogna, l'abandonnant à son sort pour récupérer la dépouille du draconide. Le Roublard et l'Éclaireur récupérèrent le Sorcier et tous parvinrent à s'enfuir à temps… mais pas intacts.
+
+ Certains avaient respiré les toxines et déjà affaiblis par leur combat, ils s'approchaient lentement de la mort. Il fallait absolument se reposer. Provoquant un léger éboulement pour condamner un passage et installant un piège pour surveiller l'autre, le groupe put enfin se reposer pour récupérer.
+
+ Mais dans leur sommeil paisible, le galpissement pénible d'un kobold les réveilla.
