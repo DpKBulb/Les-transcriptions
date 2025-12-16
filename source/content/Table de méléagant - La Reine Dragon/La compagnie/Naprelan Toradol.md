@@ -23,3 +23,5 @@
  - Le chaudron est le dernier souvenir de sa famille et ne veut absolument pas s'en séparé
  - il adore les instruments a vent
  - Quand il se balade il est tres curieux culinairement et donc essaye toujours les plats les plus particuliers dans les taverne
+ - Il est est accro aux jeux, joue pour tout et cela est lié a son enorme esprit de competition
+ - Reve secretement de devenir un chat

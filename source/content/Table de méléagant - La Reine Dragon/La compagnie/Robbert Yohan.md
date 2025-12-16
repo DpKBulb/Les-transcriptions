@@ -27,4 +27,5 @@
  - Calvitie du moines naissante
  - Il aime la douleur, il se sent vivant quand il a mal
  - Robbert est allergique au cyprès
- - Il deteste autour du cou des bras ou autre
+ - Il deteste avoir des choses autour du cou des bras ou autre
+ - Il pratique acupuncture et les massages point d'energie et detente
