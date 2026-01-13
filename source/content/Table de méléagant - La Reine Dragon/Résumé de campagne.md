@@ -235,3 +235,6 @@
  Certains avaient respiré les toxines et déjà affaiblis par leur combat, ils s'approchaient lentement de la mort. Il fallait absolument se reposer. Provoquant un léger éboulement pour condamner un passage et installant un piège pour surveiller l'autre, le groupe put enfin se reposer pour récupérer.
 
  Mais dans leur sommeil paisible, le glapissement pénible d'un kobold les réveilla.
+
+## ÉPISODE IX
+![[Episode neuvième.png]]
