@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f40fa37073021931",
+        "id": "e524e281d93eba8d",
         "type": "tabs",
         "children": [
           {
-            "id": "744a26af1c930f7b",
+            "id": "eb22b078a81c0f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,11 +181,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "744a26af1c930f7b",
+  "active": "eb22b078a81c0f5e",
   "lastOpenFiles": [
-    "'Les.md",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode neuvième.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Pasted image.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode huitième.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode septième.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode sixième.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode cinquième.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode quatrième_1.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode quatrième_0.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode quatrième.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode troisième.png",
+    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Prologue.png",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
-    "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode premier_1.png",
+    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+    "'Les.md",
     "Table de méléagant - La Reine Dragon/Lieux remarquable.md",
     "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/_index.md",
     "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm",
@@ -212,8 +223,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "StarBreaker/Les PNJs",
     "StarBreaker/Les joueurs",

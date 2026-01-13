@@ -1,5 +1,5 @@
 ## Prologue : Arrivée à Verdure
-![[Episode premier_1.png]]
+![[Prologue.png]]
  Entre les volutes de fumée noire des incendies, une silhouette massive décrivait des cercles dans le ciel. Au loin, des cris résonnaient. Bataille ? Pillage ? Peu importait. Le chaos s'abattait sur la petite ville de Verdure.  
  Non loin de là, quatre vagabonds demeuraient figés, témoins impuissants de la catastrophe.  
  L'un d'eux, un elfe sorcier, avait péniblement traîné depuis la Haute Forêt un colossal chaudron. En route pour Château-Suif, il avait fait la rencontre de vils gredins, sans doute attirés par le vacarme métallique de sa marmite. Heureusement pour lui, un roublard elfe, fugitif d'Eauprofonde, vola à sa rescousse. Errant à la recherche de butins, il décida d'accompagner le sorcier. Peut-être que des richesses pavaient son chemin...  
@@ -10,7 +10,7 @@
  Les vagabonds purent profiter d'un court moment de répit, mais le chaos se déversait encore sur Verdure. Il leur fallait secourir les villageois et, surtout, comprendre la cause de cette catastrophe.
 
 ## ÉPISODE I : Ouille Aille Aille Ouille !
-
+![[Episode premier.png]]
  « Vite ! » s'était écriée une villageoise armée d'une lance. Elle pointa du doigt le fort au sommet de la colline et, sans plus attendre, s'y précipita avec sa petite famille. Cependant, malgré leur hâte, ils étaient lents. Les trois enfants tétanisés n'avançaient plus et le mari boîtait douloureusement à cause d'une large blessure à son flanc. Les aventuriers s'emparèrent alors de la situation. Le Sorcier bodybuilder usa de ses muscles, portant les enfants dans son chaudron. Le paladin, lui, se signa auprès du villageois blessé, faisant jaillir de ses paumes une lueur terne et tendre qui s'infiltra dans la chair meurtrie de l'homme, refermant ainsi ses plaies. Le roublard prit la place de guide, établissant l'itinéraire le moins dangereux et le plus rapide, tandis que, fermant la marche, le maître des masques servait de sentinelle.
 
  Dans leur course effrénée, le groupe tenta d'éviter les mercenaires, kobolds et cultistes qui provoquaient ce chaos. Mais la confrontation fut inévitable. Se retrouvant face à un petit groupe de kobolds suivis d'un cultiste, la seule option fut le combat. Le paladin plaqua le cultiste au sol. Le sorcier et le roublard en profitèrent pour se focaliser sur les kobolds. L'un maudissait ses ennemis, tandis que l'autre plongeait ses lames dans leur chair. Usant de ses talents d'anesthésiste, le paladin endormit paisiblement le cultiste dans l'objectif de l'interroger plus tard. Malheureusement, ce plan rencontra un obstacle.
@@ -38,7 +38,7 @@
  Grâce à une flasque de liqueur de groseille, le roublard sortit enfin de sa torpeur. Ensemble, le groupe rebroussa chemin pour se reposer un instant et récupérer ses forces.
  
 ## ÉPISODE II : KESKONFÉ ?
-
+![[Episode second_0.png]]
  Le repos fut bref, mais nécessaire. Les aventuriers, toujours mal en point, prirent la direction du temple de Chauntéa. Cette fois-ci, le groupe opta pour une approche furtive. Profitant de la nuit et du chaos ambiant pour se fondre sous les ombres des bois, ils parvinrent à éviter les combats. Le Paladin et le Sorcier, bien trop bruyants du fait de leur armure et chaudron, restèrent en arrière, laissant le Roublard et le Maître des Masques partir en éclaireurs. Escaladant avec finesse un petit mur de briques, ils distinguèrent, à travers l'épaisse fumée des incendies, les silhouettes de kobolds et de mercenaires qui tentaient de forcer l'entrée du temple. Le Maître, tentant de percevoir plus clairement la scène, s'appuya sur une brique fragile qui se fendit, menant à la chute de l'aventurier masqué. Avec lui, s'effondra une partie du mur, qui ne manqua pas d'attirer quelques attentions malveillantes. Très vite, le Roublard saisit son compagnon, s'échappant avec lui vers le Paladin et le Sorcier.
    
  Une troupe hostile commença alors à parcourir les bois à la recherche des intrus. Pressé par le temps, le groupe, une fois réuni, établit une stratégie... Attirés par un fracas de bois et de métal, de cris et de râles, les kobolds, cultistes et mercenaires progressèrent entre les arbres, prêts à se battre. Ils tombèrent face à un paladin fou, qui frappait les arbres avec son bouclier et criait comme un primate. Soudain, une flèche se logea entre les omoplates d'un mercenaire, tandis qu'au même moment, un cultiste se fit égorger. Sous le choc, les bandits ne purent réagir convenablement et, sous les coups de lame du Paladin et du chaudron du Sorcier, nombre d'entre eux tombèrent. Le reste s'enfuit malgré les tentatives du groupe de les abattre.
@@ -46,6 +46,7 @@
  Il fallait agir vite pour secourir les villageois. Bientôt, sans doute, surgiraient d'autres silhouettes belliqueuses. Le Sorcier proposa de se déguiser en cultiste et de prétendre à la chute de la forteresse. Ainsi, les vils gredins s'y précipiteraient ! Sans plus réfléchir, le Roublard s'élança avec cet objectif en tête. Surgissant d'un pas franc devant ses adversaires, il en imita la manière de parler. Il se révéla très convaincant... cependant, les mercenaires, kobolds et autres drakes n'avaient pas pour objectif de se lancer dans un affrontement contre la garde. Ils ne souhaitaient que piller simplement. Le Roublard insista et devint alors suspect aux yeux de tous.
 
  Pendant ce temps, le Maître des Masques parvint à crocheter la porte arrière du temple de Chauntéa à l'aide du pied viril du Paladin. Ils escortèrent, à travers la fumée, les villageois jusqu'au tunnel pour les mettre à l'abri. L'opération était un succès, mais quelqu'un manquait à l'appel. Lancé dans une course gracile, le Roublard rattrapa ses compagnons... presque nu. Tous l'interrogèrent. Son corps, parsemé d'hématomes et de fines plaies, contait une histoire que détailla le Roublard. Son bluff n'avait pas abouti, alors tous se jetèrent sur lui. Les drakes, dragonides immondes, crachèrent des salves d'acide qui consumèrent l'équipement du Roublard ; en même temps, des dagues et des griffes fendaient l'air en sa direction. Néanmoins, grâce à sa souplesse et sa vivacité, il parvint à éviter le gros des attaques. Il assomma quelques assaillants avant de semer ses poursuivants. La perte de son équipement et ses quelques blessures ne représentaient rien face aux vies des villageois qu'il permit de secourir !
+![[Episode second_1.png]]
 
  De retour au fort, les aventuriers purent être guéris par les disciples de Chauntéa. Le Roublard récupéra de l'équipement et Côteaunoir vint alors leur demander de sauver le moulin. Les mercenaires y avaient été aperçus, s'y dirigeant avec des torches. S'ils y mettaient le feu, le village perdrait ses réserves de vivres. Bien qu'hésitant, le groupe se lança à la rescousse du moulin, qu'ils atteignirent sans embûches. Néanmoins, une aura suspecte entourait ce moulin. Quatre mercenaires occupaient l'extérieur, sans intention visible d'y mettre le feu. Le groupe s'interrogea alors : que faire ? S'infiltrer, attaquer, se cacher ? L'assaut fut choisi, mais les mercenaires s'engouffrèrent au sein de la bâtisse. Le Roublard et le Maître des Masques virent par la fenêtre que plusieurs autres mercenaires se cachaient dans le moulin. Une embuscade ! Alors, le groupe s'éloigna et s'interrogea : que faire ? Fallait-il abandonner le moulin, y mettre le feu, fonder une auberge ou une boulangerie ?
 
@@ -54,7 +55,7 @@
  De retour à la forteresse, rien de bon n'attendait les aventuriers. À l'extérieur des murs retentit un cri rauque, celui d'un humanoïde couvert d'écailles azures, à la tête de dragon. Tenant fièrement sa lance, il regardait le sommet des murs avec un sourire carnassier.
 
 ## ÉPISODE III : ÉCAILLES CONTRE ÉCAILLES
-
+![[Episode troisième.png]]
  Se dressait, au pied de la muraille, une véritable armée de kobolds. Pourtant, un calme lourd régnait au sommet de la colline. On n’entendait que quelques murmures inquiets dans la forteresse et, près de l’homme-dragon, les gémissements étouffés des prisonniers bâillonnés. Une petite famille était suspendue à des poteaux, comme des morceaux de viande sèche.
 
  Le dracéide prit une longue inspiration avant de crier d’une voix profonde et gutturale :
@@ -88,6 +89,7 @@
 
  Une pluie de flèches s'abattit sur le Maître des Masques. Par chance, il parvint à se mettre à couvert derrière une large roche, la même qui avait bien failli l’écraser plus tôt. Néanmoins, au lieu de détaler à toute berzingue ou de riposter, le Maître des Masques eut une idée. 
 
+![[Episode quatrième_1.png]]
  Il changea de masque et arbora le fier faciès du héros. D’un pas assuré, il surgit de sa cachette, les bras grand ouvert, tel un maître de cérémonie. Il y eut une seconde. Une seconde de confusion qui s'étira dans l’esprit des archers. Une seconde d’hésitation qui s’éclipsa dès que la première flèche fut décochée, puis se planta dans le corps immobile du Maître des Masques. Cet intru ne revêtait pas le même masque… Était ce un autre ? Qu'importe, les archers s’épuisèrent en salves épineuses, poussant alors le Maître des Masques à la retraite. 
 
  Pendant ce temps, les aventuriers feignaient l’indifférence, bien que l’inquiétude au sujet de leur compagnon ne cessât de croître. Leur entrevue avec les archers cultistes - qui paraissaient bien plus disciplinés que leur troupe actuelle - n’améliora pas ce sentiment. Ces derniers les sermonnèrent sur l’importance d’être prudents, ventant avec zèle que la menace avait été gérée : le fuyard, disaient-ils, finirait sans doute vidé de son sang, seul dans le froid sauvage de la montagne. Un portrait donc peu rassurant. Mais la mission primait. 
@@ -100,18 +102,20 @@
 
  Le Paladin, qui avait guetté toute la scène, se tenait prêt à agir en cas d'abus de violence. Tentant d’épier ce qui se déroulait dans la tente, il se ravisa. Les insultes et provocations du Roublard lui suffirent à comprendre : tout cela faisait du plan de son compagnon. Il connaissait trop bien ses talents d’évasion et de ruse. Effectivement, trouver le camp n'était pas leur seul objectif, il leur fallait ramener en vie un certain Leocin Erlantar, fait prisonnier ici. Le Paladin avait presque oublié ce détail ; heureusement que le Roublard, lui, gardait la tête froide. 
 
+![[Episode quatrième_0.png]]
  Le Sorcier, de son côté, multipliait les tâches, se liant presque d’amitié avec les cultistes et obtenant des informations précises : noms, adresses, pointures et goûts musicaux. Bientôt, le camp n’aurait plus de secret pour lui. Ne voyant aucune initiative prise par ses compagnons, il se décida à accomplir sa besogne avec minutie jusqu’à la tombée de la nuit. 
 
  Il se retrouva avec le Paladin sous un ciel nocturne. Ils échangèrent leurs informations et se mirent à penser à une diversion pour aider le Roublard dans l'exécution de son plan ingénieux. Comme un éclair de génie, les deux compagnons furent frappée d'une révélation. Accuser une minorité vulnérable de tous les maux - surtout utilisée comme chair à canon dans la plupart des besognes et recluse au sein du camp dans des habitations délabrées - les Kobolds !
 
- Le Sorcier avait déjà planté les graines du chaos : une malédiction de dégoût jetait sur un cultiste, attisant la rumeur d'une maladie au sein du camp. De plus, en consommant sa potion de destin, il se vit sa chair se couvrir de plume. Les deux compagnons virent là l'idée parfaite : Les Kobolds seraient à l'origine de la maladie et deviendrait de plus en plus agressif... Le Paladin provoquerait les Kobolds qui s'énerveraient alors sur les cultistes, avec la suspicion de maladie, le reste du camp voudront s'en débarrasser, promettant alors un bain de sang ! 
+ Le Sorcier avait déjà planté les graines du chaos : une malédiction de dégoût jetait sur un cultiste, attisant la rumeur d'une maladie au sein du camp. De plus, en consommant sa potion de destin, il se vit sa chair se couvrir de plume. Les deux compagnons virent là l'idée parfaite : Les Kobolds seraient à l'origine de la maladie et deviendrait de plus en plus agressif... Le Paladin provoquerait les Kobolds qui s'énerveraient alors sur les cultistes, avec la suspicion de maladie, le reste du camp voudront s'en débarrasser, promettant alors un bain de sang ! 
 
- Le silence pesa. Quelques murmures, regards en biais et épaules haussées : tels étaient la réaction de tous. Tout reposait désormais sur le Roublard et son compagnon de cellule.
+ Le silence pesa. Quelques murmures, regards en biais et épaules haussées : tels étaient la réaction de tous. Tout reposait désormais sur le Roublard et son compagnon de cellule.
 
  Mais alors que la situation semblait se figer, une ombre se détacha des hauteurs rocheuses. Se faufilant, invisible dans l'obscurité, elle avait tout observé : chaque geste, chaque mot. Il était temps pour elle d'entrer en scène.
 
 ## ÉPISODE V - LES MASQUES TOMBENT
 
+![[Episode cinquième.png]]
  Au beau milieu de l’agitation qui secouait le camp, entre incendies mystérieux et rumeurs de kobolds malades, il y eut cet instant. Un long moment durant lequel trois silhouettes, dissimulées dans les ombres, restèrent immobiles, la main sur le menton, hantées par une seule question : « Comment on fait ? ». 
 
  Le plan savamment élaboré par le roublard semblait avoir mené ses compagnons droit dans une impasse. Étaient-ils simplement trop obtus pour saisir le génie de leur camarade ? Ou bien le Roublard s’était-il bâti, au fil du temps, l’image factice d’un élégant elfe talentueux ? Impossible. Il devait exister une solution autre que le fatal « On les tue tous », soufflé par un paladin désespéré.
@@ -140,6 +144,7 @@
 
 ## ÉPISODE VI - AIGLE, CHAMPIGNONS ET CHAUVE-SOURIS
 
+![[Episode sixième.png]]
  Un nain Éclaireur et son aigle rejoignirent alors la troupe, remplaçant le regretté Maître des Masques. Il se décida à accompagner le groupe dans sa besogne par reconnaissance, mais aussi pour venger sa ville et sa personne. Cette fois, avec son arc et son oiseau, il en ferait voir de toutes les couleurs au culte draconique.
 
  L’Éclaireur prit les devants sur la route vers le campement. Le groupe imaginait déjà devoir à nouveau infiltrer les lieux. Mais à leur grande surprise, les aventuriers ne tombèrent que sur un lieu désert. Quelques tentes tenaient encore debout, beaucoup, celles des kobolds, avaient été brûlées et dégageaient d’ailleurs une odeur infecte.
@@ -168,6 +173,7 @@
 
 ## ÉPISODE VII - LE SENS DU DANGER
 
+![[Episode septième.png]]
  Affaibli et séparé, le groupe se retrouvait vulnérable. Au grand jamais il ne s’enfoncerait vers les grognements rauques des profondeurs obscures et moins encore il n’abandonnerait le Sorcier à son sort. Se regrouper restait la priorité mais l’idée de s’extraire de la caverne émergea aussi dans un certain esprit fiévreux.
 
  Effectivement, le Paladin, affligé de nombreux maux, invoqua par la prière la parole de son dieu. Dans un éclat lumineux perçant les ombres, le poing sacré de Torm lui apparut avec un parchemin sur lequel il put lire : « Wallah, ça pue ici ». 
@@ -193,7 +199,7 @@
  Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.Le reste de la piétaille se vit réduit en bouillie entre flèches, rapière et chaudron. Mais au fond de la caverne grondaient toujours les grognements rauques.
 
 ## ÉPISODE VIII - IL EST DE RETOUR !! 
-
+![[Episode huitième.png]]
  La situation sembla maîtrisée. Le Paladin profita de cette accalmie pour administrer quelques soins. Toujours fiévreux, il tituba dans sa démarche, laissant choir alors une potion de destin.
 
  Alors qu'il déposa délicatement ses mains sur les blessures du Sorcier, ce dernier crut voir un fantôme. La silhouette qui le soignait n'avait rien à voir avec celle du Paladin. Elle apparut plus fine et élancée et elle arborait un accoutrement familier : celui du Maître des Masques.
