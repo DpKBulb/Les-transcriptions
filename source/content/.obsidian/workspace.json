@@ -11,10 +11,14 @@
             "id": "744a26af1c930f7b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Résumé de campagne"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Résumé de campagne"
             }
           },
           {
@@ -178,9 +183,10 @@
   },
   "active": "744a26af1c930f7b",
   "lastOpenFiles": [
+    "'Les.md",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
-    "Table de méléagant - La Reine Dragon/Lieux remarquable.md",
     "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/Episode premier_1.png",
+    "Table de méléagant - La Reine Dragon/Lieux remarquable.md",
     "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm/_index.md",
     "Table de méléagant - La Reine Dragon/Les dessins de Sagrimm",
     "_index.md",
@@ -209,7 +215,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
-    "Table de méléagant - La Reine Dragon/La compagnie/_index.md",
     "StarBreaker/Les PNJs",
     "StarBreaker/Les joueurs",
     "StarBreaker/Intro - le Rapanui",

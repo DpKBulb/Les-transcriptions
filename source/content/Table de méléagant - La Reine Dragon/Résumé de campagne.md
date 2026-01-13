@@ -1,5 +1,5 @@
 ## Prologue : Arrivée à Verdure
-[[Episode premier_1.png]]
+![[Episode premier_1.png]]
  Entre les volutes de fumée noire des incendies, une silhouette massive décrivait des cercles dans le ciel. Au loin, des cris résonnaient. Bataille ? Pillage ? Peu importait. Le chaos s'abattait sur la petite ville de Verdure.  
  Non loin de là, quatre vagabonds demeuraient figés, témoins impuissants de la catastrophe.  
  L'un d'eux, un elfe sorcier, avait péniblement traîné depuis la Haute Forêt un colossal chaudron. En route pour Château-Suif, il avait fait la rencontre de vils gredins, sans doute attirés par le vacarme métallique de sa marmite. Heureusement pour lui, un roublard elfe, fugitif d'Eauprofonde, vola à sa rescousse. Errant à la recherche de butins, il décida d'accompagner le sorcier. Peut-être que des richesses pavaient son chemin...  
