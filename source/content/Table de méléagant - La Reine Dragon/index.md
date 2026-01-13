@@ -1,3 +1,6 @@
+---
+title: Table de méléagant - La Reine Dragon
+---
 ##### Sommaire
 
 1. [[La compagnie]]

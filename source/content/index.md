@@ -1,4 +1,4 @@
 ---
-title: Les transctiptions des tables trop top
+title: Les transcriptions des tables trop top
 ---
 Bienvenue, et bonne lecture !
