@@ -236,5 +236,30 @@
 
  Mais dans leur sommeil paisible, le glapissement pénible d'un kobold les réveilla.
 
-## ÉPISODE IX
+## ÉPISODE IX - AU FOND DU TROU
 ![[Episode neuvième.png]]
+   Un couinement sourd accompagné d'un déchirement spongieux mit fin aux glapissements pénibles du Kobold. Le Paladin apparut alors, épongeant sa lame et se mettant à prier au chevet du corps sans vie de Languederossa.
+
+   Le groupe s'était accordé pendant leur court repos d'interroger le draconique. Un acte prolifique qui révéla l'objectif final de la secte : Réincarner Tiamat.
+
+   Stimulé par l'idée de stopper cette hérésie, le groupe poursuivit son exploration de la caverne. Leur pause avait laissé le temps à l'acide de quitter la pièce, laissant derrière lui les corps dissous des barbares. Le coffre devint accessible mais dans leur tentative maladroite, le Roublard et l'Éclaireur ne parvinrent pas à l'ouvrir, brisant la dague du Sorcier dans la serrure, scellant ainsi le coffre. Ce dernier se vit alors emporté dans l'espoir d'être ouvert un jour.
+
+   Les boyaux guidèrent les aventuriers vers une large salle. Surgissant sur une partie en hauteur, le groupe découvrit un gouffre peu profond, parsemé de stalactites et de stalagmites. Des drakes y rôdaient comme dans un enclos mais celui-ci contenait aussi deux œufs de dragons.
+
+   En tête de ligne, le Sorcier et le Paladin s'avancèrent. Ils ne perçurent alors le danger que lorsque des bombes gluantes leur éclatèrent dessus. Au fond de la pièce, au bord d'un creux attendaient des Kobolds sournois. Ces derniers déchaînèrent les flammes sur le Paladin et le Sorcier, alors entravés par la glue. Les flèches et les bombes embrasèrent la substance, maintenant les deux compagnons dans un torrent de flamme.
+
+   Incapable d'éteindre le feu, l'Éclaireur envoya son aigle affronter les kobolds. Le Roublard lui, dans un élan de zèle ou dans une volonté d'en finir avec la vie, plongea dans l'enclos des drake, seul contre tous.
+
+   Les flammes avaient permis au Sorcier et au Paladin de se libérer. Mais le Sorcier fut saisi par la torpeur. Ayant perdu son petit doigt, reniflé des vapeurs acides, contracté la syphilis… il en eut gros sur la patate. Il s'enfuit alors en hurlant, levant les bras.
+
+   Voyant la situation tourner au vinaigre pour son compagnon Roublard, le Paladin ne retint pas le Sorcier, se jetant à son tour dans la fosse. Mais, bien qu'interceptant quelques morsures, le coup de trop projeta le Roublard au pied de la Mort.
+
+   Pendant ce temps, l'Éclaireur et son oiseau commettaient un véritable massacre. L'aigle à lui seul parvint à lacérer les kobolds, arrachant leurs visages et les jetant dans le gouffre. L'Éclaireur lui, profita de la hauteur pour assister le Paladin et ensemble, ils purent neutraliser les derniers drakes. Enfin, revenant peu à peu de son épisode de folie, le Sorcier ressurgit    pour secourir le Roublard.
+
+   La situation apparut maîtrisée, mais au fond de la caverne, quelque chose bougeait. Les aventuriers n'y avaient pas prêté attention du fait de sa forme imitant celle d'une stalagmite à l'exception de la bouche et des tentacules…
+
+   L'Éclaireur en décela la nature, cette chose était un enlaceur. Bien que dangereux, ces créatures restaient neutres et parfois même cordiales. Celle-ci établit le dialogue avec les Aventuriers. Une négociation s'entama puis se conclut sur un accord de non-agression. En échange, elle pourrait se nourrir de tous les corps environnants et des réserves de viandes plus loin dans la caverne. Rapidement, ses tentacules saisirent les corps des drakes avant de les engloutir goulûment. La créature s'en alla ensuite.
+
+   Se posa alors la question des œufs des dragons. Que faire de ces reliques de la nature ? Miracle d'une vie puissante et glorieuse mais aussi dangereuse… Les emporter pour les élever ou les vendre ? Les détruire ? Peu importait. Leur masse écrasante les rendait impossibles à transporter. Les aventuriers les abandonnèrent alors là.
+
+   Enfin, poursuivant leur avancée, ils se confrontèrent à une impasse dans laquelle se trouvait un tapis laid. Légèrement paranoïaque, le groupe l'analysa avec précaution, découvrant une échelle de corde au-dessous. Juste en bas se dévoila une pièce couverte de tapis. Celle-ci fut fouillée de fond en comble. Le Sorcier y découvrit alors des informations essentielles. Une carte de la région montrait des villages rayés. Une flèche pointait alors le nord accompagnée d'une note : « Tout doit être emporté vers Naerytar ».
