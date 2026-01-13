@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
+                "file": "WildSea/L'équipage/Carl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Robbert Yohan"
+              "title": "Carl"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
+                "file": "WildSea/L'équipage/Carl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Robbert Yohan"
+              "title": "Outline of Carl"
             }
           },
           {
@@ -183,12 +183,15 @@
   },
   "active": "247f031a73c0dc01",
   "lastOpenFiles": [
+    "WildSea/L'équipage/_index.md",
+    "WildSea/L'équipage/Carl.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
+    "WildSea/L'équipage",
     "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
     "Table de méléagant - La Reine Dragon/La compagnie/_index.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
     "Table de méléagant - La Reine Dragon/assets/Robbert_offi.png",
     "Table de méléagant - La Reine Dragon/assets/Robbert_offi.png",
     "Table de méléagant - La Reine Dragon/assets/Pasted image (4).png",
@@ -221,13 +224,10 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "StarBreaker/Les PNJs",
     "StarBreaker/Les joueurs",
     "StarBreaker/Intro - le Rapanui",
-    "Table de méléagant - La Reine Dragon/La compagnie",
-    "Le poulailler de mme Glassox"
+    "Table de méléagant - La Reine Dragon/La compagnie"
   ]
 }
