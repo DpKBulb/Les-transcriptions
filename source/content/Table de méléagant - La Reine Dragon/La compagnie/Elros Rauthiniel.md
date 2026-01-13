@@ -1,3 +1,5 @@
+![[Elros.jpg]]
+
 **Roublard**
 
 Ayant grandit dans les bas quartier de Waterdeep, né de d'elfe des bois originaire de Silverymoon ayant émigré dans cette grande ville, la vie fût douce les premières années. Mais ses parents perdit la vie à un âge ou Elros n'était pas encore capable de comprendre ce qui l'attendait.

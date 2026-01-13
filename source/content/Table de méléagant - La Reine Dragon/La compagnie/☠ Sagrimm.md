@@ -1,8 +1,7 @@
 ---
 title: Sagrimm
 ---
-
-Décédé...
+![[Sagrimm.jpg]]
 
 **Maître des masques**  
   

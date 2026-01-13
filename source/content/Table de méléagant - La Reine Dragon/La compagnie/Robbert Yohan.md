@@ -1,3 +1,5 @@
+![[Robbert_offi.png]]
+
 ##### Paladin  
 
  Robbert Yohan est né dans un milieu défavorisé, privé de père. Alors qu'il est encore jeune, il assiste au meurtre de sa mère, assassinée par une bande de brigands. Ces mêmes brigands le capturent et l'asservissent.  
@@ -29,3 +31,5 @@
  - Robbert est allergique au cyprès
  - Il deteste avoir des choses autour du cou des bras ou autre
  - Il pratique acupuncture et les massages point d'energie et detente
+
+![[Robbert Yohan.jpg]]
