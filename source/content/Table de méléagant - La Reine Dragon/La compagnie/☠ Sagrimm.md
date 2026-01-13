@@ -1,5 +1,6 @@
 ---
 title: Sagrimm
+description: Un mystérieux maître des masques aux personnalité multiples
 ---
 ![[Sagrimm.jpg]]
 

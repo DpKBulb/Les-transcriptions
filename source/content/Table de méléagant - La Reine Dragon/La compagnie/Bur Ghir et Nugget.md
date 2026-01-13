@@ -1,6 +1,6 @@
 ---
 title: Bur Ghir et Nugget
-description: Un drole de nain
+description: Un drole de chasseur nain accompagné d'un oiseau de proie
 ---
 ![[Bur Ghir.jpg]]
 

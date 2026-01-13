@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
+                "file": "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☠ Sagrimm"
+              "title": "Robbert Yohan"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
+                "file": "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ☠ Sagrimm"
+              "title": "Outline of Robbert Yohan"
             }
           },
           {
@@ -183,15 +183,17 @@
   },
   "active": "247f031a73c0dc01",
   "lastOpenFiles": [
+    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/_index.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
     "Table de méléagant - La Reine Dragon/assets/Robbert_offi.png",
     "Table de méléagant - La Reine Dragon/assets/Robbert_offi.png",
     "Table de méléagant - La Reine Dragon/assets/Pasted image (4).png",
     "Table de méléagant - La Reine Dragon/assets/Pasted image (3).png",
     "Table de méléagant - La Reine Dragon/assets/Pasted image (2).png",
-    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "_index.md",
     "Table de méléagant - La Reine Dragon/assets/Elros.jpg",
     "Table de méléagant - La Reine Dragon/assets/Sagrimm.jpg",
@@ -211,7 +213,6 @@
     "Table de méléagant - La Reine Dragon/_index.md",
     "copilot/copilot-conversations",
     "copilot",
-    "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
     "Table de méléagant - La Reine Dragon/La compagnie/La compagnie.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",

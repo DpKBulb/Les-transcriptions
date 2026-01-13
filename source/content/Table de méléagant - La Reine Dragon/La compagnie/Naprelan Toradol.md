@@ -1,3 +1,9 @@
+---
+title: Naprelan Toradol
+description: Le sorcier aux milles potions et au physique bucheronesque
+---
+
+
 ![[Naprelan.jpg]]
 
 **Sorcier**  

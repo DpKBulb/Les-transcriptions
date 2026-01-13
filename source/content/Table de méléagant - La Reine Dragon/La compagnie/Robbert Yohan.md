@@ -1,3 +1,9 @@
+---
+title: Robbert Yohan
+description: Le paladin aux airs sombres et aux idées lubriques
+---
+
+
 ![[Robbert_offi.png]]
 
 ##### Paladin  
