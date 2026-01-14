@@ -37,3 +37,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
  - Il sait faire des claquette mais ne veut pas raconter comment il a appris
  - Allergique aux batracien
  - Très coquet avec ses cheveux en prend tres soin.
+ - La premiere fois ou j'ai fais une aventure dans un donjon j'ai ete teleporter a mon insu dedans par je ne sais qui et j'etais meme pas completement habillé. J'ai donc fait ma premiere aventure dans un donjon en slip et tshirt

@@ -3,7 +3,6 @@ title: Robbert Yohan
 description: Le paladin aux airs sombres et aux idées lubriques
 ---
 
-
 ![[Robbert_offi.png]]
 
 ##### Paladin  
@@ -37,5 +36,6 @@ description: Le paladin aux airs sombres et aux idées lubriques
  - Robbert est allergique au cyprès
  - Il deteste avoir des choses autour du cou des bras ou autre
  - Il pratique acupuncture et les massages point d'energie et detente
+ - Astygmate myope bref voit flou
 
 ![[Robbert Yohan.jpg]]

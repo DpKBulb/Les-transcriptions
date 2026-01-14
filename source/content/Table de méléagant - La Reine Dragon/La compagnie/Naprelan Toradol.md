@@ -33,3 +33,4 @@ description: Le sorcier aux milles potions et au physique bucheronesque
  - Quand il se balade il est tres curieux culinairement et donc essaye toujours les plats les plus particuliers dans les taverne
  - Il est est accro aux jeux, joue pour tout et cela est lié a son enorme esprit de competition
  - Reve secretement de devenir un chat
+ - Prie régulierement Kelembor le dieru de la mort et du jugement des ames
