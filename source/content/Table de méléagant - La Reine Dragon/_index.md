@@ -6,5 +6,5 @@ title: Table de méléagant - La Reine Dragon
 1. [[La compagnie]]
 2. [[Lieux remarquable]]
 3. [[PNJ remarquable]]
-4. [[Transcription des séances]]
+4. [[Table de méléagant - La Reine Dragon/Transcription des séances]]
 5. [[Résumé de campagne]]

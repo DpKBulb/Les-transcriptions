@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
+                "file": "WildSea/Transcription des séances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Résumé de campagne"
+              "title": "Transcription des séances"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
+                "file": "WildSea/Transcription des séances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Résumé de campagne"
+              "title": "Backlinks for Transcription des séances"
             }
           },
           {
@@ -157,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
@@ -176,24 +176,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "247f031a73c0dc01",
   "lastOpenFiles": [
+    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+    "WildSea/Transcription des séances.md",
+    "WildSea/L'équipage/Carl.md",
+    "WildSea/L'équipage/Token.png",
+    "WildSea/L'équipage/Full.png",
+    "WildSea/L'équipage/Aphirae.md",
+    "WildSea/L'équipage/Chirac.md",
+    "_index.md",
+    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
-    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
     "Table de méléagant - La Reine Dragon/_index.md",
     "Table de méléagant - La Reine Dragon/PNJ remarquable.md",
-    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
     "Table de méléagant - La Reine Dragon/assets/Languedorossa.png",
     "Table de méléagant - La Reine Dragon/Lieux remarquable.md",
-    "WildSea/L'équipage/Carl.md",
     "Table de méléagant - La Reine Dragon/assets/_index.md",
     "WildSea/L'équipage/_index.md",
     "WildSea/L'équipage",
@@ -203,11 +208,8 @@
     "Table de méléagant - La Reine Dragon/assets/Pasted image (4).png",
     "Table de méléagant - La Reine Dragon/assets/Pasted image (3).png",
     "Table de méléagant - La Reine Dragon/assets/Pasted image (2).png",
-    "_index.md",
     "Table de méléagant - La Reine Dragon/assets/Elros.jpg",
     "Table de méléagant - La Reine Dragon/assets/Sagrimm.jpg",
-    "Table de méléagant - La Reine Dragon/assets/Naprelan.jpg",
-    "Table de méléagant - La Reine Dragon/Assets/IMG_5605.jpg",
     "WildSea/_index.md",
     "WildSea",
     "WildSea.md",
@@ -219,9 +221,6 @@
     "Table de méléagant - La Reine Dragon/La compagnie/La compagnie.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts",
     "StarBreaker/Les PNJs",
     "StarBreaker/Les joueurs",
