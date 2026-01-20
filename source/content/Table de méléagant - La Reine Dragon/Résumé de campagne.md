@@ -263,3 +263,29 @@
    Se posa alors la question des œufs des dragons. Que faire de ces reliques de la nature ? Miracle d'une vie puissante et glorieuse mais aussi dangereuse… Les emporter pour les élever ou les vendre ? Les détruire ? Peu importait. Leur masse écrasante les rendait impossibles à transporter. Les aventuriers les abandonnèrent alors là.
 
    Enfin, poursuivant leur avancée, ils se confrontèrent à une impasse dans laquelle se trouvait un tapis laid. Légèrement paranoïaque, le groupe l'analysa avec précaution, découvrant une échelle de corde au-dessous. Juste en bas se dévoila une pièce couverte de tapis. Celle-ci fut fouillée de fond en comble. Le Sorcier y découvrit alors des informations essentielles. Une carte de la région montrait des villages rayés. Une flèche pointait alors le nord accompagnée d'une note : « Tout doit être emporté vers Naerytar ».
+
+## XX - CE N'EST QU'UN AU REVOIR
+
+    Un couloir au fond du bureau menait à une porte close. L'instinct du Roublard le titilla : une embuscade. Ayant récemment acquis de nouveaux joujoux explosifs, une idée d'une subtilité remarquable vint au groupe.
+
+   S'approchant à pas de loup, le Roublard se colla à la porte. Il l'entrouvrit et aussitôt, y lâcha sa bombe sans oublier de refermer. Bloquant la porte avec le Sorcier, une certaine jubilation conquit les deux Elfes lorsque l'explosion retentit.
+
+   Ils écoutaient attentivement les hurlements de leurs ennemis, lentement consumés par les flammes, suffoquant dans la fumée. Une fois le calme installé, nos HÉROS ouvrirent en grand la porte, contemplant leur crime de guerre. Le Sorcier aperçut des fuyards qu'il ne parvint pas à maudire convenablement, leur permettant de fuir. Les flammes barrant la route, le groupe usa des tapis pour se frayer un chemin.
+
+   Alors que l'Éclaireur et le Paladin s'élancèrent à la poursuite des survivants, le Roublard et le Sorcier pillaient et achevaient les corps carbonisés. Ne trouvant que des babioles et quelques armes, ils progressèrent alors.
+
+   Sur le chemin, après avoir retrouvé le Paladin et l'Éclaireur qui ne purent rattraper les fuyards, ils rencontrèrent un homme dans un état léthargique, somnolent. Après délibération entre les idées de meurtre du Sorcier et de justice du Paladin, la décision finale fut de ramasser ce junkie étrange et de le laisser se faire juger à Verdure.
+
+   Redécouvrant le concept de « soleil », le groupe respira un bon coup. Cette grotte avait été comme une deuxième maison d'enfance, remplie de souvenirs émouvants, d'œufs de dragons et de chair en décomposition.
+
+   Mais avant de quitter définitivement les lieux, ils devaient rendre hommage à un vieil ami. Ils purent retrouver sans mal le Maître des Masques, et Torm, dans sa sainte grâce, lui accorda quelques dernières paroles. Ainsi, ils apprirent la véritable identité de ce beau blond svelte. Il était le prince Adam de l'Aura, parti à l'aventure pour protéger les forêts. Tel était son vœu que respecteraient les aventuriers.
+
+   Le groupe incinéra le corps du Maître et récupéra ses restes dans l'objectif de l'inhumer auprès de son père. Le Roublard hérita de son arc, l'Éclaireur, pour honorer son sauveur, récupéra le masque héroïque. Le Sorcier, lui, porterait ses cendres jusqu'à son tombeau.
+
+   Enfin, ils purent dire adieu à cette grotte. De retour à Verdure, on leur confia un cheval de voyage chacun pour se rendre à Elturel. Il fallait garder leur objectif en vue. Voyageant quelques jours sans encombre, une fois en ville, le groupe, porté par le désir d'accomplir sa mission, se rendit à l'auberge de la paire de panaches noires. On leur transmit qu'Ontar Krum adorait cet endroit.
+
+   Un manque de connaissance étymologique suggéra au Sorcier, Roublard et Éclaireur que les paladins de Torm partageaient une certaine lubricité. Le Paladin, choqué de ces accusations, rétorqua : premièrement, il était obligé de toucher les gens pour soigner. Secondement, les « panaches » désignaient des bois de cerf. Les Paladins de Torm n'étaient guidés que par le devoir et l'ordre !
+
+   Ils retrouvèrent Ontar Krum, chope en main dans un concours de boisson. Bien évidemment, chaque membre y participa. Très vite, l'Éclaireur, le Roublard, le Sorcier et Ontar lui-même finirent complètement ivres. Seul le Paladin vagabond, qui avait connu la rue, la vraie, resta sobre, se noyant usuellement dans des tord-boyaux moins sophistiqués.
+
+   Le lendemain fut un réveil difficile, et malgré la personnalité fêtarde d'Ontar Krum, ce dernier leur apparut sérieux. Il adressa un discours reconnaissant aux aventuriers à la fin duquel il leur proposa de rejoindre l'ordre du gantelet ou les ménestrels. Des organisations aux avantages divers et à la structure nuancée. Sur ces mots, il rappela l'importance de leur mission et de leur rôle avant de les laisser réfléchir sur la suite des événements.
