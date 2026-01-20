@@ -264,9 +264,9 @@
 
    Enfin, poursuivant leur avancée, ils se confrontèrent à une impasse dans laquelle se trouvait un tapis laid. Légèrement paranoïaque, le groupe l'analysa avec précaution, découvrant une échelle de corde au-dessous. Juste en bas se dévoila une pièce couverte de tapis. Celle-ci fut fouillée de fond en comble. Le Sorcier y découvrit alors des informations essentielles. Une carte de la région montrait des villages rayés. Une flèche pointait alors le nord accompagnée d'une note : « Tout doit être emporté vers Naerytar ».
 
-## XX - CE N'EST QU'UN AU REVOIR
-
-    Un couloir au fond du bureau menait à une porte close. L'instinct du Roublard le titilla : une embuscade. Ayant récemment acquis de nouveaux joujoux explosifs, une idée d'une subtilité remarquable vint au groupe.
+## ÉPISODE X - CE N'EST QU'UN AU REVOIR
+![[Episode dixieme.png]]
+   Un couloir au fond du bureau menait à une porte close. L'instinct du Roublard le titilla : une embuscade. Ayant récemment acquis de nouveaux joujoux explosifs, une idée d'une subtilité remarquable vint au groupe.
 
    S'approchant à pas de loup, le Roublard se colla à la porte. Il l'entrouvrit et aussitôt, y lâcha sa bombe sans oublier de refermer. Bloquant la porte avec le Sorcier, une certaine jubilation conquit les deux Elfes lorsque l'explosion retentit.
 
@@ -289,3 +289,7 @@
    Ils retrouvèrent Ontar Krum, chope en main dans un concours de boisson. Bien évidemment, chaque membre y participa. Très vite, l'Éclaireur, le Roublard, le Sorcier et Ontar lui-même finirent complètement ivres. Seul le Paladin vagabond, qui avait connu la rue, la vraie, resta sobre, se noyant usuellement dans des tord-boyaux moins sophistiqués.
 
    Le lendemain fut un réveil difficile, et malgré la personnalité fêtarde d'Ontar Krum, ce dernier leur apparut sérieux. Il adressa un discours reconnaissant aux aventuriers à la fin duquel il leur proposa de rejoindre l'ordre du gantelet ou les ménestrels. Des organisations aux avantages divers et à la structure nuancée. Sur ces mots, il rappela l'importance de leur mission et de leur rôle avant de les laisser réfléchir sur la suite des événements.
+
+
+## ÉPISODE XI - 
+![[Episode onzieme.png]]

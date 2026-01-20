@@ -27,3 +27,6 @@
  Garde d'élite du culte
 ##### Ontar Krum
  Copain de Leocin paladin de Torm
+
+##### Ackyn Celebon
+ Copain de Leocin paladin de Torm

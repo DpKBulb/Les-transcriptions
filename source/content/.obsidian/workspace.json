@@ -8,29 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "247f031a73c0dc01",
+            "id": "010ac1ef0d5c2f73",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "WildSea/L'équipage/assets/Full.png"
+                "file": "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png"
               },
               "icon": "lucide-image",
-              "title": "Full"
+              "title": "Episode onzieme"
             }
           },
           {
-            "id": "010ac1ef0d5c2f73",
+            "id": "67c0a5d3fc60b8bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/Lieux remarquables/Verdure (Greenest).md",
-                "mode": "source",
-                "source": false
+                "file": "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png"
               },
-              "icon": "lucide-file",
-              "title": "Verdure (Greenest)"
+              "icon": "lucide-image",
+              "title": "Episode onzieme"
             }
           }
         ],
@@ -91,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 476.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -193,10 +191,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "010ac1ef0d5c2f73",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Table de méléagant - La Reine Dragon/Lieux remarquables/_index.md",
+    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
+    "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png",
+    "Table de méléagant - La Reine Dragon/assets/Naprelan chauve.jpg",
+    "Table de méléagant - La Reine Dragon/assets/Nouveau projet.jpg",
+    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+    "Table de méléagant - La Reine Dragon/PNJ remarquable.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
+    "Pasted image 20260120205556.png",
+    "Table de méléagant - La Reine Dragon/assets/Episode neuvième.png",
+    "WildSea/L'équipage/assets/Full.png",
+    "Table de méléagant - La Reine Dragon/assets/Episode dixieme.png",
+    "Table de méléagant - La Reine Dragon/assets/Episode dizieme.png",
+    "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png",
+    "Table de méléagant - La Reine Dragon/assets/Pasted image.png",
+    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
+    "WildSea/Transcription des séances.md",
     "Table de méléagant - La Reine Dragon/Lieux remarquables/Verdure (Greenest).md",
+    "Table de méléagant - La Reine Dragon/Lieux remarquables/_index.md",
     "WildSea/Lieux remarquable/_index.md",
     "WildSea/_index.md",
     "_index.md",
@@ -205,37 +221,18 @@
     "WildSea/Lieux remarquable",
     "WildSea/L'équipage/Mani Tumouche.md",
     "WildSea/L'équipage/Munera.md",
-    "WildSea/Transcription des séances.md",
-    "WildSea/L'équipage/assets/Alastor.png",
-    "WildSea/L'équipage/assets/andreas-bloecher-pilz-eastwood.jpg",
     "WildSea/L'équipage/Aphirae.md",
     "WildSea/L'équipage/L'équipage.md",
-    "WildSea/L'équipage/assets/Token.png",
-    "WildSea/L'équipage/assets/Full.png",
     "WildSea/L'équipage/Carl.md",
     "WildSea/L'équipage/assets",
-    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
-    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
     "Table de méléagant - La Reine Dragon/_index.md",
-    "Table de méléagant - La Reine Dragon/PNJ remarquable.md",
-    "Table de méléagant - La Reine Dragon/assets/Languedorossa.png",
     "Table de méléagant - La Reine Dragon/assets/_index.md",
     "WildSea/L'équipage/_index.md",
     "WildSea/L'équipage",
     "Table de méléagant - La Reine Dragon/La compagnie/_index.md",
-    "Table de méléagant - La Reine Dragon/assets/Robbert_offi.png",
-    "Table de méléagant - La Reine Dragon/assets/Robbert_offi.png",
-    "Table de méléagant - La Reine Dragon/assets/Pasted image (4).png",
-    "Table de méléagant - La Reine Dragon/assets/Pasted image (3).png",
-    "Table de méléagant - La Reine Dragon/assets/Pasted image (2).png",
     "WildSea",
     "WildSea.md",
-    "'Les.md",
     "Table de méléagant - La Reine Dragon/assets",
     "copilot/copilot-conversations",
     "copilot",
