@@ -292,20 +292,20 @@
 
 ## ÉPISODE XI - SHOPPING
 
-    Ontar et Leocin confièrent aux aventuriers le détail de leur plan. Ils aspiraient à intercepter les membres du culte, non pas pour les punir ou les massacrer, mais pour les suivre et découvrir les enjeux autour du Château de Naerytar. 
+   Ontar et Leocin confièrent aux aventuriers le détail de leur plan. Ils aspiraient à intercepter les membres du culte, non pas pour les punir ou les massacrer, mais pour les suivre et découvrir les enjeux autour du Château de Naerytar. 
 	
-    Ils savaient que le culte devrait passer par la Porte de Baldur. L'opération reposerait alors sur un plan simple : infiltrer une caravane marchande pour suivre subtilement la progression du culte. Pour cela, le groupe devait embarquer sur le fleuve au plus vite vers la Porte de Baldur. Là-bas, un certain Sélebon Ackyn attendrait leur arrivée pour leur offrir la couverture idéale : des escortes.
+   Ils savaient que le culte devrait passer par la Porte de Baldur. L'opération reposerait alors sur un plan simple : infiltrer une caravane marchande pour suivre subtilement la progression du culte. Pour cela, le groupe devait embarquer sur le fleuve au plus vite vers la Porte de Baldur. Là-bas, un certain Sélebon Ackyn attendrait leur arrivée pour leur offrir la couverture idéale : des escortes.
 	
-    Mais pour le groupe, il était temps avant tout de faire du shopping. Profitant allègrement des avantages proposés par Ontar et Leocin, le Roublard hérita d'un gambison en cuir et d'une nouvelle rapière. Une arme qu'acquit aussi l'Éclaireur, démuni jusqu'alors au corps à corps. Le Paladin, lui, commanda une armure de plaque entièrement payée par l'ordre et le Sorcier demanda un élément essentiel à son attirail surnaturel : une targe.
+   Mais pour le groupe, il était temps avant tout de faire du shopping. Profitant allègrement des avantages proposés par Ontar et Leocin, le Roublard hérita d'un gambison en cuir et d'une nouvelle rapière. Une arme qu'acquit aussi l'Éclaireur, démuni jusqu'alors au corps à corps. Le Paladin, lui, commanda une armure de plaque entièrement payée par l'ordre et le Sorcier demanda un élément essentiel à son attirail surnaturel : une targe.
 	
-    L'expédition dans la caverne et la perte de son petit doigt l'avaient marqué. Il se rasa ses cheveux argentés, se tatoua le crâne avec d'étranges motifs encrés et se balada dans la ville d'Elturel, potion en main, en maudissant les marchands afin de leur soutirer leurs sous. 
+   L'expédition dans la caverne et la perte de son petit doigt l'avaient marqué. Il se rasa ses cheveux argentés, se tatoua le crâne avec d'étranges motifs encrés et se balada dans la ville d'Elturel, potion en main, en maudissant les marchands afin de leur soutirer leurs sous. 
 	
-    Ignorant les manigances de son compagnon, le Paladin le laissa gérer les transactions, tandis que le Sorcier accumulait un beau paquet d'or mal acquis. Néanmoins, les autres marchands commencèrent à sentir l'arnaque venir et bientôt, les regards mauvais se tournèrent sur le groupe. 
+   Ignorant les manigances de son compagnon, le Paladin le laissa gérer les transactions, tandis que le Sorcier accumulait un beau paquet d'or mal acquis. Néanmoins, les autres marchands commencèrent à sentir l'arnaque venir et bientôt, les regards mauvais se tournèrent sur le groupe. 
 	
-    Cette petite tournée leur permit notamment d'enfin ouvrir le coffre mystérieux de la caverne. Des perles, des gemmes et pierres précieuses le remplissaient. Mais rien ne fut vendu. Le groupe étant désormais mal perçu par le corps marchand à cause du Sorcier et de ses méthodes douteuses, la peur de l'arnaque était trop forte. 
+   Cette petite tournée leur permit notamment d'enfin ouvrir le coffre mystérieux de la caverne. Des perles, des gemmes et pierres précieuses le remplissaient. Mais rien ne fut vendu. Le groupe étant désormais mal perçu par le corps marchand à cause du Sorcier et de ses méthodes douteuses, la peur de l'arnaque était trop forte. 
 	
-    Le lendemain matin, le groupe embarqua avec excitation. Le Sorcier et le Paladin découvrirent le voyage par l'eau et le Roublard son émétophobie. Ils dévalèrent vite le fleuve, dans un concert de nausées et de vomissements. 
+   Le lendemain matin, le groupe embarqua avec excitation. Le Sorcier et le Paladin découvrirent le voyage par l'eau et le Roublard son émétophobie. Ils dévalèrent vite le fleuve, dans un concert de nausées et de vomissements. 
 	
-    Enfin, ils arrivèrent à la Porte de Baldur et sans plus attendre, ils retrouvèrent à Porte Noire ce fameux Sélebon. Par une approche habile, ils purent obtenir leur poste. Ils rencontrèrent le marchand sous leur protection, charmant et poli. Mais ils remarquèrent aussi très vite des membres de la secte. 
+   Enfin, ils arrivèrent à la Porte de Baldur et sans plus attendre, ils retrouvèrent à Porte Noire ce fameux Sélebon. Par une approche habile, ils purent obtenir leur poste. Ils rencontrèrent le marchand sous leur protection, charmant et poli. Mais ils remarquèrent aussi très vite des membres de la secte. 
 	
-    Le convoi amorça son départ, annonçant le début d'un grand voyage.
+   Le convoi amorça son départ, annonçant le début d'un grand voyage.
