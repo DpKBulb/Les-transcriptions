@@ -38,5 +38,6 @@ description: Le paladin aux airs sombres et aux idées lubriques
  - Il pratique acupuncture et les massages point d'energie et detente
  - Astygmate myope bref voit flou
  - A le mal des transport car il est traumatisé par les transport
+ - Deteste les chiens, trouve que ca pu
 
 ![[Robbert Yohan.jpg]]

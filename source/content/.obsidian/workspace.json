@@ -23,12 +23,14 @@
             "id": "67c0a5d3fc60b8bf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png"
+                "file": "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Episode onzieme"
+              "icon": "lucide-file",
+              "title": "Transcription des séances"
             }
           }
         ],
@@ -191,25 +193,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "67c0a5d3fc60b8bf",
   "lastOpenFiles": [
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
+    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+    "Table de méléagant - La Reine Dragon/assets/Naprelan_chauve_2.jpg",
+    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
     "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png",
+    "Table de méléagant - La Reine Dragon/Résumé de campagne.md.REMOTE",
+    "Table de méléagant - La Reine Dragon/Résumé de campagne.md.LOCAL",
+    "Table de méléagant - La Reine Dragon/Résumé de campagne.md.BASE",
     "Table de méléagant - La Reine Dragon/assets/Naprelan chauve.jpg",
     "Table de méléagant - La Reine Dragon/assets/Nouveau projet.jpg",
-    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
     "Table de méléagant - La Reine Dragon/PNJ remarquable.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
     "Pasted image 20260120205556.png",
     "Table de méléagant - La Reine Dragon/assets/Episode neuvième.png",
     "WildSea/L'équipage/assets/Full.png",
     "Table de méléagant - La Reine Dragon/assets/Episode dixieme.png",
     "Table de méléagant - La Reine Dragon/assets/Episode dizieme.png",
-    "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png",
     "Table de méléagant - La Reine Dragon/assets/Pasted image.png",
-    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "WildSea/Transcription des séances.md",
     "Table de méléagant - La Reine Dragon/Lieux remarquables/Verdure (Greenest).md",
     "Table de méléagant - La Reine Dragon/Lieux remarquables/_index.md",
@@ -234,9 +239,6 @@
     "WildSea",
     "WildSea.md",
     "Table de méléagant - La Reine Dragon/assets",
-    "copilot/copilot-conversations",
-    "copilot",
-    "copilot/copilot-custom-prompts",
-    "StarBreaker/Les PNJs"
+    "copilot/copilot-conversations"
   ]
 }

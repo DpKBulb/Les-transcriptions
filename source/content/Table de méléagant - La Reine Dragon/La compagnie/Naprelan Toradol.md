@@ -4,7 +4,7 @@ description: Le sorcier aux milles potions et au physique bucheronesque
 ---
 
 
-![[Naprelan.jpg]]
+![[Naprelan_chauve_2.jpg]]
 
 **Sorcier**  
   
@@ -35,3 +35,7 @@ description: Le sorcier aux milles potions et au physique bucheronesque
  - Reve secretement de devenir un chat
  - Prie régulierement Kelembor le dieru de la mort et du jugement des ames
  - A le mal des transports
+ - Trouve que tous les gnomes se ressemble
+
+![[Naprelan.jpg]]
+![[Naprelan chauve.jpg]]

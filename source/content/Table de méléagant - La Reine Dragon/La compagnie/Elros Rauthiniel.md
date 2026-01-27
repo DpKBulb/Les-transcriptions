@@ -6,7 +6,9 @@ description: Un elfe roublard bien trop sûr de lui
 
 ![[Elros.jpg]]
 
-**Roublard**
+## **Roublard**
+
+Langues: Halfelin, Commun et langue des voleur(Thieves can't)
 
 Ayant grandit dans les bas quartier de Waterdeep, né de d'elfe des bois originaire de Silverymoon ayant émigré dans cette grande ville, la vie fût douce les premières années. Mais ses parents perdit la vie à un âge ou Elros n'était pas encore capable de comprendre ce qui l'attendait.
 
@@ -39,3 +41,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
  - Très coquet avec ses cheveux en prend tres soin.
  - La premiere fois ou j'ai fais une aventure dans un donjon j'ai ete teleporter a mon insu dedans par je ne sais qui et j'etais meme pas completement habillé. J'ai donc fait ma premiere aventure dans un donjon en slip et tshirt
  - Emetophobe
+ - Fais du knife spinning mais est nul ce qui lui laisse plein de coupure au main

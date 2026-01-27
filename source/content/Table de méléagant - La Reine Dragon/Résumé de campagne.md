@@ -291,7 +291,7 @@
    Le lendemain fut un réveil difficile, et malgré la personnalité fêtarde d'Ontar Krum, ce dernier leur apparut sérieux. Il adressa un discours reconnaissant aux aventuriers à la fin duquel il leur proposa de rejoindre l'ordre du gantelet ou les ménestrels. Des organisations aux avantages divers et à la structure nuancée. Sur ces mots, il rappela l'importance de leur mission et de leur rôle avant de les laisser réfléchir sur la suite des événements.
 
 ## ÉPISODE XI - SHOPPING
-
+![[Episode onzieme.png]]
    Ontar et Leocin confièrent aux aventuriers le détail de leur plan. Ils aspiraient à intercepter les membres du culte, non pas pour les punir ou les massacrer, mais pour les suivre et découvrir les enjeux autour du Château de Naerytar.
 
 	
