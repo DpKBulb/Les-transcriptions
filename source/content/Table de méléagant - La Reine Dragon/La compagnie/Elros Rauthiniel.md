@@ -42,3 +42,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
  - La premiere fois ou j'ai fais une aventure dans un donjon j'ai ete teleporter a mon insu dedans par je ne sais qui et j'etais meme pas completement habillé. J'ai donc fait ma premiere aventure dans un donjon en slip et tshirt
  - Emetophobe
  - Fais du knife spinning mais est nul ce qui lui laisse plein de coupure au main
+ - Il a creer une mixture qui lui permet de garder des cheveux brilliant et soyeux
