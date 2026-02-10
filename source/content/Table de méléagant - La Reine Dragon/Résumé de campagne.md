@@ -381,3 +381,28 @@
   
 
    Se redirigeant vers la caravane comme si de rien n'était, les aventuriers semblaient avoir déjà oublié le meurtre brutal qu'ils venaient de commettre. Après tout, ils avaient un arc télépathique à tester.
+
+   ## ÉPISODE XIII - LE NUDISME
+
+   L'ambiance à la caravane s'était alourdie. On lançait des regards en coin aux aventuriers qui se trimballaient librement, un cadavre à l'épaule. Remarquant le malaise ambiant, il fut décidé d'enterrer et d'oublier cet épisode. Malheureusement, la réputation du groupe, malgré les justifications maladroites du Sorcier, s'était grandement ternie. Ils appartenaient maintenant à la catégorie des fous de la caravane.
+
+   Le Sorcier et l'Éclaireur réfléchissaient à des plans pour se racheter, repeindre leur sombre portrait. Pendant ce temps, le Roublard, lui, gardait la véritable mission en tête : récolter des informations sur les cultistes.
+
+   Son plan qu'il imaginait silencieusement depuis des jours trouva son aboutissement dans la passion du Nain Éclaireur pour les potions du Sorcier. L'un des élixirs le métamorphosa en une copie conforme du Roublard, cet elfe charmant aux cheveux d'argent soyeux.
+
+   Ainsi, le Roublard décrivit son plan au groupe : il fallait créer une diversion dans laquelle son clone serait le centre de l'attention. Pendant ce temps, grâce au stock d'alcool maison du Paladin, il glisserait quelques fioles d'alcool dans la caisse d'un marchand innocent, qu'il accuserait ensuite d'avoir provoqué l'incendie qu'il allait lui-même déclencher.
+
+   L'objectif était de créer un effet de panique dont il ne pourrait être l'origine pour infiltrer les chariots des cultistes.
+
+   Il fut établi que la diversion originelle serait un conflit salé entre l'Éclaireur déguisé et le Sorcier chauve. Cette première phase se déroula sans accroc, le soir du repas. Tous rentrèrent alors insouciants et divertis par le combat des fous de la caravane.
+
+   Le lendemain, le groupe se confronta à un chariot arrêté sur la route, renversé. S'y précipitant pour apporter leur secours, ils firent la rencontre de quelques arbalétriers appelant à l'aide. Des Hobgobelins avaient embusqué la cargaison et attendaient la moindre fenêtre pour attaquer.
+
+   Ne voyant que le devoir et guidés par la bienveillance et non le potentiel de faire leurs preuves aux membres du convoi et de regagner en popularité, les aventuriers se dressèrent contre les viles créatures.
+
+   Bien que le Sorcier tentât de se figurer les causes déterminantes des actions répréhensibles de ces individus marginalisés, le Paladin, lui, amorça une charge tout en les insultant en nanique.
+
+   S'engagea un affrontement à sens unique, en quatre contre sept. Les Hobgobelins apparurent nus à l'exception de leur chef, renforçant le côté pauvre et vulnérable de ces populations. Mais cela n'empêcha pas le Roublard de trancher dans le vif. Le Paladin, lui, concentra ses dons divins pour paralyser une des cibles et faciliter le combat. Le Sorcier enfila sa fursuit et déchira avec violence les chairs de ses ennemis.
+
+   Très vite ne resta qu'un unique Hobgobelin. L'Éclaireur tira alors une flèche mais un carreau d'arbalète vint achever la créature juste avant, dérobant toute la gloire et le succès. Au sol, paralysé, ne restait qu'un Hobgobelin vulnérable…
+
