@@ -315,3 +315,69 @@
 
 	
    Le convoi amorça son départ, annonçant le début d'un grand voyage.
+
+## ÉPISODE XII - LE CERFOURASSE
+
+  
+
+   La caravane amorça son chemin vers Eaux-Profondes. Chaque semaine de voyage profiterait d'un jour de repos bien mérité. Le convoi accueillait tout type de personnage de tout horizon.
+
+  
+
+   Sur leurs gardes, l'Éclaireur et le Roublard rôdaient. Mais, à force de fixer trop attentivement chaque déplacement, leur attitude parut suspecte. Surtout chez l'Éclaireur qui n'agissait pas aussi subtilement que le Roublard.
+
+  
+
+   Pendant ce temps, le Sorcier tenta de nouer des liens avec quelques membres du convoi. Il rencontra notamment une naine au nom sans doute trop compliqué pour mériter une mention.
+
+  
+
+   Le Paladin, lui, tenta de présenter les tenants et aboutissants de son culte. Il attira un bon nombre de personnes, curieuses de voir ce prétendu miracle. Mais alors qu'il promit la réalisation de celui-ci, rien ne se produisit. Il fut alors classé dans la case des charlatans illuminés.
+
+  
+
+   Au septième jour, alors que le convoi était à l'arrêt, une apparition surnaturelle engendra une vive réaction. Un cerf, à la fourrure d'or et aux bois majestueux, apparut dans les collines dans une lumière céleste.
+
+  
+
+   Une chasse s'amorça alors. Tous se précipitèrent à la poursuite de la bête qui ne se laissa pas attraper si facilement. Consultant leurs dieux pour savoir quelle démarche adopter envers cette créature, l'Éclaireur et le Paladin furent missionnés de participer à la traque.
+
+  
+
+   Le Roublard resta en arrière pour surveiller le moindre mouvement suspect. Pendant ce temps, le reste du groupe se perdait entre fausses pistes et confusion. Le Sorcier se retrouva avec un groupe d'inconnus tandis que de leur côté, le Paladin et l'Éclaireur parvinrent à pister et coincer le cerf.
+
+  
+
+   Prêts à l'abattre de la manière la plus graphique et violente possible, l'animal se mit soudain à parler. Tout d'abord en une langue inconnue. Puis en Elfique, qu'aucun ne connaissait malheureusement, ne parlant que le commun et le nanique. Difficilement, le cerf articula quelques paroles en commun : « Suivez la rivière dorée jusqu'au château dans le ciel, tous ne survivront pas. »
+
+  
+
+   Tel un mirage, il s'évanouit dans la lumière laissant derrière lui l'étonnement certain de nos deux compagnons mais surtout : un arc.
+
+  
+
+   Regagnant la caravane, vainqueurs de la chasse, l'Éclaireur et le Paladin racontèrent à leurs amis l'étrange phénomène. Ils rapportèrent l'énigme du Cerf Fourasse et décrivirent les alentours du lieu de sa volatilisation. Le Sorcier, saisi par un éclair de lucidité, proposa d'aller investiguer plus en profondeur les ruines et d'user de l'arc peut-être comme une clé de cette énigme.
+
+  
+
+   Le Roublard accompagna cette fois le groupe et une fois là-bas débuta une suite d'expérimentations. L'Éclaireur tira sur les pierres des ruines, sur des arbres, banda l'arc sans flèche mais rien. Même le guide détaillé des ruines des environs d'Eaux-Profondes et de la Porte de Baldur ne donna aucun indice au groupe.
+
+  
+
+   Mais soudain ! Une flèche rebondit mollement sur la lourde armure de plaque du Paladin. Trois fieffés salauds avaient suivi la troupe pour les racketter sauvagement.
+
+  
+
+   L'un, maudit par le Sorcier, s'enfuit, désormais phobique des épées. Un autre reçut une flèche dans la cuisse, test non létal pour éprouver le nouvel arc de l'Éclaireur. L'autre vit son flanc tailladé par la pointe habile du Roublard, et très rapidement, sa clavicule rejoindre son bassin, sous l'épée du Paladin.
+
+  
+
+   Alors que le Sorcier proposait de nouvelles expérimentations, l'Éclaireur lui répondit directement dans l'esprit, sans ouvrir les lèvres. Émerveillés par cette découverte télépathique, le groupe en oublia leur dernière victime qui s'enfuit, terrorisée.
+
+  
+
+   Après une petite dizaine de tests, le constat fut établi : l'arc permettait de communiquer par la pensée, tout du moins à celui qui le tenait.
+
+  
+
+   Se redirigeant vers la caravane comme si de rien n'était, les aventuriers semblaient avoir déjà oublié le meurtre brutal qu'ils venaient de commettre. Après tout, ils avaient un arc télépathique à tester.
