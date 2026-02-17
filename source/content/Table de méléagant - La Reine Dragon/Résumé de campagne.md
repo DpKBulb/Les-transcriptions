@@ -1,3 +1,4 @@
+![[intro.png]]
 ## Prologue : Arrivée à Verdure
 ![[Prologue.png]]
  Entre les volutes de fumée noire des incendies, une silhouette massive décrivait des cercles dans le ciel. Au loin, des cris résonnaient. Bataille ? Pillage ? Peu importait. Le chaos s'abattait sur la petite ville de Verdure.  
@@ -318,7 +319,7 @@
 
 ## ÉPISODE XII - LE CERFOURASSE
 
-  
+  ![[Episode douzieme.png]]
 
    La caravane amorça son chemin vers Eaux-Profondes. Chaque semaine de voyage profiterait d'un jour de repos bien mérité. Le convoi accueillait tout type de personnage de tout horizon.
 
@@ -382,7 +383,10 @@
 
    Se redirigeant vers la caravane comme si de rien n'était, les aventuriers semblaient avoir déjà oublié le meurtre brutal qu'ils venaient de commettre. Après tout, ils avaient un arc télépathique à tester.
 
-   ## ÉPISODE XIII - LES FOUS DE LA CARAVANE
+## ÉPISODE XIII - LES FOUS DE LA CARAVANE
+
+![[Episode trezieme.png]]
+	
 
    L'ambiance à la caravane s'était alourdie. On lançait des regards en coin aux aventuriers qui se trimballaient librement, un cadavre à l'épaule. Remarquant le malaise ambiant, il fut décidé d'enterrer et d'oublier cet épisode. Malheureusement, la réputation du groupe, malgré les justifications maladroites du Sorcier, s'était grandement ternie. Ils appartenaient maintenant à la catégorie des fous de la caravane.
 
@@ -407,7 +411,7 @@
    Très vite ne resta qu'un unique Hobgobelin. L'Éclaireur tira alors une flèche mais un carreau d'arbalète vint achever la créature juste avant, dérobant toute la gloire et le succès. Au sol, paralysé, ne restait qu'un Hobgobelin vulnérable…
 
 ## ÉPISODE XIV - LE NUDISME
-
+![[Episode quatorzieme.png]]
    Un véritable massacre. Après quelques tentatives de tirer quelque chose du Hobgobelin acculé, le Paladin, par miséricorde, l'acheva. Il s'en alla ensuite apporter des soins aux victimes de l'assaut avec l'aide de l'Éclaireur.
 
    Néanmoins, ces pauvres bougres se retrouvaient dans une situation pénible. Leur chariot ravagé et leurs chevaux morts, ils ne pouvaient plus avancer. Le groupe céda alors un cheval généreusement et leur proposa de rejoindre la caravane.

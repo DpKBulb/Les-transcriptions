@@ -18,6 +18,7 @@
 ##### Eadyean
  Prêtre de shauntea de Verdure
 ##### Kelley
+![[Kelley.png]]
  Chef des cultistes ?
 ##### Rizmir
  Le grand chef des cultistes
