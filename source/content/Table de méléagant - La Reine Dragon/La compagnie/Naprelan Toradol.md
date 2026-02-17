@@ -36,6 +36,7 @@ description: Le sorcier aux milles potions et au physique bucheronesque
  - Prie régulierement Kelembor le dieru de la mort et du jugement des ames
  - A le mal des transports
  - Trouve que tous les gnomes se ressemble
+ - reve de posseder une monture hibours
 
 ![[Naprelan.jpg]]
 ![[Naprelan chauve.jpg]]

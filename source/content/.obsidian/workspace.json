@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/Règles et autres indications.md",
+                "file": "Table de méléagant - La Reine Dragon/Transcription des séances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Règles et autres indications"
+              "title": "Transcription des séances"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/Lieux remarquables/Verdure (Greenest).md",
+                "file": "Table de méléagant - La Reine Dragon/Transcription des séances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Verdure (Greenest)"
+              "title": "Backlinks for Transcription des séances"
             }
           },
           {
@@ -157,16 +157,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,36 +180,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "446326815da6854d",
+  "active": "c47f9f72e25c4474",
   "lastOpenFiles": [
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
-    "intro.png",
-    "Table de méléagant - La Reine Dragon/assets/Kelley.png",
+    "Table de méléagant - La Reine Dragon/Règles et autres indications.md",
+    "Pasted image 20260217221018.png",
+    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
     "Table de méléagant - La Reine Dragon/PNJ remarquable.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
+    "Table de méléagant - La Reine Dragon/assets/Ontar Krum.png",
+    "Table de méléagant - La Reine Dragon/assets/intro.png",
+    "Table de méléagant - La Reine Dragon/assets/Kelley.png",
     "kell.md",
     "Table de méléagant - La Reine Dragon/assets/Bur Ghir.jpg",
     "Table de méléagant - La Reine Dragon/PNJ remarquable/index.md",
     "Table de méléagant - La Reine Dragon/assets/Episode quatorzieme.png",
     "Table de méléagant - La Reine Dragon/assets/Episode trezieme.png",
     "Table de méléagant - La Reine Dragon/assets/Episode douzieme.png",
-    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "Table de méléagant - La Reine Dragon/_index.md",
     "WildSea/Transcription des séances.md",
     "WildSea/L'équipage/L'équipage.md",
     "WildSea/L'équipage/Aphirae.md",
     "WildSea/L'équipage/Munera.md",
     "WildSea/L'équipage/Mani Tumouche.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
     "Table de méléagant - La Reine Dragon/assets/Naprelan_chauve_2.jpg",
-    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
     "Table de méléagant - La Reine Dragon/assets/Episode onzieme.png",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md.REMOTE",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md.LOCAL",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md.BASE",
-    "Table de méléagant - La Reine Dragon/assets/Naprelan chauve.jpg",
-    "Table de méléagant - La Reine Dragon/assets/Nouveau projet.jpg",
     "Table de méléagant - La Reine Dragon/Lieux remarquables/Verdure (Greenest).md",
     "Table de méléagant - La Reine Dragon/Lieux remarquables/_index.md",
     "WildSea/Lieux remarquable/_index.md",
@@ -222,7 +223,6 @@
     "WildSea/L'équipage/assets",
     "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
     "Table de méléagant - La Reine Dragon/assets/_index.md",
-    "WildSea/L'équipage/_index.md",
     "WildSea/L'équipage",
     "WildSea",
     "Table de méléagant - La Reine Dragon/assets",

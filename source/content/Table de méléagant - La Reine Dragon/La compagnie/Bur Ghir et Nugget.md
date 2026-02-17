@@ -13,4 +13,6 @@ description: Un drole de chasseur nain accompagné d'un oiseau de proie
  - N'est plus tres jeune et souffre donc de maux de dos chroniques
  - A chaque fois qu'il rentre dans un foret pour la premiere fois il enterre un objet sous un arbre pour rendre hommage a Sylvanus.
  - Hypermetrope
- - Il a perdu son accent de nain a force de trainer avec des humains²
+ - Il a perdu son accent de nain a force de trainer avec des humains
+ - deteste l'eau, et donc se lave pas enormement du coup
+ - 

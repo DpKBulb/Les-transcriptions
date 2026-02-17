@@ -39,5 +39,6 @@ description: Le paladin aux airs sombres et aux idées lubriques
  - Astygmate myope bref voit flou
  - A le mal des transport car il est traumatisé par les transport
  - Deteste les chiens, trouve que ca pu
+ - Souffre d'un stress post traumatique du a sonenfance et fait un evitement autour de son enfance du a ca
 
 ![[Robbert Yohan.jpg]]

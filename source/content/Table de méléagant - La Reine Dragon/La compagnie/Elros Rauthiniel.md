@@ -43,3 +43,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
  - Emetophobe
  - Fais du knife spinning mais est nul ce qui lui laisse plein de coupure au main
  - Il a creer une mixture qui lui permet de garder des cheveux brilliant et soyeux
+ - Veux secretement avoir une petite barbe d'une semaine mais evite d'en parler parce que c'est mal vu chez les elfes c'est associé aux 'sauvage'
