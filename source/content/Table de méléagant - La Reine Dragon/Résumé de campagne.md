@@ -382,7 +382,7 @@
 
    Se redirigeant vers la caravane comme si de rien n'était, les aventuriers semblaient avoir déjà oublié le meurtre brutal qu'ils venaient de commettre. Après tout, ils avaient un arc télépathique à tester.
 
-   ## ÉPISODE XIII - LE NUDISME
+   ## ÉPISODE XIII - LES FOUS DE LA CARAVANE
 
    L'ambiance à la caravane s'était alourdie. On lançait des regards en coin aux aventuriers qui se trimballaient librement, un cadavre à l'épaule. Remarquant le malaise ambiant, il fut décidé d'enterrer et d'oublier cet épisode. Malheureusement, la réputation du groupe, malgré les justifications maladroites du Sorcier, s'était grandement ternie. Ils appartenaient maintenant à la catégorie des fous de la caravane.
 
@@ -405,4 +405,30 @@
    S'engagea un affrontement à sens unique, en quatre contre sept. Les Hobgobelins apparurent nus à l'exception de leur chef, renforçant le côté pauvre et vulnérable de ces populations. Mais cela n'empêcha pas le Roublard de trancher dans le vif. Le Paladin, lui, concentra ses dons divins pour paralyser une des cibles et faciliter le combat. Le Sorcier enfila sa fursuit et déchira avec violence les chairs de ses ennemis.
 
    Très vite ne resta qu'un unique Hobgobelin. L'Éclaireur tira alors une flèche mais un carreau d'arbalète vint achever la créature juste avant, dérobant toute la gloire et le succès. Au sol, paralysé, ne restait qu'un Hobgobelin vulnérable…
+
+## ÉPISODE XIV - LE NUDISME
+
+   Un véritable massacre. Après quelques tentatives de tirer quelque chose du Hobgobelin acculé, le Paladin, par miséricorde, l'acheva. Il s'en alla ensuite apporter des soins aux victimes de l'assaut avec l'aide de l'Éclaireur.
+
+   Néanmoins, ces pauvres bougres se retrouvaient dans une situation pénible. Leur chariot ravagé et leurs chevaux morts, ils ne pouvaient plus avancer. Le groupe céda alors un cheval généreusement et leur proposa de rejoindre la caravane.
+
+   La nuit tombant, le groupe n'oublia pas sa mission. Prévoyant de récolter des informations sur les cultistes, un nouveau plan se substitua à celui du Roublard qui sembla finalement trop dangereux.
+
+   Après leur repérage et des heures de réflexions intenses, le groupe s'accorda sur le déroulement de la manigance.
+
+   Le Paladin embrigaderait les gardes non cultistes autour des caravanes pour s'attrouper autour du feu et boire un peu de bière naine. Pendant ce temps, caché dans les fourrés, le Sorcier se préparerait à lancer une malédiction de peur : une phobie du vêtement déclenchant la fuite insensée d'un garde cultiste qui focaliserait l'attention de ses confrères. Enfin, le Roublard se faufilerait subtilement dans le chariot pour fouiller et subtiliser au passage quelques richesses. Se tenant en renfort, l'Éclaireur en sentinelle préviendrait par un sifflement ou un signe le retour des gardes.
+
+   Un plan parfait, subtil, sans conséquence. Le Paladin parvint sans mal à rameuter les troupes. Le Sorcier invoqua sans mal sa malédiction mais alors, le Roublard s'élança tel une ombre, intercepta la malédiction et ce fut lui qui fut frappé de la phobie.
+
+   Il hurla alors de peur, terrorisé par ses habits. Courant dans tous les sens, arrachant ses vêtements devant les cultistes, il sema une confusion intense. Un plan B s'improvisa, l'Éclaireur devait se faufiler.
+
+   Pendant que le Roublard se dénuda en hurlant dans les bois, révélant ses atours à tous ceux qui l'observaient, l'Éclaireur parvint à pénétrer la caravane. Mais il n'y trouva rien. Seulement les butins pillés dont il récupéra quelques joyaux subtilement avant de disparaître aussi vite que possible.
+
+   Le lendemain autour du feu, un silence lourd accapara le groupe. Mais alors s'élevèrent les cris d'un noble. Celui-ci furieux, pesta contre ses pauvres chevaux, épuisés et maltraités. Il proposa alors aux aventuriers de racheter l'un de leurs chevaux.
+
+   Tendus par l'audace et le sadisme de ce fieffé bourgeois, le groupe refusa sèchement. L'interprétant comme une agression, le noble se mit à aboyer dans tous les sens, poussant le Sorcier à maudire au silence. Le Paladin parvint à convaincre les gardes de le laisser soigner les chevaux, mais il ne repoussa que de quelques heures l'inévitable.
+
+   Le jour d'après, un cheval agonisait, amaigri et lacéré. Le groupe acheva la pauvre bête et nota dans leur carnet le nom de l'hautain pervers : Nyerhite Verther.
+
+
 
