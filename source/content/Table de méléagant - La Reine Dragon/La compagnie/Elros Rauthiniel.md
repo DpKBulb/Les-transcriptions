@@ -1,14 +1,16 @@
----
-title: Elros Rauthiniel
-description: Un elfe roublard bien trop sûr de lui
----
-
+# Elros Rauthiniel
 
 ![[Elros.jpg]]
 
-## **Roublard**
+## Identité
 
-Langues: Halfelin, Commun et langue des voleur(Thieves can't)
+- **Race** : Elfe des bois
+- **Origine** : Waterdeep (parents originaires de Silverymoon)
+- **Âge** : 
+- **Langues** : Halfelin, Commun, Thieves' cant (langue des voleurs)
+- **Métier** : Roublard / Escroc
+
+## Background
 
 Ayant grandit dans les bas quartier de Waterdeep, né de d'elfe des bois originaire de Silverymoon ayant émigré dans cette grande ville, la vie fût douce les premières années. Mais ses parents perdit la vie à un âge ou Elros n'était pas encore capable de comprendre ce qui l'attendait.
 
@@ -16,31 +18,22 @@ Il fût accueillit par un Thieffelin détrousseur de bourse pas forcement plus l
 
 De toute façon, ayant atteint l'âge de raison, il rêvait maintenant de plus gros dessein, enfin butin en l'occurrence.
 
-Maintenant en âge de commander une bière, il parcourra les royaumes oubliées, d'auberge en taverne, il appris à exploiter les malheureux en quête d'un ou deux mensonges réconfortants 
-
-- peut-être une fausse potion ou de faux documents généalogiques
-
-##### Caractère connu et apparence
+Maintenant en âge de commander une bière, il parcourra les royaumes oubliées, d'auberge en taverne, il appris à exploiter les malheureux en quête d'un ou deux mensonges réconfortants - peut-être une fausse potion ou de faux documents généalogiques
 
 A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un roublard
 
-#### Fun fact
+## Fun facts
 
- - Il est accro aux chats, il est obnubiler par eux. les poursuit et les papouilles des qu'il peut. Ca lui arrive d'oublier ce qu'il faisait et se mettre a suivre un chat errant pour aller le caresser.
-
- - A déjà forcer le cadenas d'une ceinture de chasteté
-
- - Ne fais pas de méditation, préfère dormir parce que la flemme un peu.
- 
- - Il y a un décalage entre les histoires épique à son sujet et la réalité
-
- - A deja a gagner un concours de boisson et maintenant veut gagner tous les concours de boisson des tavernes qu'il croise
- - Il y a des pieds horrible qu'il cache
- - Il sait faire des claquette mais ne veut pas raconter comment il a appris
- - Allergique aux batracien
- - Très coquet avec ses cheveux en prend tres soin.
- - La premiere fois ou j'ai fais une aventure dans un donjon j'ai ete teleporter a mon insu dedans par je ne sais qui et j'etais meme pas completement habillé. J'ai donc fait ma premiere aventure dans un donjon en slip et tshirt
- - Emetophobe
- - Fais du knife spinning mais est nul ce qui lui laisse plein de coupure au main
- - Il a creer une mixture qui lui permet de garder des cheveux brilliant et soyeux
- - Veux secretement avoir une petite barbe d'une semaine mais evite d'en parler parce que c'est mal vu chez les elfes c'est associé aux 'sauvage'
+- Il est accro aux chats, il peut tout abandonner pour suivre un chat. Il rêve secrètement d'être un chat.
+- Ne fait pas de méditation, préfère dormir parce que la flemme un peu.
+- Il y a un décalage entre les histoires épiques à son sujet et la réalité...
+- Lauréat de concours de boisson dans les tavernes, il veut gagner dans toutes les tavernes qu'il croise.
+- Cache ses pieds horribles de gobelin.
+- Sait faire des claquettes mais ne veut pas raconter comment il a appris.
+- Allergique aux batraciens.
+- Très coquet avec ses cheveux, il en prend très soin. Il a créé une mixture pour les rendre brillants et soyeux mais ne la partagera à personne.
+- La première fois où il est allé dans un donjon, il s'y est retrouvé téléporté à son insu en slip et t-shirt.
+- Émétophobe.
+- Fait du knife spinning mais est nul, ce qui lui laisse plein de coupures aux doigts.
+- Veut secrètement avoir une petite barbe d'une semaine mais évite d'en parler parce que c'est mal vu chez les elfes (c'est associé aux "sauvages").
+- A déjà forcé le cadenas d'une ceinture de chasteté.

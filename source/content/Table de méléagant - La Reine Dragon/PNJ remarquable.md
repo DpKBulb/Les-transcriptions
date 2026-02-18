@@ -27,7 +27,7 @@ Bras droit de Kelley, sens très rigoureux de l'honneur - le drakéide bleu.
 ##### Kelley
 
 ![[Kelley.png]]
- Chef des cultistes ?
+Chef des cultistes
 
 ##### Rizmir
 
@@ -47,15 +47,15 @@ Copain de Leocin, paladin de Torm. Guilde du Gantelet.
 
 ##### Ackyn Celebon
 
- Copain de Leocin, paladin de Torm.
+Copain de Leocin, paladin de Torm.
 
 ##### Achreny Ulyeltin
 
- Le marchand qu'on doit protéger.
+Le marchand qu'on doit protéger.
 
 ##### Eldkin Ajtul
 
- Garde naine de la caravane, une des plus anciennes.
+Garde naine de la caravane, une des plus anciennes.
 
 ##### Nyerhite Verther
 
