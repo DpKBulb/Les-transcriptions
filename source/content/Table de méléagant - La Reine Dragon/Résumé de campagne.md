@@ -434,5 +434,36 @@
 
    Le jour d'après, un cheval agonisait, amaigri et lacéré. Le groupe acheva la pauvre bête et nota dans leur carnet le nom de l'hautain pervers : Nyerhite Verther.
 
+## ÉPISODE XV - DÉGRINGOLADE
 
+   Cela faisait maintenant une bonne dizaine de jours de voyage. Dans peu de temps, le convoi atteindrait une auberge, annonce d'une nuit confortable. Mais les obstacles ne cessèrent de se présenter.
 
+   Sous un ciel gris, dans un paysage maussade, la caravane découvrit sur le chemin d'étranges champignons. Gonflés, semblables à des vesses-de-loup, leur présence au départ intrigante se révéla très vite oppressante. Les chariots s'arrêtèrent alors car, sur le chemin et tout autour se dressaient des colonies de champignons s'étendant jusqu'à perte de vue.
+
+   L'Éclaireur identifia leur nature impropre à la consommation, et mis à part ce point crucial, leurs spores et leurs chairs ne représentaient aucune menace. Le Paladin et le Sorcier entreprirent de déblayer le chemin. Mais à chaque éclatement retentissait un cri déchirant, lugubre qui déstabilisa la caravane et accentuait les idées noires qui rôdaient dans leur tête.
+
+   Finalement, de par les efforts de la troupe, le convoi put avancer. Un marchand, admiratif, s'en alla quérir le Paladin dans l'objectif de lui racheter son épée. Ce dernier refusa, mais le marchand insista, longuement, sans jamais se lasser. L'envoyant paître poliment en fin de soirée, le Paladin s'endormit paisiblement.
+
+   Le lendemain alors, son épée avait disparu. Un suspect ressortait clairement, et le Paladin s'en alla l'interroger. N'apparaissant pas coupable, le groupe se concerta au sujet du vol. Le Roublard proposa alors d'user du trésor de la caverne comme appât pour tromper le voleur qui rôdait dans ce convoi.
+
+   Gardant en tête d'exécuter ce plan, le groupe atteignit finalement l'auberge. Surprenamment, l'aubergiste annonça que toutes les chambres et toutes les tables étaient réservées. Quatre garçons, dans un coin de la pièce, se moquaient ouvertement.
+  
+   Le groupe les interrogea, tenta de les convaincre, mais ne voyant aucune solution autre que la violence, se résigna à camper dehors. Mais la pression des membres de la caravane redressa la malice des mauvais hommes qui lâchèrent alors les chambres et les tables.
+
+   Aucun voleur ne se manifesta en cette bonne nuit malgré le piège tendu. Le Roublard resta alerte le plus possible, ne profitant que trop peu de ce repos précieux.
+
+   Au petit matin, des voyageurs rejoignirent la caravane. Ils contaient des histoires emplies de vantardises. Ignorant ou s'en moquant gentiment, les aventuriers n'interagirent pas plus avec eux.
+
+   La nuit tomba bien vite à mesure que le convoi progressait. Cette fois, tous participeraient à la quête du voleur qui, entre les chariots, se baladait. Mais quand ce fut le tour du Roublard, épuisé par tant d'efforts, il s'endormit profondément.
+
+   Un râle sanglant réveilla les autres membres du groupe. Un cultiste encapuchonné avait égorgé leur sentinelle. Le Sorcier et l'Éclaireur s'élancèrent pour pourfendre l'assaillant tandis que le Paladin se jeta sur son ami pour lui porter secours. Quelques coups de griffes, de bec et de nain ainsi qu'une habile imposition des mains, et la situation fut contenue. 
+
+   Malheureusement, dans sa charge, l'Éclaireur avait broyé ce qu'il restait du cultiste. Mais une nouvelle le ravit, celle que ce vilain était celui qui l'avait molesté durant sa captivité.
+
+   Le groupe, cette fois-ci, ne voulut pas apparaître comme suspect ou malveillant. Ils firent alors un scandale, réveillant toute la caravane pour prévenir.
+
+   Sans s'en rendre compte, le climat moyennement stable du convoi laissait peu à peu place à une tension fragile, prête à éclater. La nuit se passa dans la méfiance et l'inquiétude.
+
+   Le lendemain, une mauvaise nouvelle tomba. Les nouveaux vantards volèrent le poste de garde qu'occupaient les aventuriers. Malgré tout, le groupe vit là une occasion d'être plus libre dans leurs mouvements, à l'exception du Paladin qui s'était attaché à sa couverture, ayant peut-être même oublié sa mission originelle.
+
+   À peine roulèrent les roulottes qu'un mauvais présage dessina des cercles dans le ciel. Deux volatiles à la tête de cerf suivaient le convoi. Leur intention restait trouble et une inquiétude grandissait à chaque instant dans la caravane.
