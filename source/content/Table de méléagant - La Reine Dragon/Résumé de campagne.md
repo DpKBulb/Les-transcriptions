@@ -435,7 +435,7 @@
    Le jour d'après, un cheval agonisait, amaigri et lacéré. Le groupe acheva la pauvre bête et nota dans leur carnet le nom de l'hautain pervers : Nyerhite Verther.
 
 ## ÉPISODE XV - DÉGRINGOLADE
-
+![[Episode quinzieme.png]]
    Cela faisait maintenant une bonne dizaine de jours de voyage. Dans peu de temps, le convoi atteindrait une auberge, annonce d'une nuit confortable. Mais les obstacles ne cessèrent de se présenter.
 
    Sous un ciel gris, dans un paysage maussade, la caravane découvrit sur le chemin d'étranges champignons. Gonflés, semblables à des vesses-de-loup, leur présence au départ intrigante se révéla très vite oppressante. Les chariots s'arrêtèrent alors car, sur le chemin et tout autour se dressaient des colonies de champignons s'étendant jusqu'à perte de vue.
