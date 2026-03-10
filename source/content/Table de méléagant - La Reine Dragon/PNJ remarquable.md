@@ -64,3 +64,11 @@ Le noble qui maltraite des chevaux.
 ##### Beyd Sechepol
 
 Un marchand arrivé plus tard avec beaucoup d'alcool et de nourriture. Surnommé le héros du barbecue
+
+##### Karlon Amofel
+
+Un ménestrel retrouvé enterré sur le chemin il s'est fait grillé par les cultiste en donnant des infos a un autre menestrel dans une taverne
+
+##### Sastam
+
+Liche qui a pris le controle de Thay

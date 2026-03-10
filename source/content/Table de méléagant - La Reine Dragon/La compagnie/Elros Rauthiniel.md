@@ -37,3 +37,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
 - Fait du knife spinning mais est nul, ce qui lui laisse plein de coupures aux doigts.
 - Veut secrètement avoir une petite barbe d'une semaine mais évite d'en parler parce que c'est mal vu chez les elfes (c'est associé aux "sauvages").
 - A déjà forcé le cadenas d'une ceinture de chasteté.
+- Il a sa petite morning routine il se leve avant tout le monde et aime le calme du matin pour boire un thé au son de la nature.

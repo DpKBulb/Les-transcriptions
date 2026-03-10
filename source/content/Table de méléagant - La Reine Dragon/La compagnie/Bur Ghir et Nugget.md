@@ -25,3 +25,4 @@
 - Hypermetrope
 - Il a perdu son accent de nain a force de trainer avec des humains
 - deteste l'eau, et donc se lave pas enormement du coup
+- Bur ghir aimerais être enterré avec sa femme 

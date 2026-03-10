@@ -46,5 +46,6 @@ On ne sait quel dieu il sert malgré les indices sur ses armoiries son arme ou s
 - A le mal des transport car il est traumatisé par les transport
 - Deteste les chiens, trouve que ca pu
 - Souffre d'un stress post traumatique du a sonenfance et fait un evitement autour de son enfance du a ca
+- Son épée s'appelle Stéphane
 
 ![[Robbert Yohan.jpg]]
