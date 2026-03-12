@@ -47,5 +47,6 @@ On ne sait quel dieu il sert malgré les indices sur ses armoiries son arme ou s
 - Deteste les chiens, trouve que ca pu
 - Souffre d'un stress post traumatique du a sonenfance et fait un evitement autour de son enfance du a ca
 - Son épée s'appelle Stéphane
+- il fait souvent des fautes de grammaire et confond les mots par manque de culture
 
 ![[Robbert Yohan.jpg]]

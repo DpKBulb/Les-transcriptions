@@ -41,6 +41,7 @@ Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.Il
 - Trouve que tous les gnomes se ressemble
 - reve de posseder une monture hibours
 - Il veux prendre d'assaut une tour, il trouve ca héroîque
+- Depuis qu'il a sa broche il verifie toujours qu'elle est bien presente par peur de la perdre sans le savoir
 
 ![[Naprelan.jpg]]
 ![[Naprelan chauve.jpg]]
