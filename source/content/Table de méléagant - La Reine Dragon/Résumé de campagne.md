@@ -468,6 +468,35 @@
 
    À peine roulèrent les roulottes qu'un mauvais présage dessina des cercles dans le ciel. Deux volatiles à la tête de cerf suivaient le convoi. Leur intention restait trouble et une inquiétude grandissait à chaque instant dans la caravane.
 
+## ÉPISODE XVI - PRISE DE TÊTES
+
+   Un long débat anima le groupe au sujet de ces Perytons. Les oiseaux à tête de cerf s’imposèrent pendant trop de temps avant que finalement, entre l’idée d’un massacre pur et simple ou encore des plans rocambolesques incluant de la télépathie par arc, il fut décidé de simplement les chasser en usant des capacités parfumées du Nain Éclaireur.
+
+   Il ne restait que trois jours avant d'atteindre le Guet de la Dague. Entre temps, un étrange sorcier malveillant se joignit aux cultistes. Il se révéla être un Thayen, individu d'une malfaisance rare dont il fallait se méfier.
+
+   Sans emploi officiel depuis quelques jours, le groupe voguait à des occupations diverses, une forme de détente. Le Paladin accomplissait sa pénitence avec panache, le Roublard courtisait les demoiselles et damoiseaux, le Sorcier continuait à tisser des liens et concocter des potions tandis que l'Éclaireur restait constant dans sa folie et ses troubles sociaux.
+
+   Mais soudain, un cri. À la coche de l'ancien employeur du groupe, des phoques-puces obèses accompagnés d'araignées géantes enlevaient de force un cheval vers les profondeurs des bois.
+
+   Sans attendre, le groupe s'élança héroïquement à la poursuite des chevaux-nappeurs en tentant de motiver leurs remplaçants. Mais ces derniers s'enfuirent et disparurent.
+
+   Le groupe parvint sans mal à récupérer le destrier apeuré, et le Sorcier, en discutant avec lui, se lia d'une amitié forte ou peut-être plus si affinité…
+
+   De retour à la caravane, le Marchand se retrouva bien attristé du départ précipité de ses nouveaux gardes, mais dans sa bonté immense, le Sorcier proposa un échange de cheval et accepta de se faire embaucher à nouveau contre le salaire convenu. L'Éclaireur suivit cette démarche mais le Roublard rancunier ne rejoignit pas sa garde rapprochée.
+
+   La route reprit alors paisiblement mais soudain, une tête !
+
+   Plantée dans le sol, immobile, au milieu du chemin, un homme agonisait avec sur le front les mots : « brise‑serment ».
+
+   Le Paladin et la plupart des individus détenant un cœur décidèrent de déterrer le pauvre homme. Peu importait sa supposée trahison, faire justice ainsi ne rentrait pas vraiment dans l'idée de la moralité. S'il s'agissait d'un criminel, ils l'escorteraient jusqu'à la ville la plus proche pour qu'il y subisse une sanction appropriée.
+
+   Néanmoins, le Roublard et quelques autres considérèrent la situation autrement, ne voulant pas prendre un quelconque risque face à un individu assoiffé, affamé et en pagne enterré dans le sol.
+   
+   Le bien triompha, révélant alors un supposé membre des ménestrels. Il en portait le symbole dans la chair, tatoué à l'encre noire. Bien qu'il affirmât qu'il s'agissait « d'une blague entre amis », personne n'y crut réellement. Le Roublard et le Paladin le ramenèrent à leur ami Sorcier, lui aussi ménestrel depuis peu. Il révéla, à la surprise de tous, qu'il appartenait bel et bien à l’ordre vagabond et que sa couverture dans la caravane précédente n'avait pas tenue long feu. Le Sorcier lui trouva quelques vêtements propres et le rassura avec bienveillance.
+
+   Enfin, la caravane atteignit le Guet de la Dague. Mais il n'y resterait qu'un jour et une nuit…
+
+
 ## ÉPISODE XVII - JEANNE AU SECOURS
 
    C'est dans la taverne de la Rivière Étincelante que les convoyeurs posèrent enfin leurs affaires. Un repos bien mérité après tant de péripéties. La matinée qui suivit fut douce et sans obligation : quelques emplettes, quelques flâneries, avant de se rendre au point de rendez-vous qu'avait indiqué le Ménestrel Cul-nu — un certain Carlon Amoffel.
