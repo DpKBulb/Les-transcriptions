@@ -467,3 +467,29 @@
    Le lendemain, une mauvaise nouvelle tomba. Les nouveaux vantards volèrent le poste de garde qu'occupaient les aventuriers. Malgré tout, le groupe vit là une occasion d'être plus libre dans leurs mouvements, à l'exception du Paladin qui s'était attaché à sa couverture, ayant peut-être même oublié sa mission originelle.
 
    À peine roulèrent les roulottes qu'un mauvais présage dessina des cercles dans le ciel. Deux volatiles à la tête de cerf suivaient le convoi. Leur intention restait trouble et une inquiétude grandissait à chaque instant dans la caravane.
+
+## ÉPISODE XVII - JEANNE AU SECOURS
+
+   C'est dans la taverne de la Rivière Étincelante que les convoyeurs posèrent enfin leurs affaires. Un repos bien mérité après tant de péripéties. La matinée qui suivit fut douce et sans obligation : quelques emplettes, quelques flâneries, avant de se rendre au point de rendez-vous qu'avait indiqué le Ménestrel Cul-nu — un certain Carlon Amoffel.
+   
+   Celui-ci connaissait un dénommé Sarlon Cœurdechêne, serveur à la taverne de la Crue d'Argent. Le groupe s'y rendit ensemble, mais ce fut le Sorcier qui mena la danse, arrangeant avec aisance un rendez-vous en tête à tête pour le soir même.
+
+   Il restait du temps à occuper. L'Éclaireur et le Roublard se chargèrent donc de surveiller « discrètement » le Thayen suspect, profitant de son tout nouveau pouvoir de ratamorphose, le Sorcier les suivit. Le plan était simple : épier depuis la fenêtre, s'infiltrer en cas d'absence, et dérober ce qui méritait de l'être.
+
+   Le Nain identifia la bonne chambre — du moins, il l'affirmait avec conviction. Le Roublard escalada la façade sans difficulté et se glissa à l'intérieur. La pièce était vide. Un lit, une petite valise. Dans la précipitation, il fouilla les affaires du sorcier et tomba sur des vêtements de petite taille. Perplexe devant cette découverte aussi décevante qu'énigmatique, il ne remarqua pas qu'un marchand nain venait d'entrer dans la pièce.
+
+   La suite fut expéditive. L'Elfe, pris en flagrant délit, plaqua l'homme contre le mur, une dague sous la gorge et la main sur la bouche. Il lui murmura des menaces si terrifiantes que le malheureux perdit le contrôle de l'ensemble de ses fonctions digestives. Convaincu d'avoir suffisamment marqué les esprits sans avoir à verser le sang, le Roublard bondit par la fenêtre. Ce n'était manifestement pas la bonne chambre.
+
+   Pour ne pas reproduire l'erreur, il fut décidé d'envoyer l'Oiseau en éclaireur. Nugget localisa le Thayen sans peine, assis dans sa chambre, plongé dans la lecture d'un ouvrage à la couverture suggestive. En quelques secondes à peine, un rayon d'énergie faillit réduire le volatile en cendres. Le Nain rappela son oiseau. L'Éclaireur et le Roublard commencèrent à se disputer. C'est à ce moment que le Sorcier Rouge aperçut leur petite querelle sous sa fenêtre et que le groupe prit ses jambes à son cou.
+
+   Le soir venu, le Sorcier retrouva ses pairs ménestrels. Ses compagnons montaient discrètement la garde aux alentours, au cas où. Le rapport fut complet, les événements exposés avec soin — mais Sarlon Cœurdechêne n'avait rien à offrir en retour. Le rancard se conclut alors bien vite.
+
+   Avant de dormir, le Paladin, inquiété par l’échec de l’infiltration de ses compagnons et absolument pas motivé par ses fantasmes personnels, proposa au groupe de se reposer dans sa chambre. Son sanctuaire protégerait le groupe de toutes intentions malicieuses.
+Au matin, la route reprit vers Eaux Profondes. Le Roublard décrivait la ville comme la rue, la vraie — ce qui justifiait, selon lui, une prudence accrue. Le petit déjeuner se prenait tranquillement quand une gnome surgit, s'empara du bol de l'Éclaireur, plongea les doigts dedans et en retira une boulette blanche : un piège mortel, dissimulé là sans crier gare.
+
+   La gnome, qui voyageait dans le sillage du Thayen, menait visiblement la même enquête que les aventuriers sur les cultistes. Le Paladin l'avait déjà confrontée, sans succès ; elle avait évité le groupe depuis, jusqu'à ce geste. Elle se nommait Janma Lundargent et proposa un échange d'informations pour le soir même. Le Roublard, lui, nourrissait déjà une rancœur tenace pour la gnome, qui venait de gâcher son petit déjeuner. 
+
+   Durant le voyage, le Sorcier s'aventura sous forme de rat parmi les cultistes. Mais son comportement éveilla les soupçons. Il reçut un coup de pied vigoureux et détala en couinant.
+
+   Le rendez-vous du soir se tint à la lueur d'une torche, derrière une tente. Le Paladin et le Sorcier jouèrent le jeu de l'échange ; le Roublard, lui, observa en silence, certain de la fourberie de cette gnome qui, effectivement, n'avait RIEN à dire. Janma promit néanmoins de poursuivre ses recherches et de les avertir en cas de découverte. Le groupe repartit avec la désagréable sensation de s'être fait avoir.
+
