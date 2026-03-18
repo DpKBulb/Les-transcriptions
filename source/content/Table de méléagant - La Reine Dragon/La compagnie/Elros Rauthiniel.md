@@ -18,9 +18,9 @@ Il fût accueillit par un Thieffelin détrousseur de bourse pas forcement plus l
 
 De toute façon, ayant atteint l'âge de raison, il rêvait maintenant de plus gros dessein, enfin butin en l'occurrence.
 
-Maintenant en âge de commander une bière, il parcourra les royaumes oubliées, d'auberge en taverne, il appris à exploiter les malheureux en quête d'un ou deux mensonges réconfortants - peut-être une fausse potion ou de faux documents généalogiques
+Maintenant en âge de commander une bière, il parcourra les royaumes oubliées, d'auberge en taverne, il appris à exploiter les malheureux en quête d'un ou deux mensonges réconfortants - peut-être une fausse potion ou de faux documents généalogiques.
 
-A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un roublard
+A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un roublard.
 
 ## Fun facts
 

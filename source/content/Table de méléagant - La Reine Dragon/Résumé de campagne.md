@@ -117,9 +117,9 @@
 ## ÉPISODE V - LES MASQUES TOMBENT
 
 ![[Episode cinquième.png]]
- Au beau milieu de l’agitation qui secouait le camp, entre incendies mystérieux et rumeurs de kobolds malades, il y eut cet instant. Un long moment durant lequel trois silhouettes, dissimulées dans les ombres, restèrent immobiles, la main sur le menton, hantées par une seule question : « Comment on fait ? ». 
+ Au beau milieu de l’agitation qui secouait le camp, entre incendies mystérieux et rumeurs de kobolds malades, il y eut cet instant. Un long moment durant lequel trois silhouettes, dissimulées dans les ombres, restèrent immobiles, la main sur le menton, hantées par une seule question : « Comment on fait ? ».
 
- Le plan savamment élaboré par le roublard semblait avoir mené ses compagnons droit dans une impasse. Étaient-ils simplement trop obtus pour saisir le génie de leur camarade ? Ou bien le Roublard s’était-il bâti, au fil du temps, l’image factice d’un élégant elfe talentueux ? Impossible. Il devait exister une solution autre que le fatal « On les tue tous », soufflé par un paladin désespéré.
+ Le plan savamment élaboré par le roublard semblait avoir mené ses compagnons droit dans une impasse. Étaient-ils simplement trop obtus pour saisir le génie de leur camarade ? Ou bien le Roublard s’était-il bâti, au fil du temps, l’image factice d’un élégant elfe talentueux ?Impossible. Il devait exister une solution autre que le fatal « On les tue tous », soufflé par un paladin désespéré.
      
  L’arrivée du maître des masques redonna un semblant d’espoir. Sous l’un de ses nombreux visages, il pouvait devenir presque invisible. Il suffirait de distraire les gardes pour lui ouvrir la voie et permettre à son ombre fugace de libérer la cible. Le paladin parvint subtilement à entailler la toile de la tente, offrant au sorcier l’angle nécessaire pour invoquer l’une de ses malédictions. Aussitôt, les frelons et guêpes quittèrent la dépouille boursouflée du kobold maudit il y a de cela des jours, pour fondre sur l’un des quatre gardes. Pris de panique, celui-ci s’enfuit hors de la tente, se débattant inutilement.
 
@@ -514,7 +514,7 @@
    Le soir venu, le Sorcier retrouva ses pairs ménestrels. Ses compagnons montaient discrètement la garde aux alentours, au cas où. Le rapport fut complet, les événements exposés avec soin — mais Sarlon Cœurdechêne n'avait rien à offrir en retour. Le rancard se conclut alors bien vite.
 
    Avant de dormir, le Paladin, inquiété par l’échec de l’infiltration de ses compagnons et absolument pas motivé par ses fantasmes personnels, proposa au groupe de se reposer dans sa chambre. Son sanctuaire protégerait le groupe de toutes intentions malicieuses.
-Au matin, la route reprit vers Eaux Profondes. Le Roublard décrivait la ville comme la rue, la vraie — ce qui justifiait, selon lui, une prudence accrue. Le petit déjeuner se prenait tranquillement quand une gnome surgit, s'empara du bol de l'Éclaireur, plongea les doigts dedans et en retira une boulette blanche : un piège mortel, dissimulé là sans crier gare.
+   Au matin, la route reprit vers Eaux Profondes. Le Roublard décrivait la ville comme la rue, la vraie — ce qui justifiait, selon lui, une prudence accrue. Le petit déjeuner se prenait tranquillement quand une gnome surgit, s'empara du bol de l'Éclaireur, plongea les doigts dedans et en retira une boulette blanche : un piège mortel, dissimulé là sans crier gare.
 
    La gnome, qui voyageait dans le sillage du Thayen, menait visiblement la même enquête que les aventuriers sur les cultistes. Le Paladin l'avait déjà confrontée, sans succès ; elle avait évité le groupe depuis, jusqu'à ce geste. Elle se nommait Janma Lundargent et proposa un échange d'informations pour le soir même. Le Roublard, lui, nourrissait déjà une rancœur tenace pour la gnome, qui venait de gâcher son petit déjeuner. 
 
