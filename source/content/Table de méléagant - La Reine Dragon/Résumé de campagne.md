@@ -531,59 +531,59 @@ La nuit, du sang s'écoula à profusion.
 
 Et dans le coche manquait marchandise et or.
 
-Les cultistes victimes de l'agression
-Accusèrent sans honte ni même remords
-Les aventuriers sans considération.
+Les cultistes victimes de l'agression<br>
+Accusèrent sans honte ni même remords<br>
+Les aventuriers sans considération.<br>
 
-Mais pourtant ils s'opposèrent avec effort
-À tout soutien et toute investigation.
+Mais pourtant ils s'opposèrent avec effort<br>
+À tout soutien et toute investigation.<br>
 
-Étranges, suspects ils apparurent, alors
-On enterra l'affaire avec discrétion
-Mais dans le convoi, le vilain rôdait encore.
+Étranges, suspects ils apparurent, alors<br>
+On enterra l'affaire avec discrétion<br>
+Mais dans le convoi, le vilain rôdait encore.<br>
 
-Le groupe passa la nuit à l'inspection
-Sauf le paladin se reposant tel un mort
-Subissant les effets d'une concoction.
-–
-À Eau profonde arrivèrent les chariots
-On remercia alors les aventuriers
+Le groupe passa la nuit à l'inspection<br>
+Sauf le paladin se reposant tel un mort<br>
+Subissant les effets d'une concoction.<br>
+–<br>
+À Eau profonde arrivèrent les chariots<br>
+On remercia alors les aventuriers<br>
 Qui avaient lutté contre tellement de maux.
 
-Mais leur véritable quête se poursuivait
-Ils talonnaient les vils jusqu'à un entrepôt,
-Qui, une fois leurs marchandises déposées
-Se dispersèrent dans tavernes et bistros.
+Mais leur véritable quête se poursuivait<br>
+Ils talonnaient les vils jusqu'à un entrepôt,<br>
+Qui, une fois leurs marchandises déposées<br>
+Se dispersèrent dans tavernes et bistros.<br>
 
-Les aventuriers alors, furent très tentés
-De farfouiller dans le butin des chariots
-Mais malgré un plan solidement ficelé
-Impossible d'entrer au sein de l'entrepôt.
+Les aventuriers alors, furent très tentés<br>
+De farfouiller dans le butin des chariots<br>
+Mais malgré un plan solidement ficelé<br>
+Impossible d'entrer au sein de l'entrepôt.<br>
 
-À la place ils purent un travail retrouver
-Pour couvrir leur chemin vers le fameux château.
+À la place ils purent un travail retrouver<br>
+Pour couvrir leur chemin vers le fameux château.<br>
 
-Ce n'est que bien plus tard qu'arriva le Sorcier
-Qui s'était perdu dans la foule bien plus tôt
-Découvrant un repère de ses alliés.
+Ce n'est que bien plus tard qu'arriva le Sorcier<br>
+Qui s'était perdu dans la foule bien plus tôt<br>
+Découvrant un repère de ses alliés.<br>
 
-Il voulut tout de même reprendre un boulot
-Opta pour garde plutôt que simple ouvrier.
+Il voulut tout de même reprendre un boulot<br>
+Opta pour garde plutôt que simple ouvrier.<br>
 
-Il voulut briller, apparaître sans défaut.
+Il voulut briller, apparaître sans défaut.<br>
 
-Il maudit donc le recruteur pour lui montrer
-Ses compétences sans user du moindre mot
-Le recruteur se sentit alors agressé
-Et menaça d'en faire tout un numéro.
+Il maudit donc le recruteur pour lui montrer<br>
+Ses compétences sans user du moindre mot<br>
+Le recruteur se sentit alors agressé<br>
+Et menaça d'en faire tout un numéro.<br>
 
-Tentant de négocier et de s'excuser
-Le recruteur proposa un scénario
-Dans lequel faible serait la paie du Sorcier.
-–
-Les aventuriers purent donc se reposer
-Faire quelques achats dans cette grande ville
-Et de toute leur richesse se délester
-Pour mieux combattre ce culte des gros reptiles
+Tentant de négocier et de s'excuser<br>
+Le recruteur proposa un scénario<br>
+Dans lequel faible serait la paie du Sorcier.<br>
+–<br>
+Les aventuriers purent donc se reposer<br>
+Faire quelques achats dans cette grande ville<br>
+Et de toute leur richesse se délester<br>
+Pour mieux combattre ce culte des gros reptiles<br>
 
 
