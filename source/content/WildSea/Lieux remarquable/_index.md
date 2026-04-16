@@ -1,3 +1,0 @@
----
-title: Lieux remarquable
----

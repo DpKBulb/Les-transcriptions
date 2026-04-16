@@ -48,5 +48,6 @@ On ne sait quel dieu il sert malgré les indices sur ses armoiries son arme ou s
 - Souffre d'un stress post traumatique du a sonenfance et fait un evitement autour de son enfance du a ca
 - Son épée s'appelle Stéphane
 - il fait souvent des fautes de grammaire et confond les mots par manque de culture
+- Il a un tres bon nez, aurait pu etre parfumeur dans une autre vie
 
 ![[Robbert Yohan.jpg]]

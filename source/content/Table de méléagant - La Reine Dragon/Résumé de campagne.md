@@ -585,5 +585,3 @@ Les aventuriers purent donc se reposer<br>
 Faire quelques achats dans cette grande ville<br>
 Et de toute leur richesse se délester<br>
 Pour mieux combattre ce culte des gros reptiles<br>
-
-
