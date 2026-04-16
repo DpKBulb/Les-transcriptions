@@ -524,125 +524,66 @@
 
 ## XVIII - PROFONDEAU
 
-Car au matin d'un des jours du voyage : un mort !
 
+Car au matin d'un des jours du voyage : un mort !
 
 La nuit, du sang s'écoula à profusion.
 
-
 Et dans le coche manquait marchandise et or.
 
-
 Les cultistes victimes de l'agression
-
 Accusèrent sans honte ni même remords
-
 Les aventuriers sans considération.
 
-
-
 Mais pourtant ils s'opposèrent avec effort
-
 À tout soutien et toute investigation.
 
-
-
 Étranges, suspects ils apparurent, alors
-
 On enterra l'affaire avec discrétion
-
 Mais dans le convoi, le vilain rôdait encore.
 
-
-
 Le groupe passa la nuit à l'inspection
-
 Sauf le paladin se reposant tel un mort
-
 Subissant les effets d'une concoction.
-
-
-
 –
 À Eau profonde arrivèrent les chariots
-
 On remercia alors les aventuriers
-
 Qui avaient lutté contre tellement de maux.
 
-
-
 Mais leur véritable quête se poursuivait
-
 Ils talonnaient les vils jusqu'à un entrepôt,
-
 Qui, une fois leurs marchandises déposées
-
 Se dispersèrent dans tavernes et bistros.
 
-
-
 Les aventuriers alors, furent très tentés
-
 De farfouiller dans le butin des chariots
-
 Mais malgré un plan solidement ficelé
-
 Impossible d'entrer au sein de l'entrepôt.
 
-
-
 À la place ils purent un travail retrouver
-
 Pour couvrir leur chemin vers le fameux château.
 
-
-
-
 Ce n'est que bien plus tard qu'arriva le Sorcier
-
 Qui s'était perdu dans la foule bien plus tôt
-
 Découvrant un repère de ses alliés.
 
-
-
 Il voulut tout de même reprendre un boulot
-
 Opta pour garde plutôt que simple ouvrier.
-
-
 
 Il voulut briller, apparaître sans défaut.
 
-
-
 Il maudit donc le recruteur pour lui montrer
-
-
 Ses compétences sans user du moindre mot
-
-
 Le recruteur se sentit alors agressé
-
-
 Et menaça d'en faire tout un numéro.
 
-
-
 Tentant de négocier et de s'excuser
-
 Le recruteur proposa un scénario
-
 Dans lequel faible serait la paie du Sorcier.
-
-
 –
 Les aventuriers purent donc se reposer
-
 Faire quelques achats dans cette grande ville
-
 Et de toute leur richesse se délester
-
 Pour mieux combattre ce culte des gros reptiles
+
 
