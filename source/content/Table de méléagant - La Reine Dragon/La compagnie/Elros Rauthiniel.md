@@ -41,3 +41,4 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
 - Envisage de brasser sa propre bière
 - Il parle trop quand il boit trop ce qui a tendance a faire fuiter des infos
 - Deteste l'odeur du crottin de cheval surtout quand il brule
+- La figure paternel Thieffeline a fait mangé son lapin sans lui dire pendant son enfance, du coup maintenant il n'arrive plus a en mangé.

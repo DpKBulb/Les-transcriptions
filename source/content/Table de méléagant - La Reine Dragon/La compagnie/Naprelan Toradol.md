@@ -40,6 +40,7 @@ Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.Il
 - Depuis qu'il a sa broche il verifie toujours qu'elle est bien presente par peur de la perdre sans le savoir
 - Tres mauvais sens de l'orientation
 - Aime l'odeur de la pluie en foret
+- A peur que Janma s'en sorte et cherche a se venger car il ne pourra la reconnaitre.
 
 ![[Naprelan.jpg]]
 ![[Naprelan chauve.jpg]]

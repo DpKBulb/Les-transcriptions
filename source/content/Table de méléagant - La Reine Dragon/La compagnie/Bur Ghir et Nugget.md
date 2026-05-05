@@ -28,3 +28,4 @@
 - Bur ghir aimerais être enterré avec sa femme 
 - Il est tellement fan des potions de Naprelan qu'il veut apprendre a en faire
 - Est doué avec ses mains sait faire des tours de cartes
+- est banni de Teziir car il a manqué de respect en insulter sa femme sans s'en rendre compte

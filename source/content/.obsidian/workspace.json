@@ -11,14 +11,14 @@
             "id": "446326815da6854d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "source/content/Table de méléagant - La Reine Dragon/Transcription des séances.md",
-                "bFile": "source/content/Table de méléagant - La Reine Dragon/Transcription des séances.md",
-                "aRef": ""
+                "file": "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Transcription des séances  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Transcription des séances"
             }
           }
         ]
@@ -182,13 +182,13 @@
   },
   "active": "446326815da6854d",
   "lastOpenFiles": [
-    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
-    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Template fiche joueur.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
     "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
+    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
+    "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Template fiche joueur.md",
     "Table de méléagant - La Reine Dragon/Règles et autres indications.md",
     "Table de méléagant - La Reine Dragon/PNJ remarquable.md",
     "Table de méléagant - La Reine Dragon/assets/Episode quinzieme.png",
