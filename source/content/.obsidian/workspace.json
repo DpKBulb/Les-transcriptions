@@ -11,14 +11,14 @@
             "id": "446326815da6854d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/Transcription des séances.md",
-                "mode": "source",
-                "source": false
+                "aFile": "source/content/Table de méléagant - La Reine Dragon/Transcription des séances.md",
+                "bFile": "source/content/Table de méléagant - La Reine Dragon/Transcription des séances.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Transcription des séances"
+              "icon": "diff",
+              "title": "Diff: Transcription des séances  (Working Tree)"
             }
           }
         ]
@@ -182,20 +182,20 @@
   },
   "active": "446326815da6854d",
   "lastOpenFiles": [
-    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
-    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
     "Table de méléagant - La Reine Dragon/Transcription des séances.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Elros Rauthiniel.md",
+    "Table de méléagant - La Reine Dragon/Résumé de campagne.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Template fiche joueur.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Naprelan Toradol.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Robbert Yohan.md",
+    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "Table de méléagant - La Reine Dragon/Règles et autres indications.md",
     "Table de méléagant - La Reine Dragon/PNJ remarquable.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Bur Ghir et Nugget.md",
     "Table de méléagant - La Reine Dragon/assets/Episode quinzieme.png",
     "Table de méléagant - La Reine Dragon/PNJ remarquable/Tarbaw Coteaunoir.md",
     "Table de méléagant - La Reine Dragon/PNJ remarquable/Amlin.md",
     "Table de méléagant - La Reine Dragon/PNJ remarquable/_index.md",
     "Table de méléagant - La Reine Dragon/La compagnie/_index.md",
-    "Table de méléagant - La Reine Dragon/La compagnie/Template fiche joueur.md",
     "Table de méléagant - La Reine Dragon/La compagnie/☠ Sagrimm.md",
     "Table de méléagant - La Reine Dragon/assets/regles screenshot.png",
     "Pasted image 20260217221018.png",

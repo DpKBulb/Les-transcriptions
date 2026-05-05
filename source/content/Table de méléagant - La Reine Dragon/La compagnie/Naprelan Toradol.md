@@ -22,13 +22,9 @@ Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.Il
 ## Fun facts
 
 - En parallèle de son apprentissage de sorcier, comme il devait participer a la vie du village, il passait beaucoup de temps auprès des charpentier du village. Il appris à travailler le bois et s'est énormément renforcer physiquement. Il aime sculpter des petites figurines sur son temps libre. 
-
 - Sait communiqué avec les rats
-
 - A peur des araignée aux nombres de pattes impairs
-
 - Dans le cercle druidique de la foret il a tester une potion qui lui changer sa peau en une couleur bleuatre et toute la communauté se moque de lui depuis cet episode. Depuis on l'appelle Naprelan le bleu
-
 - Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.
 - Naprelan ne tiens pas l'alcool et a l'alcool mauvais
 - Le chaudron est le dernier souvenir de sa famille et ne veut absolument pas s'en séparé
@@ -43,6 +39,7 @@ Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.Il
 - Il veux prendre d'assaut une tour, il trouve ca héroîque
 - Depuis qu'il a sa broche il verifie toujours qu'elle est bien presente par peur de la perdre sans le savoir
 - Tres mauvais sens de l'orientation
+- Aime l'odeur de la pluie en foret
 
 ![[Naprelan.jpg]]
 ![[Naprelan chauve.jpg]]

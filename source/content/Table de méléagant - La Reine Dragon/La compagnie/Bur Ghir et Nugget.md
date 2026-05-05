@@ -27,3 +27,4 @@
 - deteste l'eau, et donc se lave pas enormement du coup
 - Bur ghir aimerais être enterré avec sa femme 
 - Il est tellement fan des potions de Naprelan qu'il veut apprendre a en faire
+- Est doué avec ses mains sait faire des tours de cartes

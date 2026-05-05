@@ -49,5 +49,6 @@ On ne sait quel dieu il sert malgré les indices sur ses armoiries son arme ou s
 - Son épée s'appelle Stéphane
 - il fait souvent des fautes de grammaire et confond les mots par manque de culture
 - Il a un tres bon nez, aurait pu etre parfumeur dans une autre vie
+- Sait faire des petite sculpture en bois au coin du feu
 
 ![[Robbert Yohan.jpg]]
