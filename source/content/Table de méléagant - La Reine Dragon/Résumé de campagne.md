@@ -611,3 +611,28 @@ Pour mieux combattre ce culte des gros reptiles<br>
    Après s’être reposés entre deux génocides, les aventuriers amorcèrent leur navigation en pirogue. Chacun se répartit en deux pirogues au cas où l’une aurait un problème. Suivant d’étranges totems accrochés aux arbres, ils finirent par tomber sur des hommes serpents. Ceux-ci bandèrent immédiatement leurs armes contre les aventuriers mais l’un d’entre eux sembla ouvert à la conversation. Au fil de la discussion, durant laquelle les aventuriers tentèrent de trouver un équilibre, Janma révéla sa véritable identité. Traîtresse depuis le début, elle sema le trouble entre humains et lézards avant de s’enfuir dans le marécage. Le roublard, dans un élan de bravoure, tenta d’abattre la vipère mais elle glissa entre ses doigts.
    
    Finalement, ils purent trouver un arrangement avec les hommes serpents. Ensemble, ils attaqueraient le château Nerytar pour exterminer les batraciens et le culte du Dragon. Mais avant, le groupe devait se préparer. Le sorcier en profita pour tester quelques potions dont une qui sembla lui donner l’aptitude de respirer sous l’eau, tandis qu’une autre enraga sévèrement le roublard contre ces hommes crapauds supposément au service du culte. Fort de leurs nouveaux alliés, Presse-Gueule et Zac, le groupe était maintenant prêt à aller affronter le château de Nerytar.
+
+## ÉPISODE XXI - OUPS
+
+   Les aventuriers accostèrent aux abords de Nerytar. De la boue, des huttes, et un village d'hommes-lézards blotti au pied d’un imposant château. Grâce à l’oiseau de l’Éclaireur, ils repérèrent quelques sentinelles, mais la présence de Presse-Gueule et de Zac sembla suffire à leur conférer une légitimité toute relative pour circuler sur ces terres.
+	
+   Le château, tant convoité, se révéla étonnamment accessible. Personne ne leur barra la route, et ils purent déambuler librement dans la cour, allant même jusqu’à rencontrer les fameux brutaciens avec lesquels ils étaient censés préparer une révolte. Mais pour l’heure, la priorité restait à l’exploration opportuniste.
+	
+   Impassibles face aux grenouilles géantes et aux salamandres disgracieuses, les aventuriers évitèrent soigneusement d’attirer l’attention. Ils inspectèrent écuries et dortoirs, sans rien trouver de particulièrement décisif. Puis, le regard du Sorcier se fixa sur une tour au centre de la cour. Une envie irrépressible monta en lui : prendre une tour d’assaut. Le groupe, manifestement peu regardant sur ces étranges désirs, valida sans discuter.
+	
+   Ils s’engouffrèrent dans un escalier en colimaçon, éclairé par des torches, et atteignirent un premier étage étonnamment raffiné : fauteuil confortable, bureau soigneusement ordonné, et un elfe élégant, vêtu comme pour une soirée tranquille. Celui-ci, surpris, les interpella sèchement, visiblement perplexe de voir des « serviteurs » dans ses appartements.
+    
+   Un flottement s’installa. Le Paladin tenta maladroitement de répondre… puis le Roublard décida d’user d’une diplomatie plus efficiente. Il bondit et lacéra l’elfe. Le Paladin enchaîna aussitôt, abattant sa lame lourde sur le pauvre bougre. En quelques secondes, l’elfe gisait, taillé en pièces, agonisant dans une flaque de sang. Un regard circula dans le groupe. Ils venaient probablement de sur-réagir.
+    
+   Le doute se confirma lorsqu’un garde, témoin de la scène, prit la fuite en hurlant, et donna l’alerte. Pressés, les aventuriers fouillèrent rapidement les lieux avant de se replier vers les étages supérieurs, tandis qu’une petite armée commençait à envahir la tour.
+   
+   Au sommet, ils découvrirent un étrange dispositif mécanique, une sorte d’immense télescope. Ils n’eurent pas le temps de s’y attarder : un cliquetis retentit, des trappes s’ouvrirent et des gargouilles surgirent. Pris en tenaille, ils improvisèrent. Attaques précipitées, bombes collantes lancées à la hâte, et une seule idée : fuir par le toit.
+    
+   Contre toute attente, ils y parvinrent. Depuis les hauteurs, ils contemplèrent le chaos qu’ils avaient déclenché en quelques instants. Apparemment, ils avaient tué « le chef ». Après une rapide évaluation des options, le Sorcier utilisa son grappin et sa corde pour créer un pont de funambule vers la muraille. Lee groupe parvint à gagner l’enceinte du château mais il restait un problème. La seule issue était une eau crasseuse, remplie de crocodiles, sangsues et autres maladies. 
+    
+   Le Roublard, fidèle à lui-même, sauta.
+    
+   L’atterrissage fut brutal, et attira immédiatement l’attention des crocodiles. Les autres descendirent en rappel à la hâte. Entre morsures, panique et improvisation douteuse, ils réussirent finalement à rejoindre la berge. Le Roublard, à deux doigts d’y rester, fut traîné hors de l’eau.
+   
+   Ils s’enfuirent dans les bois du marécage, blessés, épuisés… et désormais activement recherchés.
+
