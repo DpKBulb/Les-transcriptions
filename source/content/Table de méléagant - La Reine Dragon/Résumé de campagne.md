@@ -636,3 +636,24 @@ Pour mieux combattre ce culte des gros reptiles<br>
    
    Ils s’enfuirent dans les bois du marécage, blessés, épuisés… et désormais activement recherchés.
 
+## ÉPISODE XXII - ADIOS GUSTAVO
+
+   Trois retardataires arrivèrent près de la grand-porte. Le plus grand tenait un large chaudron dans les mains, rempli de babioles, armes et morceaux d'armures ensanglantées. Dralmorerr semblait avoir été convenablement vengé.
+
+   On les laissa pénétrer, leur indiquant la nécessité de déposer le butin acquis au sous-sol. Une fois dans la cour, le Grand retira son chapeau duquel surgit discrètement un rat. Les aventuriers venaient de s'infiltrer à nouveau dans le château Nerytar, forts des leçons tirées de leur précédent passage…
+
+   Le rat — Sorcier métamorphosé — se faufila partout, servant d'éclaireur et de guide. Le Roublard désamorça habilement les doutes et tentatives de pillage du butin ; le Paladin, lui, resta attentif à la moindre illusion, au moindre piège, suivi de près par l'Éclaireur qui se faisait petit.
+
+   Insoupçonnés, ils progressèrent alors sans contrainte jusqu'aux souterrains au bout desquels ils trouvèrent une marque étrange au sol. Ils avaient préparé cette mission des jours durant, dans la boue du marais, nourrissant sangsues et autres moustiques. Ils avaient pu étudier des documents, et notamment un qui parlait d'un « code » pour « en bas » : Draesir.
+
+   Les aventuriers restèrent minutieux. Le Sorcier et le Paladin testèrent en premier le mot de passe en se plaçant au milieu de l'étrange rune au sol. Ils se téléportèrent et, rapidement, furent suivis du Roublard et de l'Éclaireur.
+
+   Ils apparurent dans un paysage tout autre. Il faisait froid, des sapins se dressaient tout autour, et au bout d'un chemin de graviers se dévoilait un manoir. L'inquiétude gagna le Paladin et, à mesure qu'ils tournaient autour de la demeure, ce dernier retira son déguisement et enfila son armure.
+
+   Alors qu'ils réfléchissaient tous à la bonne manière d'agir, des silhouettes massives apparurent plus haut sur le chemin. Une ronde d'Ogres passa près des aventuriers, cachés sans un bruit. De là, le Roublard qui avait commencé à crocheter une fenêtre parvint finalement à l'ouvrir. Le groupe s'y engouffra, craintif de ce qui pouvait se trouver dans ce manoir.
+
+   « Gustavo Plenitudo était un gourmet accompli. Cela faisait longtemps qu'il n'avait pas vu sa famille, ses enfants. Mais il lui fallait travailler, fournir le meilleur. Ce jour-là, il préparait un buffet avec ses nouveaux collègues et amis. Il y avait du monde à nourrir et il s'appliquait dans sa mission. Mais alors qu'il regroupait quelques épluchures sur son plan de travail, la porte du couloir s'ouvrit. Un homme, le regard injecté de sang, vêtu d'une armure lourde et dont la lame dépassait largement de l'ouverture, apparut. Il y eut une seconde de flottement avant qu'il ne se décidât, finalement, à bousculer la porte de derrière pour s'en aller prévenir ses supérieurs d'une potentielle intrusion. Mais alors qu'il courait sans regarder derrière lui, une flèche lui traversa le poumon droit. Il tomba. Du sang remplit aussitôt son organe et son souffle s'amoindrit. Il agonisa, s'étouffant dans des gargouillis sanglants. Il ne reverrait plus jamais sa famille. »
+
+   Pendant ce temps, le Roublard s'était adossé à un mur, croquant dans une tomate avec nonchalance, malgré l'éclaboussure rouge qui lui teintait le col et la joue. Le Sorcier, lui, tentait de faire ami-ami avec les autres cuisiniers. Seul le Paladin avait ôté son déguisement. Il avait foncé au travers des cuisines, suivi par le Roublard, voyant la fuite de Gustavo comme un risque important. Un cri coupé et le bruit lourd d'un corps contre le gravier renforcèrent la crainte qui naissait dans les regards des cuisiniers. Bientôt, ils se mirent à marcher précipitamment dans les couloirs de l'étage. Le Roublard et le Sorcier leur emboîtèrent le pas, visiblement encore convaincus que leur plan d'infiltration tenait la route.
+
+
