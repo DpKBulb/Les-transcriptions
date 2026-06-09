@@ -51,5 +51,7 @@ On ne sait quel dieu il sert malgré les indices sur ses armoiries son arme ou s
 - Il a un tres bon nez, aurait pu etre parfumeur dans une autre vie
 - Sait faire des petite sculpture en bois au coin du feu
 - a été élevé par des bandits dans le crime organisé, et du coup c'est un trés bon créateur d'embuscade
+- etait champion nde tir au nain(dwarf ball)
+- ne comprend pas le second et cela le met en panique
 
 ![[Robbert Yohan.jpg]]

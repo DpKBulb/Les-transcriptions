@@ -42,3 +42,5 @@ A quitté Waterdeep parce qu'il commençais a devenir trop célèbre pour un rou
 - Il parle trop quand il boit trop ce qui a tendance a faire fuiter des infos
 - Deteste l'odeur du crottin de cheval surtout quand il brule
 - La figure paternel Thieffeline a fait mangé son lapin sans lui dire pendant son enfance, du coup maintenant il n'arrive plus a en mangé.
+- a organisé des paris illégaux de dwarf ball
+- Une ancienne camarade, Nevinia le poursuit pour le tuer ?

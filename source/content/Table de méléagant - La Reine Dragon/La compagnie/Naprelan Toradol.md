@@ -41,6 +41,8 @@ Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.Il
 - Tres mauvais sens de l'orientation
 - Aime l'odeur de la pluie en foret
 - A peur que Janma s'en sorte et cherche a se venger car il ne pourra la reconnaitre.
+- Etait gardien en dwarf ball
+- L'odeur du tabac lui rappelle sa grand mere
 
 ![[Naprelan.jpg]]
 ![[Naprelan chauve.jpg]]
