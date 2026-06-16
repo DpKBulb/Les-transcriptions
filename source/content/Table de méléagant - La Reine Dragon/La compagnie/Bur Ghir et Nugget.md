@@ -31,3 +31,4 @@
 - est banni de Teziir car il a manqué de respect en insulter sa femme sans s'en rendre compte
 - Champion nain en dwarf ball mais etait la balle du coup
 - Aime le gout du sang
+- Il met des marques sur son arc quand il tue des innocent avec, mais actuellement il n'a aucune marque

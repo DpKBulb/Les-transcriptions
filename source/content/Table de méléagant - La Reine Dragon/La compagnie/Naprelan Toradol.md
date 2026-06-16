@@ -43,6 +43,7 @@ Aimerais apprendre le metier de coiffeur, veut ouvrir son salon le sorci'hair.Il
 - A peur que Janma s'en sorte et cherche a se venger car il ne pourra la reconnaitre.
 - Etait gardien en dwarf ball
 - L'odeur du tabac lui rappelle sa grand mere
+- Il aimerait beaucoup rencontrer des membres du petit peuple, il a lu beaucoup d'histoire sur les fée etc...
 
 ![[Naprelan.jpg]]
 ![[Naprelan chauve.jpg]]
