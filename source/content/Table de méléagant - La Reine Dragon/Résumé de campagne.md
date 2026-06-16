@@ -656,4 +656,25 @@ Pour mieux combattre ce culte des gros reptiles<br>
 
    Pendant ce temps, le Roublard s'était adossé à un mur, croquant dans une tomate avec nonchalance, malgré l'éclaboussure rouge qui lui teintait le col et la joue. Le Sorcier, lui, tentait de faire ami-ami avec les autres cuisiniers. Seul le Paladin avait ôté son déguisement. Il avait foncé au travers des cuisines, suivi par le Roublard, voyant la fuite de Gustavo comme un risque important. Un cri coupé et le bruit lourd d'un corps contre le gravier renforcèrent la crainte qui naissait dans les regards des cuisiniers. Bientôt, ils se mirent à marcher précipitamment dans les couloirs de l'étage. Le Roublard et le Sorcier leur emboîtèrent le pas, visiblement encore convaincus que leur plan d'infiltration tenait la route.
 
+## ÉPISODE XXIII - LE CHÂTEAU CUMULUS
+
+   Le Sorcier joua jusqu'au bout son rôle, quémandant lui aussi le secours de l'hôte de cette demeure. Il s'enfonça comme l'un des cuisiniers dans une grande pièce tout aussi somptueuse que le reste. Trois gardes massifs aux armures d'écailles s'y trouvaient avec à leur tête une mystérieuse dame. Celle-ci n'eut aucun mal à déceler la réalité — le Sorcier n'appartenait pas aux siens —, mais elle n'apparut pas belliqueuse, bien au contraire. Elle proposa à l'intrus de s'installer avant de discuter un peu.
+
+   L'Éclaireur, lui, poursuivait dans les couloirs de l'étage le dernier rescapé. Il lui tira une flèche et — cette fois — visa les jambes. Le cuisinier trébucha dans les escaliers menant à la pièce centrale. Alors que l'Éclaireur s'apprêtait à le neutraliser pour de bon, des statues s'agitèrent. Il s'agissait de gargouilles qui se mirent à assaillir le Nain. Celui-ci s'enfuit par où il était venu.
+
+   Le Paladin se signa au-dessus de la tombe de fortune de l'aimable Gustavo. Il regagna aussi vite la cuisine où il ne trouva que le Roublard. Celui-ci accumulait les traces de graisses, de jus fruités et autres miettes autour de sa bouche. Le Paladin suggéra d'aller retrouver ses amis à l'étage pour leur offrir de l'aide et éviter le pire. Ensemble, ils gagnèrent l'étage et, attirés par du bruit, s'y dirigèrent machinalement.
+
+   Pendant plusieurs minutes, l'Éclaireur, le Paladin et le Roublard tournèrent en bourrique dans le couloir sans jamais se croiser. Mais enfin, une voix éthérée perça leur conscience. Elle les invitait à se joindre au Sorcier dans la fameuse pièce de banquet. Les gargouilles retournèrent à leur place et les aventuriers se regroupèrent enfin.
+
+   Ils s'assirent tous autour de la table. Le Roublard et l'Éclaireur restaient suspicieux et inconfortables, mais le premier ne se gêna pas à se servir, suivi par le Paladin. Du pain, du lard et quelques fromages furent goulûment dévorés tandis que le Sorcier menait la conversation.
+
+   Cette femme resta muette sur son identité, mais dévoila une partie de ses objectifs aux aventuriers. Elle se présenta comme une alliée — tout au moins comme une aide — qui leur permettrait sans doute d'atteindre leur but : empêcher l'incarnation de Tiamat. Elle avoua connaître les aventuriers et vouloir empêcher un certain château d'atteindre sa destination. Le lien soudain se fit. Le cerf mystique croisé auparavant avait parlé d'un château volant — celui-ci serait donc au cœur de la quête ?
+
+   Après quelques réflexions et négociations internes, le groupe accepta de suivre la volonté de la Dame. Celle-ci semblait de toute manière bien trop puissante pour être défiée, et les informations qu'elle détenait constituaient une aide majeure dans la poursuite de leur but.
+
+   Avant de partir, ils se préparèrent quelque peu. Le Sorcier se retrouva dans l'armurerie à la recherche d'une lance sur laquelle accrocher une bannière. Il apprit par cœur la phrase « Tiamat est notre mère et notre force » : les deux éléments qui permettraient l'infiltration dans le château volant. Le Paladin tenta de ressusciter Gustavo. Malheureusement, il n'y parvint pas, et celui-ci finit mort-vivant — de quoi mettre en rogne Torm. Le Roublard dévorait ce qui restait en cuisine et l'Éclaireur boudait.
+
+   Après quelques heures de voyage, ils parvinrent au village de Parnast. Une tension régnait sur les lieux entre membres du culte et petits gueux. Néanmoins, les aventuriers n'y prêtèrent guère attention. Ils se précipitèrent vers le Château Cumulus, une citadelle de glace bâtie à taille de géants. Le mot de passe et la bannière leur ouvrirent le chemin. Ce château s'envolerait selon les informations dont ils disposaient, et sa destination mènerait à la ruine.
+
+   Le groupe s'enfonça quelques instants, jetant des regards vers les tours et les bâtiments, croisant quelques trolls et autres wyvernes. Tout ne reposait maintenant que sur les aventuriers et leur talent à agir précautionneusement, avec respect, mesure et calme. 
 
