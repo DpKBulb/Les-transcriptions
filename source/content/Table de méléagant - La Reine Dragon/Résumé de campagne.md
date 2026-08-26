@@ -678,3 +678,28 @@ Pour mieux combattre ce culte des gros reptiles<br>
 
    Le groupe s'enfonça quelques instants, jetant des regards vers les tours et les bâtiments, croisant quelques trolls et autres wyvernes. Tout ne reposait maintenant que sur les aventuriers et leur talent à agir précautionneusement, avec respect, mesure et calme. 
 
+## ÉPISODE XXIV - BRAVO
+
+   Le respect, la mesure et le calme n’excluaient pas une curiosité mordante. Ainsi, lorsqu’une alléchante porte verrouillée apparut à l’angle d’un passage, le Roublard insista :
+
+— Crochetons-la !
+
+   Personne n’accepta sa demande au premier abord. Il fallait rester discret et efficace, éviter de se faire remarquer. Mais après tout, derrière cette porte d’un bâtiment quelconque, que pouvait-il y avoir de si important ? De si dangereux…
+
+   Rezmir, grand chef des Cultistes, accueillait alors les aventuriers, accompagné de deux drakes de compagnie. Dans une tentative de maîtriser la situation, le Sorcier utilisa un sort pour donner au Roublard l’apparence de la Dame du Manoir. Sa langue fourcha lors de l’incantation : il obtint bien la silhouette appropriée, mais avec une légère nuance… Elle brillait de mille feux.
+
+   Sans même avoir véritablement le temps de négocier, le Roublard fut assailli par le tapis sous ses pieds. Le combat s’engagea alors. Le groupe se retrouva encerclé dans cet étroit passage : d’un côté, deux géants s’approchaient ; de l’autre, dans la brume, une vampire rôdait ; et, juste devant eux, se tenait évidemment le demi-dragon Rezmir.
+
+   Le Sorcier tenta de s’enfuir par un côté, mais rencontra les poings des géants. Le Paladin resta immobilisé de l’autre, ne voulant pas attirer l’attention de la vampire. Entre les ténèbres et les jets d’acide, la situation devint incontrôlable. Il fallait fuir.
+
+   Tous se mirent à courir vers le sud du château, à travers la brume. Le Paladin se dressa pour gagner du temps, subissant les assauts nécrotiques du demi-dragon. Sur leur chemin apparut la vampire, qui les attaqua accompagnée de ses propres sbires. Le Sorcier tenta de contenir les assauts, tandis que l’Éclaireur s’efforçait de faire le ménage.
+
+   Finalement, le Roublard fut attrapé. Mordu au cou, il se retrouva exsangue. Dans une dernière tentative pour se relever, il poussa un ultime souffle. Mais, peu après, il se redressa, le teint plus pâle, le regard plus sombre et les canines plus longues.
+
+   Le Roublard vampirisé se jeta alors sur le Sorcier, qui parvint à le repousser violemment avant de s’effondrer, épuisé. Le Paladin réussit à fuir et rejoignit l’Éclaireur, qui décocha une flèche en plein cœur de la maîtresse vampire. Sa mort entraîna celle de ses sbires, parmi lesquels se trouvait leur ancien compagnon.
+
+   Sans s’attarder, le reste du groupe s’échappa, emportant avec lui le Sorcier inconscient, puis disparut dans la brume.
+
+   Cette fois, c’était fini.
+
+   Le château s’éleva dans les cieux. Leur quête avait échoué.
