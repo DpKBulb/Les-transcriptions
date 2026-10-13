@@ -676,7 +676,7 @@ Pour mieux combattre ce culte des gros reptiles<br>
 
    Après quelques heures de voyage, ils parvinrent au village de Parnast. Une tension régnait sur les lieux entre membres du culte et petits gueux. Néanmoins, les aventuriers n'y prêtèrent guère attention. Ils se précipitèrent vers le Château Cumulus, une citadelle de glace bâtie à taille de géants. Le mot de passe et la bannière leur ouvrirent le chemin. Ce château s'envolerait selon les informations dont ils disposaient, et sa destination mènerait à la ruine.
 
-   Le groupe s'enfonça quelques instants, jetant des regards vers les tours et les bâtiments, croisant quelques trolls et autres wyvernes. Tout ne reposait maintenant que sur les aventuriers et leur talent à agir précautionneusement, avec respect, mesure et calme. 
+   Le groupe s'enfonça quelques instants, jetant des regards vers les tours et les bâtiments, croisant quelques trolls et autres wyvernes. Tout ne reposait maintenant que sur les aventuriers et leur talent à agir précautionneusement, avec respect, mesure et calme.
 
 ## ÉPISODE XXIV - BRAVO
 
