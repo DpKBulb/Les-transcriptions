@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table de méléagant - La Reine Dragon/Acte 2/L'ode des aventuriers.md",
+                "file": "Table de méléagant - La Reine Dragon/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'ode des aventuriers"
+              "title": "_index"
             }
           }
         ],
@@ -199,8 +199,10 @@
   },
   "active": "4b22d56e3d6401d5",
   "lastOpenFiles": [
-    "Table de méléagant - La Reine Dragon/Acte 2/Résumé de campagne.md",
+    "Table de méléagant - La Reine Dragon/Acte 1/_index.md",
+    "Table de méléagant - La Reine Dragon/_index.md",
     "Table de méléagant - La Reine Dragon/Acte 2/L'ode des aventuriers.md",
+    "Table de méléagant - La Reine Dragon/Acte 2/Résumé de campagne.md",
     "Table de méléagant - La Reine Dragon/Acte 1/Résumé de campagne.md",
     "Table de méléagant - La Reine Dragon/Acte 2/Transcription des séances.md",
     "Table de méléagant - La Reine Dragon/Acte 2/assets/Carl Token.png",
@@ -217,7 +219,6 @@
     "Table de méléagant - La Reine Dragon/Acte 2",
     "_index.md",
     "Table de méléagant - La Reine Dragon/Acte 1",
-    "Table de méléagant - La Reine Dragon/Acte 1/_index.md",
     "Table de méléagant - La Reine Dragon/Acte 1/PNJ remarquable/_index.md",
     "Table de méléagant - La Reine Dragon/Acte 1/PNJ remarquable/Amlin.md",
     "Table de méléagant - La Reine Dragon/Acte 1/PNJ remarquable/Tarbaw Coteaunoir.md",
@@ -238,7 +239,6 @@
     "WildSea/Transcription des séances.md",
     "WildSea/L'équipage/L'équipage.md",
     "WildSea/L'équipage/Aphirae.md",
-    "WildSea/L'équipage/Munera.md",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md.REMOTE",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md.LOCAL",
     "Table de méléagant - La Reine Dragon/Résumé de campagne.md.BASE",
